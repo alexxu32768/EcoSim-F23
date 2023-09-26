@@ -2,8 +2,7 @@
 class SimulationParams():
     def __init__(self):
         self.simulationLength = 25
-        self.simluationSpeed = 800
-        
+        self.simulationSpeed = 800
 
 class MapParams():
     def __init__(self):

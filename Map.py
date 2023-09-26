@@ -34,32 +34,16 @@ class Map:
         self.animalID = 0
         self.map = [[Tile() for i in range(self.sizeX)]
                     for j in range(self.sizeY)]
-        self.riverMaker()
-        self.riverMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-
-        self.riverMaker()
-        self.riverMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-
-        self.riverMaker()
-        self.riverMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
-        self.pondMaker()
+        
+        for i in range(3):
+            self.riverMaker()
+            self.riverMaker()
+            self.pondMaker()
+            self.pondMaker()
+            self.pondMaker()
+            self.pondMaker()
+            self.pondMaker()
+            self.pondMaker()
 
         #self.create_graph()
 

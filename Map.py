@@ -195,11 +195,13 @@ class Map:
 
         return freeTiles
 
-    def createPredator(self, loc):
+    def createPredator(self, loc, param = None):
         # loc is pass in as "x, y"
+        if param is None:
+            param = self.predatorParams
         x = loc[0]
         y = loc[1]
-        newPred = Predator(self.predatorParams, self.sizeX, self.sizeY, x, y,
+        newPred = Predator(param, self.sizeX, self.sizeY, x, y,
                            self.animalID)
         self.IDtoAnimal[self.animalID] = newPred
         self.IDtoLoc[self.animalID] = loc
@@ -215,11 +217,13 @@ class Map:
 
         return
 
-    def createPrey(self, loc):
+    def createPrey(self, loc, param = None):
+        if param is None:
+            param = self.preyParams
         x = loc[0]
         y = loc[1]
 
-        newPrey = Prey(self.preyParams, self.sizeX, self.sizeY, x, y,
+        newPrey = Prey(param, self.sizeX, self.sizeY, x, y,
                        self.animalID)
         self.IDtoLoc[self.animalID] = loc
         self.IDtoAnimal[self.animalID] = newPrey

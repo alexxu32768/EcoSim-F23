@@ -53,7 +53,7 @@ class Predator(Animal):
         super().__init__(predatorParams)
 
     def eatPrey(self, surroundings):
-        # a list of preys
+        # list of action the animal want to take
         actionList = []
         # nearbyFood is coordinate of nearest plant
         nearbyPrey = surroundings.getNearbyPrey()

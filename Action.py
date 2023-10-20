@@ -61,6 +61,7 @@ class ReproduceAction(Action):
         self.birthLocation = (0, 0)
         self.partnerLocation = (0, 0)
         self.animalType = None
+        self.animalParams = None # parameters of parent(s)
 
     def setBirthLocation(self, birthLocation):
         self.birthLocation = birthLocation

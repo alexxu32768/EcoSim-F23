@@ -98,8 +98,7 @@ class Animal:
         for loc in nearbyWater:
             if (max(abs(loc[0] - self.positionX), abs(loc[1] - self.positionY))
                     <= 1):
-                self.currWater += (self.animalParams.thirstDecreasePercentage *
-                                   self.maxWater)
+                self.currWater += self.animalParams.thirstDecreaseAmount
                 # returns the coordinate of the water
                 drinkAction = DrinkAction()
                 actionList.append(drinkAction)
@@ -115,10 +114,8 @@ class Animal:
         return actionList
 
     def checkIsFertile(self):
-        if self.currFood < (
-                self.maxFood * self.animalParams.minReproductiveHunger
-        ) or self.currWater < (
-                self.maxWater * self.animalParams.minReproductiveThirst
+        if self.currFood < (self.animalParams.minReproductiveHunger
+        ) or self.currWater < (self.animalParams.minReproductiveThirst
         ) or self.age < self.animalParams.minReproductiveAge or self.reprDelay < self.animalParams.reproductiveDelay:  #changed from 0.5
             self.isFertile = 0
         else:

@@ -21,12 +21,12 @@ predatorParams.reproductiveDelay = 15
 predatorParams.waterSearchRadius = 5
 predatorParams.foodSearchRadius = 5
 predatorParams.reproductiveSearchRadius = 30
-predatorParams.hungerIncreasePercentage = 0.03
-predatorParams.thirstIncreasePercentage = 0.03
-predatorParams.hungerDecreasePercentage = 0.50
-predatorParams.thirstDecreasePercentage = 0.50
-predatorParams.minReproductiveHunger = .50
-predatorParams.minReproductiveThirst = .50
+predatorParams.hungerIncreaseAmount = 3
+predatorParams.thirstIncreaseAmount = 3
+predatorParams.hungerDecreaseAmount = 50
+predatorParams.thirstDecreaseAmount = 50
+predatorParams.minReproductiveHunger = 50
+predatorParams.minReproductiveThirst = 50
 
 preyParams = AnimalParams()
 preyParams.maxFood = 100
@@ -37,12 +37,12 @@ preyParams.waterSearchRadius = 15
 preyParams.foodSearchRadius = 15
 preyParams.reproductiveSearchRadius = 15
 preyParams.predatorSearchRadius = 6
-preyParams.hungerIncreasePercentage = 0.03
-preyParams.thirstIncreasePercentage = 0.03
-preyParams.hungerDecreasePercentage = 0.50
-preyParams.thirstDecreasePercentage = 0.50
-preyParams.minReproductiveHunger = 0.50
-preyParams.minReproductiveThirst = 0.50
+preyParams.hungerIncreaseAmount = 3
+preyParams.thirstIncreaseAmount = 3
+preyParams.hungerDecreaseAmount = 50
+preyParams.thirstDecreaseAmount = 50
+preyParams.minReproductiveHunger = 50
+preyParams.minReproductiveThirst = 50
 
 simulation = Simulation(simulationParams, mapParams, predatorParams,
                         preyParams)

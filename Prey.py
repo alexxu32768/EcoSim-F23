@@ -21,20 +21,19 @@ class Prey(Animal):
                  animalID=None):
 
         self.maxFood = preyParams.maxFood
-        self.currFood = 20
-
+        self.currFood = self.maxFood * .25
         self.maxWater = preyParams.maxWater
-        self.currWater = self.maxWater
+        self.currWater = self.maxWater * .75
 
         self.minReproductiveAge = preyParams.minReproductiveAge
         self.reproductiveDelay = preyParams.reproductiveDelay
         self.waterSearchRadius = preyParams.waterSearchRadius
         self.foodSearchRadius = preyParams.foodSearchRadius
         self.reproductiveSearchRadius = preyParams.reproductiveSearchRadius
-        self.hungerIncreasePercentage = preyParams.hungerIncreasePercentage
-        self.thirstIncreasePercentage = preyParams.thirstIncreasePercentage
-        self.hungerDecreasePercentage = preyParams.hungerDecreasePercentage
-        self.thirstDecreasePercentage = preyParams.thirstDecreasePercentage
+        self.hungerIncreaseAmount = preyParams.hungerIncreaseAmount
+        self.thirstIncreaseAmount = preyParams.thirstIncreaseAmount
+        self.hungerDecreaseAmount = preyParams.hungerDecreaseAmount
+        self.thirstDecreaseAmount = preyParams.thirstDecreaseAmount
 
         self.isFemale = random.choice([0, 1])
         self.isPrey = 1
@@ -64,7 +63,8 @@ class Prey(Animal):
             #eat plant if location is found adjacent to the animal
             if (max(abs(loc[0] - self.positionX), abs(loc[1] - self.positionY))
                     <= 1):
-                self.currFood += (self.hungerDecreasePercentage * self.maxFood)
+                # not capped rn, but animals only eat when they are sufficiently hungry
+                self.currFood += self.hungerDecreaseAmount
                 # returns the coordinate of the water
                 eatAction = EatAction()
                 eatAction.setFoodType("plant")
@@ -108,8 +108,8 @@ class Prey(Animal):
         #print(self.currFood)
         # make use_resource function: use food and water (small amts) for any action; call it here
 
-        self.currWater -= self.maxWater * self.thirstIncreasePercentage
-        self.currFood -= self.maxFood * self.hungerIncreasePercentage
+        self.currWater -= self.thirstIncreaseAmount
+        self.currFood -= self.hungerIncreaseAmount
         currentActionList = []
 
         self.checkState()  #check if it is alive

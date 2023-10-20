@@ -22,10 +22,10 @@ class AnimalParams():
         self.waterSearchRadius = 2
         self.foodSearchRadius = 2
         self.reproductiveSearchRadius = 2
-        self.hungerIncreasePercentage = .03
-        self.thirstIncreasePercentage = .03
-        self.hungerDecreasePercentage = .25
-        self.thirstDecreasePercentage = .25
-        self.minReproductiveHunger = .50
-        self.minReproductiveThirst = .50
+        self.hungerIncreaseAmount = 3
+        self.thirstIncreaseAmount = 3
+        self.hungerDecreaseAmount = 25
+        self.thirstDecreaseAmount = 25
+        self.minReproductiveHunger = 50
+        self.minReproductiveThirst = 50
         

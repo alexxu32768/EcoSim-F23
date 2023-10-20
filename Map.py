@@ -141,6 +141,7 @@ class Map:
         remainPrey = self.mapParams.numStartingPrey
         remainTile = self.sizeX * self.sizeY
         quit = False
+        # numpy random may have a more efficient implementation, but this works
         for i in range(self.sizeX):
             for j in range(self.sizeY):
                 if self.map[j][i].hasWater:
@@ -168,6 +169,8 @@ class Map:
         self.nextOrder = []
         return
 
+    '''
+    # not called yet; what is self.loc?
     def initializeExactNum(self, freeTiles):
         for i in range(self.mapParams.numStartingPredators):
             if not freeTiles:
@@ -185,6 +188,8 @@ class Map:
 
         self.currentOrder = copy.deepcopy(self.nextOrder)
         self.nextOrder = []
+    '''
+
 
     def getFreeTiles(self):
         freeTiles = []

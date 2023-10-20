@@ -20,20 +20,21 @@ class Predator(Animal):
                  positionY=None,
                  animalID=None):
 
+        # hardcoded percentage for initial curr
         self.maxFood = predatorParams.maxFood
-        self.currFood = 20
+        self.currFood = self.maxFood * .25
         self.maxWater = predatorParams.maxWater
-        self.currWater = self.maxWater
+        self.currWater = self.maxWater * .75
 
         self.minReproductiveAge = predatorParams.minReproductiveAge
         self.reproductiveDelay = predatorParams.reproductiveDelay
         self.waterSearchRadius = predatorParams.waterSearchRadius
         self.foodSearchRadius = predatorParams.foodSearchRadius
         self.reproductiveSearchRadius = predatorParams.reproductiveSearchRadius
-        self.hungerIncreasePercentage = predatorParams.hungerIncreasePercentage
-        self.thirstIncreasePercentage = predatorParams.thirstIncreasePercentage
-        self.hungerDecreasePercentage = predatorParams.hungerDecreasePercentage
-        self.thirstDecreasePercentage = predatorParams.thirstDecreasePercentage
+        self.hungerIncreaseAmount = predatorParams.hungerIncreaseAmount
+        self.thirstIncreaseAmount = predatorParams.thirstIncreaseAmount
+        self.hungerDecreaseAmount = predatorParams.hungerDecreaseAmount
+        self.thirstDecreaseAmount = predatorParams.thirstDecreaseAmount
 
         self.isFemale = random.choice([0, 1])
         self.isPrey = 0
@@ -65,7 +66,7 @@ class Predator(Animal):
             #eat plant if location is found adjacent to the animal
             if (max(abs(loc[0] - self.positionX), abs(loc[1] - self.positionY))
                     <= 1):
-                self.currFood += (self.thirstDecreasePercentage * self.maxFood)
+                self.currFood += self.hungerDecreaseAmount
                 # returns the coordinate of the water
                 eatAction = EatAction()
                 eatAction.setFoodType("animal")
@@ -104,16 +105,17 @@ class Predator(Animal):
             self.reprDelay = 0
             return actionList
 
+    # action is deterministic, thresholds are also hardcoded
     def predReact(self, animalSr):
         # make use_resource function: use food and water (small amts) for any action; call it here
 
-        # food and water will decrease by 10% no matter what
-        self.currWater -= self.maxWater * self.thirstIncreasePercentage
-        self.currFood -= self.maxFood * self.hungerIncreasePercentage
+        # food and water will decrease by a constant amount no matter what
+        self.currWater -= self.thirstIncreaseAmount
+        self.currFood -= self.hungerIncreaseAmount
         currentActionList = []
 
         self.checkState()  #check if it is alive
-        # #self.tempReact()
+        # self.tempReact()
         if not self.alive:
             dieAction = DieAction()
             currentActionList.append(dieAction)

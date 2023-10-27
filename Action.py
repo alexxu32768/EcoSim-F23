@@ -1,3 +1,5 @@
+import random 
+
 class Action:
 
     def __init__(self, actionType=None):
@@ -59,6 +61,7 @@ class ReproduceAction(Action):
     def __init__(self):
         self.type = "reproduce"
         self.birthLocation = (0, 0)
+        self.selfLocation = (0, 0)
         self.partnerLocation = (0, 0)
         self.animalType = None
         self.animalParams = None # parameters of parent(s)
@@ -68,6 +71,9 @@ class ReproduceAction(Action):
 
     def setAnimalType(self, animalType):
         self.animalType = animalType
+    
+    def setSelfLocation(self, selfLocation):
+        self.selfLocation = selfLocation
 
     def setPartnerLocation(self, partnerLocation):
         self.partnerLocation = partnerLocation

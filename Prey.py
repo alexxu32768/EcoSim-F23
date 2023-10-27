@@ -97,7 +97,9 @@ class Prey(Animal):
             if not openTiles:
                 return []
             reproduceAction.setBirthLocation(random.choice(openTiles))
+
             reproduceAction.setPartnerLocation(i)
+            reproduceAction.setSelfLocation((self.positionX, self.positionY))
 
             actionList.append(reproduceAction)
 

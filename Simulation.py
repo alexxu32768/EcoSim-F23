@@ -31,6 +31,11 @@ class Simulation():
         self.visualization = Visualization(self.mapSize)
 
     def simulationLoop(self, t):
+        # TESTING
+        maxFoodTotal = 0
+        animalCount = 0
+        diedCount = 0
+
         # Map.get_next_animal() -> either animal object or None
 
         animal = self.map.getNextAnimal()
@@ -86,10 +91,21 @@ class Simulation():
 
                 elif (action.type == "reproduce"):
                     #print("Animal born at " + str(action.birthLocation))
-                    if animalObj.isPrey:
-                        self.map.createPrey(action.birthLocation)
+                    # set parameters of new animal
+                    whichParent = random.randint(0, 1)
+                    if whichParent == 0:
+                        newParams = self.map.locToAnimal(action.selfLocation).animalParams
                     else:
-                        self.map.createPredator(action.birthLocation)
+                        newParams = self.map.locToAnimal(action.partnerLocation).animalParams
+                    
+                    # randomization (PLACEHOLDER)
+                    newParams.maxFood = max(newParams.maxFood + random.randint(-25, 25), 0)
+                    # print("new animal has max food ", newParams.maxFood)
+ 
+                    if animalObj.isPrey:
+                        self.map.createPrey(action.birthLocation, newParams)
+                    else:
+                        self.map.createPredator(action.birthLocation, newParams)
 
                     self.map.locToAnimal(
                         action.partnerLocation).resetReprDelay()
@@ -112,10 +128,19 @@ class Simulation():
             animalObj.reprDelay += 1
 
             #end of animal loop
+            if(animalObj.alive == True):
+                maxFoodTotal = maxFoodTotal + animalObj.animalParams.maxFood
+                animalCount = animalCount + 1
+            else:
+                diedCount = diedCount + 1
+
             animal = self.map.getNextAnimal()
 
         #Food
         self.map.generatePlants()
+
+        print(animalCount, "animals with average maxFood: ", maxFoodTotal/max(0.1, animalCount))
+        print("animals died:", diedCount)
 
     def visualize(self):
         animalMap = []

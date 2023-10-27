@@ -9,7 +9,6 @@ from Action import ReproduceAction
 from Action import DrinkAction
 from AnimalParams import SimulationParams, MapParams, AnimalParams
 
-
 class Predator(Animal):
 
     def __init__(self,
@@ -22,7 +21,7 @@ class Predator(Animal):
 
         # hardcoded percentage for initial curr
         self.maxFood = predatorParams.maxFood
-        self.currFood = self.maxFood * .25
+        self.currFood = self.maxFood * .25 # may not nec. be an int
         self.maxWater = predatorParams.maxWater
         self.currWater = self.maxWater * .75
 
@@ -98,7 +97,9 @@ class Predator(Animal):
             if not openTiles:
                 return []
             reproduceAction.setBirthLocation(random.choice(openTiles))
+
             reproduceAction.setPartnerLocation(i)
+            reproduceAction.setSelfLocation((self.positionX, self.positionY))
 
             actionList.append(reproduceAction)
 

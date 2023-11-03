@@ -26,6 +26,6 @@ class AnimalParams():
         self.thirstIncreaseAmount = 3
         self.hungerDecreaseAmount = 25
         self.thirstDecreaseAmount = 25
-        self.minReproductiveHunger = 50
+        self.minReproductiveHunger = 50 # currently hardcoded
         self.minReproductiveThirst = 50
         

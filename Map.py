@@ -431,7 +431,7 @@ class Map:
     def getNumPrey(self):
         return self.numPrey
 
-    def createGraph(self):
+    def createGraph(self, averageMaxFood):
         xAxis = []
         for i in range(0, 101):
             if (i % 2 == 0):
@@ -439,6 +439,7 @@ class Map:
 
         plt.plot(self.predatorCount, label="Predator Count")
         plt.plot(self.preyCount, label="Prey Count")
+        plt.plot(averageMaxFood, label="Average Max Food")
         plt.legend(loc="upper left")
         plt.title("Population Distribution")
         plt.xlabel("Time")

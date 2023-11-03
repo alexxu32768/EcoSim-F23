@@ -1,5 +1,10 @@
 from Simulation import Simulation
 from AnimalParams import SimulationParams, MapParams, AnimalParams
+import numpy as np
+import random
+
+random.seed(234432)
+np.random.seed(234432)
 
 simulationParams = SimulationParams()
 simulationParams.simulationLength = 1000

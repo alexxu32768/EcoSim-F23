@@ -29,11 +29,12 @@ class Simulation():
         self.mapSize = (mapParams.sizeX, mapParams.sizeY)
         self.map = Map(self.mapParams, self.predatorParams, self.preyParams)
         self.visualization = Visualization(self.mapSize)
+        self.averageMaxFood = [100] #TODO: Change to map
 
     def simulationLoop(self, t):
         # TESTING
         maxFoodTotal = 0
-        animalCount = 0
+        bornCount = 0
         diedCount = 0
 
         # Map.get_next_animal() -> either animal object or None
@@ -71,6 +72,7 @@ class Simulation():
 
                 if (action.type == "eat"):
                     if action.foodType == "animal":
+                        diedCount = diedCount + 1
 
                         id = self.map.map[action.foodLocation[1]][
                             action.foodLocation[0]].animalID
@@ -90,6 +92,7 @@ class Simulation():
                     #position x, position y
 
                 elif (action.type == "reproduce"):
+                    bornCount = bornCount + 1
                     #print("Animal born at " + str(action.birthLocation))
                     # set parameters of new animal
                     whichParent = random.randint(0, 1)
@@ -99,7 +102,7 @@ class Simulation():
                         newParams = self.map.locToAnimal(action.partnerLocation).animalParams
                     
                     # randomization (PLACEHOLDER)
-                    newParams.maxFood = max(newParams.maxFood + random.randint(-25, 25), 0)
+                    newParams.maxFood = max(newParams.maxFood + np.random.normal(0,5), 0)
                     # print("new animal has max food ", newParams.maxFood)
  
                     if animalObj.isPrey:
@@ -128,10 +131,7 @@ class Simulation():
             animalObj.reprDelay += 1
 
             #end of animal loop
-            if(animalObj.alive == True):
-                maxFoodTotal = maxFoodTotal + animalObj.animalParams.maxFood
-                animalCount = animalCount + 1
-            else:
+            if(animalObj.alive == False):
                 diedCount = diedCount + 1
 
             animal = self.map.getNextAnimal()
@@ -139,8 +139,14 @@ class Simulation():
         #Food
         self.map.generatePlants()
 
-        print(animalCount, "animals with average maxFood: ", maxFoodTotal/max(0.1, animalCount))
+        # print stats
         print("animals died:", diedCount)
+        print("animals born:", bornCount)
+        for a in self.map.currentOrder:
+            maxFoodTotal = maxFoodTotal + self.map.convertIDtoAnimal(a).maxFood
+        print(len(self.map.currentOrder), "animals with average maxFood: ", maxFoodTotal/max(0.1, len(self.map.currentOrder)))
+        self.averageMaxFood.append(maxFoodTotal/max(0.1, len(self.map.currentOrder)))
+
 
     def visualize(self):
         animalMap = []
@@ -191,4 +197,4 @@ class Simulation():
                 if event.type == pygame.QUIT:
                     pygame.quit()
 
-        self.map.createGraph()
+        self.map.createGraph(self.averageMaxFood)

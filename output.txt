@@ -1,0 +1,3002 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+animals died: 19
+animals born: 0
+194 animals with average maxFood:  100.0
+animals died: 6
+animals born: 0
+188 animals with average maxFood:  100.0
+animals died: 5
+animals born: 0
+183 animals with average maxFood:  100.0
+animals died: 3
+animals born: 0
+180 animals with average maxFood:  100.0
+animals died: 6
+animals born: 0
+174 animals with average maxFood:  100.0
+animals died: 10
+animals born: 0
+164 animals with average maxFood:  100.0
+animals died: 5
+animals born: 0
+159 animals with average maxFood:  100.0
+animals died: 12
+animals born: 0
+147 animals with average maxFood:  100.0
+animals died: 19
+animals born: 0
+128 animals with average maxFood:  100.0
+animals died: 4
+animals born: 0
+124 animals with average maxFood:  100.0
+animals died: 3
+animals born: 25
+146 animals with average maxFood:  99.26821942507972
+animals died: 1
+animals born: 1
+146 animals with average maxFood:  99.21325037766957
+animals died: 3
+animals born: 2
+145 animals with average maxFood:  99.12986824164798
+animals died: 2
+animals born: 0
+143 animals with average maxFood:  99.117698566706
+animals died: 2
+animals born: 0
+141 animals with average maxFood:  99.10518365275857
+animals died: 1
+animals born: 17
+157 animals with average maxFood:  99.19654806543019
+animals died: 3
+animals born: 0
+154 animals with average maxFood:  99.22956908681755
+animals died: 3
+animals born: 1
+152 animals with average maxFood:  99.20344417940544
+animals died: 2
+animals born: 0
+150 animals with average maxFood:  99.22360352822658
+animals died: 3
+animals born: 6
+153 animals with average maxFood:  98.8707920682017
+animals died: 3
+animals born: 18
+168 animals with average maxFood:  98.05691662766483
+animals died: 9
+animals born: 5
+164 animals with average maxFood:  97.86836417794663
+animals died: 9
+animals born: 2
+157 animals with average maxFood:  97.69746171605199
+animals died: 5
+animals born: 1
+153 animals with average maxFood:  97.61159154723387
+animals died: 14
+animals born: 0
+139 animals with average maxFood:  97.43282273867158
+animals died: 3
+animals born: 1
+137 animals with average maxFood:  97.52824720039554
+animals died: 3
+animals born: 3
+137 animals with average maxFood:  97.50149203763098
+animals died: 5
+animals born: 1
+133 animals with average maxFood:  97.41359939580371
+animals died: 0
+animals born: 0
+133 animals with average maxFood:  97.41359939580371
+animals died: 1
+animals born: 3
+135 animals with average maxFood:  97.26742584717131
+animals died: 1
+animals born: 29
+163 animals with average maxFood:  96.46365050785485
+animals died: 7
+animals born: 6
+162 animals with average maxFood:  96.2065045827695
+animals died: 1
+animals born: 4
+165 animals with average maxFood:  95.95246870316905
+animals died: 0
+animals born: 2
+167 animals with average maxFood:  95.80157040480483
+animals died: 5
+animals born: 0
+162 animals with average maxFood:  95.86587072257407
+animals died: 1
+animals born: 1
+162 animals with average maxFood:  95.78926227285058
+animals died: 3
+animals born: 0
+159 animals with average maxFood:  95.81499717971137
+animals died: 6
+animals born: 2
+155 animals with average maxFood:  95.76796596512648
+animals died: 8
+animals born: 0
+147 animals with average maxFood:  96.03537551411743
+animals died: 10
+animals born: 3
+140 animals with average maxFood:  95.99186806235055
+animals died: 2
+animals born: 9
+147 animals with average maxFood:  95.4862096967169
+animals died: 14
+animals born: 8
+141 animals with average maxFood:  94.49456618915356
+animals died: 2
+animals born: 2
+141 animals with average maxFood:  94.34598880535114
+animals died: 1
+animals born: 3
+143 animals with average maxFood:  94.19886377125088
+animals died: 4
+animals born: 1
+140 animals with average maxFood:  94.18898373177818
+animals died: 2
+animals born: 7
+145 animals with average maxFood:  94.00180022663844
+animals died: 2
+animals born: 4
+147 animals with average maxFood:  93.9081140914535
+animals died: 4
+animals born: 3
+146 animals with average maxFood:  93.84870371009204
+animals died: 1
+animals born: 1
+146 animals with average maxFood:  93.82502443399282
+animals died: 1
+animals born: 4
+149 animals with average maxFood:  93.65567684815093
+animals died: 0
+animals born: 5
+154 animals with average maxFood:  93.37978548387484
+animals died: 1
+animals born: 12
+165 animals with average maxFood:  92.66337570072098
+animals died: 4
+animals born: 2
+163 animals with average maxFood:  92.52657720371195
+animals died: 6
+animals born: 4
+161 animals with average maxFood:  92.30482184210304
+animals died: 7
+animals born: 2
+156 animals with average maxFood:  92.30013097763447
+animals died: 14
+animals born: 1
+143 animals with average maxFood:  92.49486691665433
+animals died: 4
+animals born: 2
+141 animals with average maxFood:  92.40690401138373
+animals died: 6
+animals born: 2
+137 animals with average maxFood:  92.00112365904154
+animals died: 12
+animals born: 0
+125 animals with average maxFood:  91.35922134120209
+animals died: 1
+animals born: 5
+129 animals with average maxFood:  91.2727654856262
+animals died: 0
+animals born: 9
+138 animals with average maxFood:  91.01476650706522
+animals died: 2
+animals born: 14
+150 animals with average maxFood:  90.64887471388276
+animals died: 4
+animals born: 6
+152 animals with average maxFood:  90.62111076109986
+animals died: 2
+animals born: 3
+153 animals with average maxFood:  90.55619036994024
+animals died: 2
+animals born: 3
+154 animals with average maxFood:  90.44922402044196
+animals died: 1
+animals born: 3
+156 animals with average maxFood:  90.3840820344581
+animals died: 3
+animals born: 2
+155 animals with average maxFood:  90.40647514225903
+animals died: 3
+animals born: 1
+153 animals with average maxFood:  90.46828838008344
+animals died: 7
+animals born: 0
+146 animals with average maxFood:  90.59878200730775
+animals died: 5
+animals born: 5
+146 animals with average maxFood:  90.48857385038312
+animals died: 6
+animals born: 2
+142 animals with average maxFood:  90.37500027744701
+animals died: 11
+animals born: 11
+142 animals with average maxFood:  90.51088424086758
+animals died: 4
+animals born: 5
+143 animals with average maxFood:  90.43396402962705
+animals died: 2
+animals born: 4
+145 animals with average maxFood:  90.3672823697819
+animals died: 9
+animals born: 2
+138 animals with average maxFood:  90.11484825219775
+animals died: 2
+animals born: 6
+142 animals with average maxFood:  89.8614345926262
+animals died: 5
+animals born: 7
+144 animals with average maxFood:  89.5239822207952
+animals died: 3
+animals born: 2
+143 animals with average maxFood:  89.38013353953187
+animals died: 3
+animals born: 1
+141 animals with average maxFood:  89.31960344824088
+animals died: 4
+animals born: 4
+141 animals with average maxFood:  89.1131501723728
+animals died: 2
+animals born: 3
+142 animals with average maxFood:  89.08707199726418
+animals died: 4
+animals born: 12
+150 animals with average maxFood:  88.77381896941895
+animals died: 3
+animals born: 5
+152 animals with average maxFood:  88.5838924355434
+animals died: 6
+animals born: 5
+151 animals with average maxFood:  88.53285143018955
+animals died: 3
+animals born: 1
+149 animals with average maxFood:  88.49138947913933
+animals died: 7
+animals born: 1
+143 animals with average maxFood:  88.53704733551751
+animals died: 8
+animals born: 2
+137 animals with average maxFood:  88.5964362776483
+animals died: 4
+animals born: 1
+134 animals with average maxFood:  88.58260359018483
+animals died: 5
+animals born: 0
+129 animals with average maxFood:  88.70554809593017
+animals died: 6
+animals born: 0
+123 animals with average maxFood:  88.80520709093604
+animals died: 3
+animals born: 3
+123 animals with average maxFood:  88.57525389345993
+animals died: 7
+animals born: 12
+128 animals with average maxFood:  87.57803332364156
+animals died: 2
+animals born: 6
+132 animals with average maxFood:  87.30726359636105
+animals died: 4
+animals born: 5
+133 animals with average maxFood:  87.30929574959636
+animals died: 2
+animals born: 2
+133 animals with average maxFood:  87.15863560409332
+animals died: 2
+animals born: 2
+133 animals with average maxFood:  87.09009305511589
+animals died: 1
+animals born: 0
+132 animals with average maxFood:  87.11981293743051
+animals died: 0
+animals born: 2
+134 animals with average maxFood:  87.02875305973753
+animals died: 5
+animals born: 0
+129 animals with average maxFood:  87.13268245401886
+animals died: 6
+animals born: 1
+124 animals with average maxFood:  87.12433303085069
+animals died: 5
+animals born: 2
+121 animals with average maxFood:  87.18826895460587
+animals died: 4
+animals born: 2
+119 animals with average maxFood:  87.16176405616316
+animals died: 6
+animals born: 3
+116 animals with average maxFood:  87.11536971709242
+animals died: 6
+animals born: 5
+115 animals with average maxFood:  87.0843720922869
+animals died: 4
+animals born: 2
+113 animals with average maxFood:  86.99419672332544
+animals died: 3
+animals born: 1
+111 animals with average maxFood:  86.9268101696453
+animals died: 3
+animals born: 2
+110 animals with average maxFood:  86.932727878951
+animals died: 4
+animals born: 4
+110 animals with average maxFood:  86.68944465374129
+animals died: 8
+animals born: 1
+103 animals with average maxFood:  86.08148893756871
+animals died: 2
+animals born: 1
+102 animals with average maxFood:  86.04362596641023
+animals died: 1
+animals born: 1
+102 animals with average maxFood:  86.08268685453771
+animals died: 4
+animals born: 1
+99 animals with average maxFood:  86.06812843246628
+animals died: 1
+animals born: 1
+99 animals with average maxFood:  86.03971322779977
+animals died: 2
+animals born: 5
+102 animals with average maxFood:  85.80604880733061
+animals died: 4
+animals born: 3
+101 animals with average maxFood:  85.79613356930497
+animals died: 3
+animals born: 2
+100 animals with average maxFood:  85.72497874579118
+animals died: 6
+animals born: 0
+94 animals with average maxFood:  85.9592736240186
+animals died: 2
+animals born: 1
+93 animals with average maxFood:  85.94229400295067
+animals died: 5
+animals born: 1
+89 animals with average maxFood:  86.06439718226599
+animals died: 3
+animals born: 0
+86 animals with average maxFood:  86.1416559990723
+animals died: 4
+animals born: 1
+83 animals with average maxFood:  86.2758977604736
+animals died: 8
+animals born: 1
+76 animals with average maxFood:  86.20050534734777
+animals died: 2
+animals born: 3
+77 animals with average maxFood:  86.10666143572654
+animals died: 2
+animals born: 5
+80 animals with average maxFood:  85.88671798898278
+animals died: 11
+animals born: 5
+74 animals with average maxFood:  84.44283937567495
+animals died: 1
+animals born: 0
+73 animals with average maxFood:  84.48027248442227
+animals died: 1
+animals born: 0
+72 animals with average maxFood:  84.49542129101476
+animals died: 1
+animals born: 0
+71 animals with average maxFood:  84.50961130092959
+animals died: 2
+animals born: 0
+69 animals with average maxFood:  84.59366376343324
+animals died: 3
+animals born: 1
+67 animals with average maxFood:  84.62806181968863
+animals died: 3
+animals born: 0
+64 animals with average maxFood:  84.83307953705662
+animals died: 4
+animals born: 1
+61 animals with average maxFood:  85.16022810972537
+animals died: 1
+animals born: 1
+61 animals with average maxFood:  85.18178983763728
+animals died: 2
+animals born: 3
+62 animals with average maxFood:  85.06762134904218
+animals died: 2
+animals born: 5
+65 animals with average maxFood:  84.93801341718267
+animals died: 2
+animals born: 0
+63 animals with average maxFood:  84.80298414626968
+animals died: 4
+animals born: 0
+59 animals with average maxFood:  84.74886648250839
+animals died: 2
+animals born: 1
+58 animals with average maxFood:  84.6379395648935
+animals died: 3
+animals born: 0
+55 animals with average maxFood:  84.38773145253904
+animals died: 4
+animals born: 0
+51 animals with average maxFood:  84.54553808282084
+animals died: 1
+animals born: 2
+52 animals with average maxFood:  84.09602890382823
+animals died: 6
+animals born: 2
+48 animals with average maxFood:  84.0364243231022
+animals died: 1
+animals born: 2
+49 animals with average maxFood:  84.04617037555532
+animals died: 2
+animals born: 0
+47 animals with average maxFood:  84.26029973854214
+animals died: 2
+animals born: 4
+49 animals with average maxFood:  84.08768957289448
+animals died: 1
+animals born: 1
+49 animals with average maxFood:  83.96888318890377
+animals died: 2
+animals born: 0
+47 animals with average maxFood:  83.99485328115091
+animals died: 3
+animals born: 0
+44 animals with average maxFood:  84.17371108074656
+animals died: 1
+animals born: 1
+44 animals with average maxFood:  84.15855495063448
+animals died: 2
+animals born: 0
+42 animals with average maxFood:  84.15897332096245
+animals died: 1
+animals born: 0
+41 animals with average maxFood:  84.18865813115711
+animals died: 2
+animals born: 1
+40 animals with average maxFood:  83.97227294385007
+animals died: 1
+animals born: 1
+40 animals with average maxFood:  83.97189424988734
+animals died: 3
+animals born: 1
+38 animals with average maxFood:  84.026570582246
+animals died: 2
+animals born: 1
+37 animals with average maxFood:  84.28341349977849
+animals died: 1
+animals born: 0
+36 animals with average maxFood:  84.076136076861
+animals died: 0
+animals born: 1
+37 animals with average maxFood:  83.9674720151551
+animals died: 1
+animals born: 0
+36 animals with average maxFood:  84.129126115543
+animals died: 4
+animals born: 1
+33 animals with average maxFood:  83.04624812061938
+animals died: 0
+animals born: 0
+33 animals with average maxFood:  83.04624812061938
+animals died: 0
+animals born: 0
+33 animals with average maxFood:  83.04624812061938
+animals died: 0
+animals born: 0
+33 animals with average maxFood:  83.04624812061938
+animals died: 0
+animals born: 1
+34 animals with average maxFood:  82.97334564480347
+animals died: 1
+animals born: 1
+34 animals with average maxFood:  83.16755565309316
+animals died: 2
+animals born: 1
+33 animals with average maxFood:  83.41794724646694
+animals died: 3
+animals born: 0
+30 animals with average maxFood:  83.6122160272905
+animals died: 2
+animals born: 0
+28 animals with average maxFood:  83.61646688290918
+animals died: 0
+animals born: 0
+28 animals with average maxFood:  83.61646688290918
+animals died: 3
+animals born: 0
+25 animals with average maxFood:  83.79444041304312
+animals died: 1
+animals born: 0
+24 animals with average maxFood:  83.76960762370275
+animals died: 1
+animals born: 0
+23 animals with average maxFood:  83.6591606772331
+animals died: 0
+animals born: 1
+24 animals with average maxFood:  83.62789498928747
+animals died: 2
+animals born: 0
+22 animals with average maxFood:  82.99579076085539
+animals died: 2
+animals born: 0
+20 animals with average maxFood:  83.08480158251928
+animals died: 1
+animals born: 0
+19 animals with average maxFood:  82.19452798159924
+animals died: 0
+animals born: 0
+19 animals with average maxFood:  82.19452798159924
+animals died: 0
+animals born: 1
+20 animals with average maxFood:  82.2217364327746
+animals died: 1
+animals born: 0
+19 animals with average maxFood:  82.0033091945204
+animals died: 0
+animals born: 0
+19 animals with average maxFood:  82.0033091945204
+animals died: 0
+animals born: 0
+19 animals with average maxFood:  82.0033091945204
+animals died: 1
+animals born: 0
+18 animals with average maxFood:  81.97456784593726
+animals died: 1
+animals born: 1
+18 animals with average maxFood:  82.09602357611266
+animals died: 0
+animals born: 0
+18 animals with average maxFood:  82.09602357611266
+animals died: 1
+animals born: 0
+17 animals with average maxFood:  82.05821925676007
+animals died: 2
+animals born: 0
+15 animals with average maxFood:  82.46422506114001
+animals died: 1
+animals born: 1
+15 animals with average maxFood:  82.8105199721743
+animals died: 0
+animals born: 0
+15 animals with average maxFood:  82.8105199721743
+animals died: 0
+animals born: 0
+15 animals with average maxFood:  82.8105199721743
+animals died: 1
+animals born: 0
+14 animals with average maxFood:  83.06949466678236
+animals died: 1
+animals born: 0
+13 animals with average maxFood:  83.08876925117626
+animals died: 1
+animals born: 0
+12 animals with average maxFood:  83.06758697229132
+animals died: 0
+animals born: 0
+12 animals with average maxFood:  83.06758697229132
+animals died: 0
+animals born: 0
+12 animals with average maxFood:  83.06758697229132
+animals died: 0
+animals born: 0
+12 animals with average maxFood:  83.06758697229132
+animals died: 0
+animals born: 0
+12 animals with average maxFood:  83.06758697229132
+animals died: 1
+animals born: 0
+11 animals with average maxFood:  83.0820235909962
+animals died: 0
+animals born: 1
+12 animals with average maxFood:  83.22383663314595
+animals died: 1
+animals born: 0
+11 animals with average maxFood:  83.49157584485914
+animals died: 1
+animals born: 0
+10 animals with average maxFood:  83.83819893517052
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  83.83819893517052
+animals died: 1
+animals born: 0
+9 animals with average maxFood:  84.08140136305026
+animals died: 0
+animals born: 0
+9 animals with average maxFood:  84.08140136305026
+animals died: 0
+animals born: 0
+9 animals with average maxFood:  84.08140136305026
+animals died: 1
+animals born: 0
+8 animals with average maxFood:  84.52063104057174
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.52063104057174
+animals died: 1
+animals born: 0
+7 animals with average maxFood:  84.4830383182544
+animals died: 0
+animals born: 1
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  84.76374076395408
+animals died: 0
+animals born: 1
+9 animals with average maxFood:  84.81426219557996
+animals died: 0
+animals born: 1
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 0
+animals born: 0
+10 animals with average maxFood:  84.90435166028574
+animals died: 1
+animals born: 0
+9 animals with average maxFood:  84.87251125321397
+animals died: 0
+animals born: 1
+10 animals with average maxFood:  84.87247315377515
+animals died: 0
+animals born: 1
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 0
+11 animals with average maxFood:  84.93468981401669
+animals died: 0
+animals born: 1
+12 animals with average maxFood:  84.84138477792924
+animals died: 0
+animals born: 0
+12 animals with average maxFood:  84.84138477792924
+animals died: 0
+animals born: 2
+14 animals with average maxFood:  84.71652070785366
+animals died: 1
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  84.77129697844688
+animals died: 0
+animals born: 1
+14 animals with average maxFood:  84.67736643576771
+animals died: 0
+animals born: 1
+15 animals with average maxFood:  84.68180362159174
+animals died: 0
+animals born: 2
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 0
+animals born: 0
+17 animals with average maxFood:  84.78850258182574
+animals died: 1
+animals born: 3
+19 animals with average maxFood:  84.88231914601104
+animals died: 0
+animals born: 2
+21 animals with average maxFood:  85.13961789221818
+animals died: 0
+animals born: 1
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 0
+22 animals with average maxFood:  85.29464149950189
+animals died: 0
+animals born: 1
+23 animals with average maxFood:  85.476204624909
+animals died: 0
+animals born: 3
+26 animals with average maxFood:  86.08008975319642
+animals died: 0
+animals born: 2
+28 animals with average maxFood:  86.50559319495741
+animals died: 0
+animals born: 2
+30 animals with average maxFood:  86.86789289211852
+animals died: 0
+animals born: 0
+30 animals with average maxFood:  86.86789289211852
+animals died: 0
+animals born: 0
+30 animals with average maxFood:  86.86789289211852
+animals died: 1
+animals born: 0
+29 animals with average maxFood:  86.90914866553106
+animals died: 0
+animals born: 0
+29 animals with average maxFood:  86.90914866553106
+animals died: 0
+animals born: 0
+29 animals with average maxFood:  86.90914866553106
+animals died: 0
+animals born: 0
+29 animals with average maxFood:  86.90914866553106
+animals died: 0
+animals born: 1
+30 animals with average maxFood:  87.1500560466885
+animals died: 0
+animals born: 5
+35 animals with average maxFood:  88.48984856907742
+animals died: 0
+animals born: 3
+38 animals with average maxFood:  89.31632006281056
+animals died: 0
+animals born: 2
+40 animals with average maxFood:  89.69727985883287
+animals died: 0
+animals born: 1
+41 animals with average maxFood:  89.81705283248951
+animals died: 0
+animals born: 0
+41 animals with average maxFood:  89.81705283248951
+animals died: 0
+animals born: 0
+41 animals with average maxFood:  89.81705283248951
+animals died: 0
+animals born: 0
+41 animals with average maxFood:  89.81705283248951
+animals died: 0
+animals born: 0
+41 animals with average maxFood:  89.81705283248951
+animals died: 0
+animals born: 0
+41 animals with average maxFood:  89.81705283248951
+animals died: 1
+animals born: 1
+41 animals with average maxFood:  89.74313576000827
+animals died: 0
+animals born: 5
+46 animals with average maxFood:  90.51888625990625
+animals died: 0
+animals born: 5
+51 animals with average maxFood:  91.12532819471059
+animals died: 1
+animals born: 4
+54 animals with average maxFood:  91.63586861466723
+animals died: 0
+animals born: 2
+56 animals with average maxFood:  91.957736213815
+animals died: 0
+animals born: 0
+56 animals with average maxFood:  91.957736213815
+animals died: 0
+animals born: 0
+56 animals with average maxFood:  91.957736213815
+animals died: 1
+animals born: 0
+55 animals with average maxFood:  91.95059241432604
+animals died: 0
+animals born: 0
+55 animals with average maxFood:  91.95059241432604
+animals died: 0
+animals born: 0
+55 animals with average maxFood:  91.95059241432604
+animals died: 0
+animals born: 1
+56 animals with average maxFood:  92.08517786962709
+animals died: 0
+animals born: 5
+61 animals with average maxFood:  92.8592344234932
+animals died: 0
+animals born: 6
+67 animals with average maxFood:  93.5088114234938
+animals died: 0
+animals born: 6
+73 animals with average maxFood:  94.14702914438847
+animals died: 0
+animals born: 4
+77 animals with average maxFood:  94.43208215402751
+animals died: 0
+animals born: 1
+78 animals with average maxFood:  94.49007057918962
+animals died: 0
+animals born: 0
+78 animals with average maxFood:  94.49007057918962
+animals died: 0
+animals born: 0
+78 animals with average maxFood:  94.49007057918962
+animals died: 0
+animals born: 0
+78 animals with average maxFood:  94.49007057918962
+animals died: 1
+animals born: 0
+77 animals with average maxFood:  94.42517048396891
+animals died: 2
+animals born: 2
+77 animals with average maxFood:  94.28248779532969
+animals died: 1
+animals born: 3
+79 animals with average maxFood:  94.15413552836587
+animals died: 1
+animals born: 9
+87 animals with average maxFood:  93.95315069787291
+animals died: 0
+animals born: 8
+95 animals with average maxFood:  93.99738810608831
+animals died: 0
+animals born: 5
+100 animals with average maxFood:  94.0080887886048
+animals died: 0
+animals born: 1
+101 animals with average maxFood:  94.00629215462006
+animals died: 0
+animals born: 0
+101 animals with average maxFood:  94.00629215462006
+animals died: 0
+animals born: 0
+101 animals with average maxFood:  94.00629215462006
+animals died: 0
+animals born: 0
+101 animals with average maxFood:  94.00629215462006
+animals died: 0
+animals born: 0
+101 animals with average maxFood:  94.00629215462006
+animals died: 4
+animals born: 3
+100 animals with average maxFood:  94.09467955295929
+animals died: 1
+animals born: 5
+104 animals with average maxFood:  94.07853643271166
+animals died: 1
+animals born: 11
+114 animals with average maxFood:  93.97406969889262
+animals died: 0
+animals born: 7
+121 animals with average maxFood:  93.99062131894314
+animals died: 1
+animals born: 7
+127 animals with average maxFood:  94.03371568781297
+animals died: 0
+animals born: 3
+130 animals with average maxFood:  94.03352564200995
+animals died: 2
+animals born: 1
+129 animals with average maxFood:  94.07532504908451
+animals died: 0
+animals born: 0
+129 animals with average maxFood:  94.07532504908451
+animals died: 0
+animals born: 1
+130 animals with average maxFood:  94.08393974736693
+animals died: 3
+animals born: 0
+127 animals with average maxFood:  94.06137667715295
+animals died: 1
+animals born: 2
+128 animals with average maxFood:  94.07665421935242
+animals died: 2
+animals born: 6
+132 animals with average maxFood:  94.24831377936366
+animals died: 1
+animals born: 11
+142 animals with average maxFood:  94.66080462596345
+animals died: 2
+animals born: 7
+147 animals with average maxFood:  95.1392456594326
+animals died: 3
+animals born: 9
+153 animals with average maxFood:  95.53954278176406
+animals died: 0
+animals born: 7
+160 animals with average maxFood:  95.7751677506449
+animals died: 0
+animals born: 3
+163 animals with average maxFood:  95.79840748516169
+animals died: 0
+animals born: 0
+163 animals with average maxFood:  95.79840748516169
+animals died: 2
+animals born: 2
+163 animals with average maxFood:  95.80869242539963
+animals died: 1
+animals born: 0
+162 animals with average maxFood:  95.81509794028194
+animals died: 0
+animals born: 2
+164 animals with average maxFood:  95.82344514104558
+animals died: 3
+animals born: 4
+165 animals with average maxFood:  95.81023074071788
+animals died: 2
+animals born: 14
+177 animals with average maxFood:  95.9906530665438
+animals died: 4
+animals born: 9
+182 animals with average maxFood:  96.03006378467876
+animals died: 2
+animals born: 12
+192 animals with average maxFood:  95.93619449958436
+animals died: 4
+animals born: 10
+198 animals with average maxFood:  96.01638089836914
+animals died: 0
+animals born: 6
+204 animals with average maxFood:  96.05210567035148
+animals died: 1
+animals born: 1
+204 animals with average maxFood:  96.07780327666268
+animals died: 0
+animals born: 2
+206 animals with average maxFood:  96.10726308016945
+animals died: 0
+animals born: 2
+208 animals with average maxFood:  96.15199263729147
+animals died: 4
+animals born: 3
+207 animals with average maxFood:  96.18642840033378
+animals died: 3
+animals born: 7
+211 animals with average maxFood:  96.23646812876389
+animals died: 5
+animals born: 7
+213 animals with average maxFood:  96.20164610657561
+animals died: 2
+animals born: 12
+223 animals with average maxFood:  96.08010877442642
+animals died: 2
+animals born: 18
+239 animals with average maxFood:  95.83297378006898
+animals died: 4
+animals born: 9
+244 animals with average maxFood:  95.6948691545801
+animals died: 4
+animals born: 8
+248 animals with average maxFood:  95.64225343082751
+animals died: 1
+animals born: 2
+249 animals with average maxFood:  95.63328911911842
+animals died: 1
+animals born: 3
+251 animals with average maxFood:  95.57242422349204
+animals died: 1
+animals born: 3
+253 animals with average maxFood:  95.5022556488655
+animals died: 6
+animals born: 4
+251 animals with average maxFood:  95.4005094761824
+animals died: 4
+animals born: 8
+255 animals with average maxFood:  95.34387663499508
+animals died: 4
+animals born: 7
+258 animals with average maxFood:  95.28309292739928
+animals died: 6
+animals born: 17
+269 animals with average maxFood:  95.03742221588853
+animals died: 6
+animals born: 14
+277 animals with average maxFood:  94.91350157495894
+animals died: 4
+animals born: 16
+289 animals with average maxFood:  94.8132002824545
+animals died: 1
+animals born: 9
+297 animals with average maxFood:  94.80345351758764
+animals died: 3
+animals born: 5
+299 animals with average maxFood:  94.83635585094937
+animals died: 2
+animals born: 2
+299 animals with average maxFood:  94.83845344300167
+animals died: 4
+animals born: 4
+299 animals with average maxFood:  94.89487227108192
+animals died: 5
+animals born: 5
+299 animals with average maxFood:  94.97613627411914
+animals died: 4
+animals born: 6
+301 animals with average maxFood:  95.09561315790104
+animals died: 4
+animals born: 5
+302 animals with average maxFood:  95.2617962546821
+animals died: 4
+animals born: 18
+316 animals with average maxFood:  95.57056374587508
+animals died: 4
+animals born: 21
+333 animals with average maxFood:  95.76466342865493
+animals died: 2
+animals born: 16
+347 animals with average maxFood:  96.10255244444458
+animals died: 6
+animals born: 19
+360 animals with average maxFood:  96.46674353826958
+animals died: 2
+animals born: 7
+365 animals with average maxFood:  96.52803592747198
+animals died: 4
+animals born: 4
+365 animals with average maxFood:  96.58606773574763
+animals died: 6
+animals born: 6
+365 animals with average maxFood:  96.66317772433717
+animals died: 6
+animals born: 7
+366 animals with average maxFood:  96.75482112517955
+animals died: 4
+animals born: 6
+368 animals with average maxFood:  96.83070102129902
+animals died: 9
+animals born: 6
+365 animals with average maxFood:  96.87060202969442
+animals died: 6
+animals born: 13
+372 animals with average maxFood:  96.97596571317744
+animals died: 7
+animals born: 23
+388 animals with average maxFood:  96.92296840975003
+animals died: 8
+animals born: 25
+405 animals with average maxFood:  96.56157296004446
+animals died: 6
+animals born: 21
+420 animals with average maxFood:  96.5566102142808
+animals died: 3
+animals born: 8
+425 animals with average maxFood:  96.64625472090694
+animals died: 2
+animals born: 8
+431 animals with average maxFood:  96.66154133057742
+animals died: 5
+animals born: 9
+435 animals with average maxFood:  96.66456966834839
+animals died: 4
+animals born: 3
+434 animals with average maxFood:  96.63804061713556
+animals died: 0
+animals born: 11
+445 animals with average maxFood:  96.57284836175602
+animals died: 11
+animals born: 10
+444 animals with average maxFood:  96.48157305138297
+animals died: 19
+animals born: 12
+437 animals with average maxFood:  96.50117269731562
+animals died: 4
+animals born: 24
+457 animals with average maxFood:  96.62843391102659
+animals died: 6
+animals born: 28
+479 animals with average maxFood:  96.86663044781825
+animals died: 5
+animals born: 22
+496 animals with average maxFood:  96.78608487530477
+animals died: 4
+animals born: 13
+505 animals with average maxFood:  96.70993828474555
+animals died: 5
+animals born: 4
+504 animals with average maxFood:  96.6819525726265
+animals died: 7
+animals born: 15
+512 animals with average maxFood:  96.65587963676396
+animals died: 6
+animals born: 4
+510 animals with average maxFood:  96.66744358694329
+animals died: 8
+animals born: 15
+517 animals with average maxFood:  96.80800139574458
+animals died: 2
+animals born: 10
+525 animals with average maxFood:  96.86585464830465
+animals died: 14
+animals born: 15
+526 animals with average maxFood:  97.02002164363911
+animals died: 26
+animals born: 20
+520 animals with average maxFood:  97.15100879220327
+animals died: 8
+animals born: 25
+537 animals with average maxFood:  96.81281030360837
+animals died: 4
+animals born: 24
+557 animals with average maxFood:  96.6773447475261
+animals died: 10
+animals born: 17
+564 animals with average maxFood:  96.70768379944383
+animals died: 8
+animals born: 15
+571 animals with average maxFood:  96.86698781068978
+animals died: 1
+animals born: 8
+578 animals with average maxFood:  96.94005666371832
+animals died: 11
+animals born: 6
+573 animals with average maxFood:  96.97370003462555
+animals died: 10
+animals born: 12
+575 animals with average maxFood:  97.07643380772058
+animals died: 8
+animals born: 15
+582 animals with average maxFood:  97.06098170065748
+animals died: 13
+animals born: 16
+585 animals with average maxFood:  96.95911912088006
+animals died: 15
+animals born: 23
+593 animals with average maxFood:  96.80110404873687
+animals died: 8
+animals born: 19
+604 animals with average maxFood:  96.85869778109125
+animals died: 4
+animals born: 24
+624 animals with average maxFood:  96.9815846920595
+animals died: 7
+animals born: 17
+634 animals with average maxFood:  96.87771114323756
+animals died: 13
+animals born: 23
+644 animals with average maxFood:  96.94598722131974
+animals died: 7
+animals born: 9
+646 animals with average maxFood:  96.97581917684994
+animals died: 10
+animals born: 7
+643 animals with average maxFood:  97.00140540198404
+animals died: 18
+animals born: 12
+637 animals with average maxFood:  97.29586658026766
+animals died: 10
+animals born: 14
+641 animals with average maxFood:  97.6819835773451
+animals died: 9
+animals born: 17
+649 animals with average maxFood:  98.15042700513106
+animals died: 10
+animals born: 31
+670 animals with average maxFood:  98.67419397085243
+animals died: 20
+animals born: 26
+676 animals with average maxFood:  99.09067008942849
+animals died: 7
+animals born: 27
+696 animals with average maxFood:  99.60663183454692
+animals died: 15
+animals born: 20
+701 animals with average maxFood:  100.05923280994863
+animals died: 14
+animals born: 21
+708 animals with average maxFood:  100.57658885411001
+animals died: 5
+animals born: 15
+718 animals with average maxFood:  101.00555352708544
+animals died: 9
+animals born: 10
+719 animals with average maxFood:  101.32798372123139
+animals died: 8
+animals born: 13
+724 animals with average maxFood:  101.66286183240261
+animals died: 9
+animals born: 12
+727 animals with average maxFood:  102.00178819006929
+animals died: 8
+animals born: 30
+749 animals with average maxFood:  102.78012859831864
+animals died: 17
+animals born: 24
+756 animals with average maxFood:  103.2337203913238
+animals died: 12
+animals born: 30
+774 animals with average maxFood:  104.1599106991792
+animals died: 17
+animals born: 27
+784 animals with average maxFood:  105.06219168240902
+animals died: 19
+animals born: 16
+781 animals with average maxFood:  105.52420200584129
+animals died: 26
+animals born: 23
+778 animals with average maxFood:  106.05993971769293
+animals died: 10
+animals born: 20
+788 animals with average maxFood:  106.73538568472628
+animals died: 7
+animals born: 15
+796 animals with average maxFood:  107.16315329085498
+animals died: 11
+animals born: 9
+794 animals with average maxFood:  107.38633831895915
+animals died: 5
+animals born: 18
+807 animals with average maxFood:  107.97799810651665
+animals died: 19
+animals born: 23
+811 animals with average maxFood:  108.63129795324495
+animals died: 19
+animals born: 32
+824 animals with average maxFood:  109.1479700426079
+animals died: 8
+animals born: 31
+847 animals with average maxFood:  109.66140028318452
+animals died: 23
+animals born: 34
+858 animals with average maxFood:  110.05665050555565
+animals died: 13
+animals born: 27
+872 animals with average maxFood:  110.43987397820167
+animals died: 17
+animals born: 18
+873 animals with average maxFood:  110.43168600222945
+animals died: 19
+animals born: 28
+882 animals with average maxFood:  110.33378359516949
+animals died: 19
+animals born: 12
+875 animals with average maxFood:  110.29099626770748
+animals died: 9
+animals born: 18
+884 animals with average maxFood:  110.31519085971436
+animals died: 8
+animals born: 16
+892 animals with average maxFood:  110.41272732954121
+animals died: 12
+animals born: 21
+901 animals with average maxFood:  110.87333428209112
+animals died: 34
+animals born: 26
+893 animals with average maxFood:  111.09411995455588
+animals died: 20
+animals born: 31
+904 animals with average maxFood:  111.6133125575238
+animals died: 15
+animals born: 30
+919 animals with average maxFood:  112.3247021958461
+animals died: 16
+animals born: 33
+936 animals with average maxFood:  113.38262994333839
+animals died: 23
+animals born: 21
+934 animals with average maxFood:  114.14989968907794
+animals died: 19
+animals born: 26
+941 animals with average maxFood:  115.0648377512338
+animals died: 17
+animals born: 17
+941 animals with average maxFood:  115.64936891443377
+animals died: 16
+animals born: 22
+947 animals with average maxFood:  116.2903507538495
+animals died: 12
+animals born: 20
+955 animals with average maxFood:  116.89231501688866
+animals died: 17
+animals born: 14
+952 animals with average maxFood:  117.5240163379766
+animals died: 13
+animals born: 26
+965 animals with average maxFood:  117.94800459006447
+animals died: 25
+animals born: 36
+976 animals with average maxFood:  118.36975582231331
+animals died: 18
+animals born: 26
+984 animals with average maxFood:  118.74571423992441
+animals died: 18
+animals born: 30
+996 animals with average maxFood:  119.0064576345102
+animals died: 26
+animals born: 31
+1001 animals with average maxFood:  119.25852799739687
+animals died: 34
+animals born: 23
+990 animals with average maxFood:  119.51980174835897
+animals died: 11
+animals born: 20
+999 animals with average maxFood:  119.80056151943242
+animals died: 30
+animals born: 12
+981 animals with average maxFood:  119.46964463416737
+animals died: 14
+animals born: 18
+985 animals with average maxFood:  119.31065856163404
+animals died: 17
+animals born: 17
+985 animals with average maxFood:  119.12021789152833
+animals died: 19
+animals born: 25
+991 animals with average maxFood:  119.11627418073721
+animals died: 35
+animals born: 23
+979 animals with average maxFood:  119.19591582595085
+animals died: 38
+animals born: 30
+971 animals with average maxFood:  119.34129792315122
+animals died: 28
+animals born: 23
+966 animals with average maxFood:  119.57368117995584
+animals died: 20
+animals born: 35
+981 animals with average maxFood:  119.81105379696957
+animals died: 25
+animals born: 30
+986 animals with average maxFood:  119.92507241971077
+animals died: 30
+animals born: 16
+972 animals with average maxFood:  119.9318282763754
+animals died: 31
+animals born: 16
+957 animals with average maxFood:  119.80658368444773
+animals died: 30
+animals born: 14
+941 animals with average maxFood:  119.88801569785714
+animals died: 24
+animals born: 20
+937 animals with average maxFood:  119.98505282194168
+animals died: 20
+animals born: 13
+930 animals with average maxFood:  120.1677990374457
+animals died: 29
+animals born: 22
+923 animals with average maxFood:  120.1439563089708
+animals died: 22
+animals born: 28
+929 animals with average maxFood:  119.89244588641141
+animals died: 32
+animals born: 26
+923 animals with average maxFood:  119.74690258409368
+animals died: 30
+animals born: 32
+925 animals with average maxFood:  119.62541740166034
+animals died: 39
+animals born: 21
+907 animals with average maxFood:  119.34383961657458
+animals died: 20
+animals born: 22
+909 animals with average maxFood:  119.34550537023925
+animals died: 17
+animals born: 10
+902 animals with average maxFood:  119.36950048449519
+animals died: 27
+animals born: 20
+895 animals with average maxFood:  119.31491443474538
+animals died: 24
+animals born: 15
+886 animals with average maxFood:  119.42360525904483
+animals died: 26
+animals born: 15
+875 animals with average maxFood:  119.49955830239477
+animals died: 28
+animals born: 23
+870 animals with average maxFood:  119.63112685151685
+animals died: 25
+animals born: 22
+867 animals with average maxFood:  119.6307888904097
+animals died: 20
+animals born: 28
+875 animals with average maxFood:  119.310669694019
+animals died: 34
+animals born: 24
+865 animals with average maxFood:  118.85736482687707
+animals died: 20
+animals born: 21
+866 animals with average maxFood:  118.58956472769755
+animals died: 27
+animals born: 16
+855 animals with average maxFood:  118.35556225883967
+animals died: 19
+animals born: 16
+852 animals with average maxFood:  117.97574369889142
+animals died: 11
+animals born: 22
+863 animals with average maxFood:  117.6992965534623
+animals died: 17
+animals born: 17
+863 animals with average maxFood:  117.40698822696153
+animals died: 23
+animals born: 15
+855 animals with average maxFood:  117.32448649938276
+animals died: 22
+animals born: 20
+853 animals with average maxFood:  117.01495900368076
+animals died: 44
+animals born: 17
+826 animals with average maxFood:  116.8498521996306
+animals died: 31
+animals born: 22
+817 animals with average maxFood:  116.74099497467142
+animals died: 20
+animals born: 30
+827 animals with average maxFood:  116.36360747676588
+animals died: 16
+animals born: 23
+834 animals with average maxFood:  115.90302052857153
+animals died: 24
+animals born: 22
+832 animals with average maxFood:  115.31336476155356
+animals died: 20
+animals born: 13
+825 animals with average maxFood:  114.96680933251062
+animals died: 18
+animals born: 21
+828 animals with average maxFood:  114.57739671826299
+animals died: 36
+animals born: 19
+811 animals with average maxFood:  114.40217995751368
+animals died: 18
+animals born: 18
+811 animals with average maxFood:  114.10155130618979
+animals died: 20
+animals born: 17
+808 animals with average maxFood:  113.98392779080292
+animals died: 23
+animals born: 17
+802 animals with average maxFood:  113.7872919623389
+animals died: 33
+animals born: 17
+786 animals with average maxFood:  113.89875216238212
+animals died: 22
+animals born: 21
+785 animals with average maxFood:  113.77114494343297
+animals died: 20
+animals born: 26
+791 animals with average maxFood:  113.39003549129713
+animals died: 18
+animals born: 24
+797 animals with average maxFood:  113.1277089503284
+animals died: 23
+animals born: 16
+790 animals with average maxFood:  112.90866919110842
+animals died: 25
+animals born: 15
+780 animals with average maxFood:  112.81679880124094
+animals died: 22
+animals born: 20
+778 animals with average maxFood:  112.53680033830886
+animals died: 24
+animals born: 19
+773 animals with average maxFood:  112.30839096257222
+animals died: 23
+animals born: 11
+761 animals with average maxFood:  112.23751239806693
+animals died: 19
+animals born: 11
+753 animals with average maxFood:  112.07907919368192
+animals died: 20
+animals born: 18
+751 animals with average maxFood:  111.8362948248031
+animals died: 23
+animals born: 19
+747 animals with average maxFood:  111.76184798896183
+animals died: 27
+animals born: 28
+748 animals with average maxFood:  111.85501938819277
+animals died: 16
+animals born: 26
+758 animals with average maxFood:  112.08406025473484
+animals died: 21
+animals born: 16
+753 animals with average maxFood:  112.32060663307198
+animals died: 29
+animals born: 19
+743 animals with average maxFood:  112.69431948021632
+animals died: 24
+animals born: 10
+729 animals with average maxFood:  112.80546646722784
+animals died: 20
+animals born: 25
+734 animals with average maxFood:  113.04909349676133
+animals died: 13
+animals born: 9
+730 animals with average maxFood:  113.20090882340304
+animals died: 17
+animals born: 13
+726 animals with average maxFood:  113.3376405084255
+animals died: 14
+animals born: 15
+727 animals with average maxFood:  113.53685545962557
+animals died: 19
+animals born: 17
+725 animals with average maxFood:  113.75474645640557
+animals died: 23
+animals born: 18
+720 animals with average maxFood:  113.95148411918586
+animals died: 23
+animals born: 25
+722 animals with average maxFood:  114.37516906568987
+animals died: 15
+animals born: 20
+727 animals with average maxFood:  114.60215732481451
+animals died: 26
+animals born: 18
+719 animals with average maxFood:  114.95358983063389
+animals died: 14
+animals born: 13
+718 animals with average maxFood:  115.18487526341863
+animals died: 26
+animals born: 15
+707 animals with average maxFood:  115.56587202176618
+animals died: 19
+animals born: 14
+702 animals with average maxFood:  115.89831224795607
+animals died: 16
+animals born: 7
+693 animals with average maxFood:  116.029131958426
+animals died: 10
+animals born: 19
+702 animals with average maxFood:  116.39495017383166
+animals died: 21
+animals born: 12
+693 animals with average maxFood:  116.58315835748998
+animals died: 14
+animals born: 18
+697 animals with average maxFood:  116.75275814147282
+animals died: 21
+animals born: 27
+703 animals with average maxFood:  117.2021583431353
+animals died: 15
+animals born: 22
+710 animals with average maxFood:  117.65427382709356
+animals died: 20
+animals born: 22
+712 animals with average maxFood:  117.83574884314652
+animals died: 17
+animals born: 16
+711 animals with average maxFood:  117.99525954622075
+animals died: 20
+animals born: 12
+703 animals with average maxFood:  118.06549316466173
+animals died: 15
+animals born: 16
+704 animals with average maxFood:  118.40303767045144
+animals died: 17
+animals born: 14
+701 animals with average maxFood:  118.54864590648728
+animals died: 11
+animals born: 11
+701 animals with average maxFood:  118.7406180926251
+animals died: 23
+animals born: 11
+689 animals with average maxFood:  118.72877647551701
+animals died: 14
+animals born: 13
+688 animals with average maxFood:  118.94915673151951
+animals died: 18
+animals born: 22
+692 animals with average maxFood:  119.0824222969923
+animals died: 20
+animals born: 23
+695 animals with average maxFood:  119.26108260675574
+animals died: 19
+animals born: 14
+690 animals with average maxFood:  119.22666044227759
+animals died: 22
+animals born: 15
+683 animals with average maxFood:  119.28070988989523
+animals died: 16
+animals born: 14
+681 animals with average maxFood:  119.36025680907572
+animals died: 21
+animals born: 17
+677 animals with average maxFood:  119.3575249751363
+animals died: 23
+animals born: 17
+671 animals with average maxFood:  119.27019823402719
+animals died: 13
+animals born: 12
+670 animals with average maxFood:  119.26838724509847
+animals died: 13
+animals born: 6
+663 animals with average maxFood:  119.35190394808431
+animals died: 18
+animals born: 14
+659 animals with average maxFood:  119.28636684032195
+animals died: 13
+animals born: 19
+665 animals with average maxFood:  119.00044528471382
+animals died: 28
+animals born: 28
+665 animals with average maxFood:  118.76062772716516
+animals died: 25
+animals born: 11
+651 animals with average maxFood:  118.55717828315065
+animals died: 32
+animals born: 14
+633 animals with average maxFood:  118.28200984626305
+animals died: 14
+animals born: 10
+629 animals with average maxFood:  118.12692146613466
+animals died: 20
+animals born: 16
+625 animals with average maxFood:  117.9799856114707
+animals died: 19
+animals born: 14
+620 animals with average maxFood:  117.72181564991011
+animals died: 14
+animals born: 15
+621 animals with average maxFood:  117.41878936450654
+animals died: 18
+animals born: 11
+614 animals with average maxFood:  117.09339451075945
+animals died: 23
+animals born: 11
+602 animals with average maxFood:  116.68437594180686
+animals died: 12
+animals born: 17
+607 animals with average maxFood:  116.07984429799788
+animals died: 26
+animals born: 19
+600 animals with average maxFood:  115.37339550202967
+animals died: 16
+animals born: 20
+604 animals with average maxFood:  114.57540737074146
+animals died: 16
+animals born: 8
+596 animals with average maxFood:  114.25826426623105
+animals died: 10
+animals born: 16
+602 animals with average maxFood:  113.74132126147522
+animals died: 16
+animals born: 14
+600 animals with average maxFood:  113.26860028129192
+animals died: 23
+animals born: 15
+592 animals with average maxFood:  112.79820328140933
+animals died: 17
+animals born: 14
+589 animals with average maxFood:  112.31761889571041
+animals died: 22
+animals born: 11
+578 animals with average maxFood:  112.14632034457122
+animals died: 10
+animals born: 5
+573 animals with average maxFood:  112.26615237302939
+animals died: 25
+animals born: 13
+561 animals with average maxFood:  112.20937641883967
+animals died: 10
+animals born: 23
+574 animals with average maxFood:  111.4623003693006
+animals died: 18
+animals born: 16
+572 animals with average maxFood:  111.1350153557827
+animals died: 16
+animals born: 9
+565 animals with average maxFood:  110.85487755574778
+animals died: 14
+animals born: 10
+561 animals with average maxFood:  110.64754777367541
+animals died: 19
+animals born: 14
+556 animals with average maxFood:  110.00150448802988
+animals died: 18
+animals born: 15
+553 animals with average maxFood:  109.53982149748043
+animals died: 11
+animals born: 10
+552 animals with average maxFood:  108.96894807450147
+animals died: 16
+animals born: 14
+550 animals with average maxFood:  108.40710528528774
+animals died: 26
+animals born: 9
+533 animals with average maxFood:  108.25910361718778
+animals died: 23
+animals born: 6
+516 animals with average maxFood:  107.99069184887561
+animals died: 23
+animals born: 18
+511 animals with average maxFood:  106.84243558667679
+animals died: 16
+animals born: 14
+509 animals with average maxFood:  106.04817614581471
+animals died: 18
+animals born: 8
+499 animals with average maxFood:  105.82079047317926
+animals died: 27
+animals born: 7
+479 animals with average maxFood:  105.61545859485742
+animals died: 19
+animals born: 12
+472 animals with average maxFood:  104.90239882349049
+animals died: 15
+animals born: 12
+469 animals with average maxFood:  104.18120206786132
+animals died: 12
+animals born: 12
+469 animals with average maxFood:  103.27771471606935
+animals died: 23
+animals born: 14
+460 animals with average maxFood:  102.86344873785853
+animals died: 15
+animals born: 10
+455 animals with average maxFood:  102.49662589440908
+animals died: 15
+animals born: 6
+446 animals with average maxFood:  102.08891867710966
+animals died: 11
+animals born: 10
+445 animals with average maxFood:  101.25012557486401
+animals died: 14
+animals born: 12
+443 animals with average maxFood:  100.68451967891629
+animals died: 21
+animals born: 10
+432 animals with average maxFood:  100.39582888651763
+animals died: 8
+animals born: 8
+432 animals with average maxFood:  100.05662378790096
+animals died: 15
+animals born: 11
+428 animals with average maxFood:  99.40533142942022
+animals died: 15
+animals born: 13
+426 animals with average maxFood:  98.36044703966161
+animals died: 12
+animals born: 10
+424 animals with average maxFood:  97.62083151895634
+animals died: 18
+animals born: 8
+414 animals with average maxFood:  97.08342942416373
+animals died: 11
+animals born: 9
+412 animals with average maxFood:  96.2940140824328
+animals died: 8
+animals born: 5
+409 animals with average maxFood:  95.83399740278166
+animals died: 13
+animals born: 11
+407 animals with average maxFood:  94.61745545356374
+animals died: 17
+animals born: 13
+403 animals with average maxFood:  93.96638364859639
+animals died: 17
+animals born: 6
+392 animals with average maxFood:  93.74893109154262
+animals died: 11
+animals born: 9
+390 animals with average maxFood:  92.77543123855847
+animals died: 9
+animals born: 14
+395 animals with average maxFood:  91.16174548683598
+animals died: 15
+animals born: 9
+389 animals with average maxFood:  90.07389822152746
+animals died: 17
+animals born: 8
+380 animals with average maxFood:  89.13963970968695
+animals died: 12
+animals born: 9
+377 animals with average maxFood:  88.5779554040694
+animals died: 13
+animals born: 6
+370 animals with average maxFood:  88.47003743643228
+animals died: 12
+animals born: 7
+365 animals with average maxFood:  88.31606817175967
+animals died: 11
+animals born: 11
+365 animals with average maxFood:  87.99881465996651
+animals died: 8
+animals born: 11
+368 animals with average maxFood:  87.44833068960062
+animals died: 9
+animals born: 7
+366 animals with average maxFood:  87.19621399715442
+animals died: 9
+animals born: 13
+370 animals with average maxFood:  86.22994929407464
+animals died: 9
+animals born: 9
+370 animals with average maxFood:  85.75487947078406
+animals died: 14
+animals born: 6
+362 animals with average maxFood:  85.60535408744869
+animals died: 11
+animals born: 5
+356 animals with average maxFood:  85.68633596860543
+animals died: 13
+animals born: 6
+349 animals with average maxFood:  85.39531119017471
+animals died: 10
+animals born: 15
+354 animals with average maxFood:  84.55907230319538
+animals died: 10
+animals born: 8
+352 animals with average maxFood:  84.35130861967738
+animals died: 9
+animals born: 7
+350 animals with average maxFood:  84.0408656601531
+animals died: 8
+animals born: 7
+349 animals with average maxFood:  83.7724966031622
+animals died: 9
+animals born: 10
+350 animals with average maxFood:  82.92658113785217
+animals died: 11
+animals born: 12
+351 animals with average maxFood:  81.92898674599962
+animals died: 8
+animals born: 9
+352 animals with average maxFood:  81.28941742304079
+animals died: 11
+animals born: 6
+347 animals with average maxFood:  81.07719804860245
+animals died: 9
+animals born: 3
+341 animals with average maxFood:  80.88529375576381
+animals died: 5
+animals born: 8
+344 animals with average maxFood:  80.24022946535104
+animals died: 11
+animals born: 8
+341 animals with average maxFood:  79.90147069699738
+animals died: 14
+animals born: 9
+336 animals with average maxFood:  79.63454257138991
+animals died: 12
+animals born: 8
+332 animals with average maxFood:  79.4115430964847
+animals died: 8
+animals born: 7
+331 animals with average maxFood:  79.16198275984331
+animals died: 7
+animals born: 8
+332 animals with average maxFood:  79.04525041471946
+animals died: 16
+animals born: 12
+328 animals with average maxFood:  78.77516422888218
+animals died: 8
+animals born: 8
+328 animals with average maxFood:  78.42428255505405
+animals died: 12
+animals born: 8
+324 animals with average maxFood:  78.01895553549599
+animals died: 7
+animals born: 7
+324 animals with average maxFood:  77.53066074582217
+animals died: 5
+animals born: 6
+325 animals with average maxFood:  77.23214430844523
+animals died: 11
+animals born: 10
+324 animals with average maxFood:  76.34910772267497
+animals died: 18
+animals born: 7
+313 animals with average maxFood:  75.93548078800664
+animals died: 5
+animals born: 5
+313 animals with average maxFood:  75.4831730095485
+animals died: 5
+animals born: 10
+318 animals with average maxFood:  75.27080802912306
+animals died: 10
+animals born: 7
+315 animals with average maxFood:  75.34370609502687
+animals died: 7
+animals born: 11
+319 animals with average maxFood:  75.36500473022465
+animals died: 13
+animals born: 4
+310 animals with average maxFood:  75.3378599263538
+animals died: 2
+animals born: 5
+313 animals with average maxFood:  75.36112799514562
+animals died: 4
+animals born: 8
+317 animals with average maxFood:  75.3006901876393
+animals died: 8
+animals born: 8
+317 animals with average maxFood:  74.96104262815759
+animals died: 3
+animals born: 10
+324 animals with average maxFood:  74.89088219293302
+animals died: 5
+animals born: 1
+320 animals with average maxFood:  74.9931528262773
+animals died: 8
+animals born: 5
+317 animals with average maxFood:  75.19760339085438
+animals died: 7
+animals born: 12
+322 animals with average maxFood:  75.14206902593747
+animals died: 12
+animals born: 9
+319 animals with average maxFood:  75.02292345229557
+animals died: 9
+animals born: 5
+315 animals with average maxFood:  75.11617180804068
+animals died: 9
+animals born: 9
+315 animals with average maxFood:  74.83113469520818
+animals died: 5
+animals born: 4
+314 animals with average maxFood:  74.85047235065176
+animals died: 10
+animals born: 8
+312 animals with average maxFood:  74.77113859451508
+animals died: 12
+animals born: 7
+307 animals with average maxFood:  74.83897298488158
+animals died: 13
+animals born: 6
+300 animals with average maxFood:  74.98791287859127
+animals died: 11
+animals born: 6
+295 animals with average maxFood:  74.48114870157534
+animals died: 9
+animals born: 7
+293 animals with average maxFood:  74.53718044842324
+animals died: 8
+animals born: 6
+291 animals with average maxFood:  74.54425955768828
+animals died: 6
+animals born: 6
+291 animals with average maxFood:  74.34808436580386
+animals died: 3
+animals born: 8
+296 animals with average maxFood:  73.56825227295191
+animals died: 12
+animals born: 8
+292 animals with average maxFood:  72.71912888129853
+animals died: 7
+animals born: 4
+289 animals with average maxFood:  72.62404499506778
+animals died: 6
+animals born: 7
+290 animals with average maxFood:  72.05212543525002
+animals died: 7
+animals born: 7
+290 animals with average maxFood:  71.68667944773568
+animals died: 9
+animals born: 7
+288 animals with average maxFood:  71.80873045997107
+animals died: 11
+animals born: 3
+280 animals with average maxFood:  71.88846514794027
+animals died: 7
+animals born: 6
+279 animals with average maxFood:  71.68807597331354
+animals died: 9
+animals born: 5
+275 animals with average maxFood:  71.49672884050898
+animals died: 8
+animals born: 6
+273 animals with average maxFood:  71.44918416692569
+animals died: 12
+animals born: 5
+266 animals with average maxFood:  70.96414364919077
+animals died: 8
+animals born: 6
+264 animals with average maxFood:  70.61583436829504
+animals died: 9
+animals born: 9
+264 animals with average maxFood:  70.42341164231046
+animals died: 8
+animals born: 7
+263 animals with average maxFood:  70.1516446437425
+animals died: 9
+animals born: 2
+256 animals with average maxFood:  70.10364409420781
+animals died: 4
+animals born: 8
+260 animals with average maxFood:  69.79261013948742
+animals died: 6
+animals born: 4
+258 animals with average maxFood:  69.6863154076923
+animals died: 7
+animals born: 6
+257 animals with average maxFood:  69.3784579503649
+animals died: 6
+animals born: 2
+253 animals with average maxFood:  69.25033993114087
+animals died: 4
+animals born: 4
+253 animals with average maxFood:  68.86030579926583
+animals died: 8
+animals born: 8
+253 animals with average maxFood:  68.26472106037006
+animals died: 8
+animals born: 8
+253 animals with average maxFood:  67.63557695268148
+animals died: 6
+animals born: 5
+252 animals with average maxFood:  67.21267832601914
+animals died: 8
+animals born: 8
+252 animals with average maxFood:  65.89809964505349
+animals died: 7
+animals born: 6
+251 animals with average maxFood:  65.3591655771396
+animals died: 6
+animals born: 8
+253 animals with average maxFood:  64.9153659163972
+animals died: 8
+animals born: 6
+251 animals with average maxFood:  64.8749349307291
+animals died: 7
+animals born: 4
+248 animals with average maxFood:  64.91210694962186
+animals died: 9
+animals born: 4
+243 animals with average maxFood:  64.74957285357891
+animals died: 11
+animals born: 6
+238 animals with average maxFood:  64.3736484306561
+animals died: 6
+animals born: 1
+233 animals with average maxFood:  64.5446565056494
+animals died: 5
+animals born: 10
+238 animals with average maxFood:  64.00109857777946
+animals died: 7
+animals born: 4
+235 animals with average maxFood:  64.04547408720548
+animals died: 9
+animals born: 5
+231 animals with average maxFood:  63.751366151782356
+animals died: 1
+animals born: 4
+234 animals with average maxFood:  63.4297082737916
+animals died: 6
+animals born: 5
+233 animals with average maxFood:  63.41447811719539
+animals died: 4
+animals born: 9
+238 animals with average maxFood:  63.035880333801664
+animals died: 10
+animals born: 6
+234 animals with average maxFood:  63.00966560579162
+animals died: 6
+animals born: 3
+231 animals with average maxFood:  62.596171198722104
+animals died: 6
+animals born: 3
+228 animals with average maxFood:  62.82414038699372
+animals died: 9
+animals born: 2
+221 animals with average maxFood:  63.31718580596313
+animals died: 9
+animals born: 5
+217 animals with average maxFood:  62.68712964830901
+animals died: 9
+animals born: 3
+211 animals with average maxFood:  62.82848151099052
+animals died: 4
+animals born: 5
+212 animals with average maxFood:  62.66334236529045
+animals died: 4
+animals born: 3
+211 animals with average maxFood:  62.60123421611126
+animals died: 4
+animals born: 4
+211 animals with average maxFood:  62.431763723152116
+animals died: 8
+animals born: 8
+211 animals with average maxFood:  62.263183059306
+animals died: 12
+animals born: 4
+203 animals with average maxFood:  62.299257307555386
+animals died: 2
+animals born: 5
+206 animals with average maxFood:  62.20445599632716
+animals died: 12
+animals born: 2
+196 animals with average maxFood:  61.64426055753957
+animals died: 6
+animals born: 3
+193 animals with average maxFood:  61.263444772685524
+animals died: 7
+animals born: 1
+187 animals with average maxFood:  61.514443780153584
+animals died: 7
+animals born: 3
+183 animals with average maxFood:  61.62919953833704
+animals died: 7
+animals born: 5
+181 animals with average maxFood:  61.79262628067564
+animals died: 8
+animals born: 6
+179 animals with average maxFood:  61.448208597401816
+animals died: 3
+animals born: 3
+179 animals with average maxFood:  61.519522019441126
+animals died: 4
+animals born: 7
+182 animals with average maxFood:  61.57143288063759
+animals died: 4
+animals born: 5
+183 animals with average maxFood:  61.56737496247681
+animals died: 8
+animals born: 4
+179 animals with average maxFood:  61.41394324175101
+animals died: 2
+animals born: 2
+179 animals with average maxFood:  61.42565355776462
+animals died: 6
+animals born: 3
+176 animals with average maxFood:  61.51454288991506
+animals died: 11
+animals born: 5
+170 animals with average maxFood:  61.43792347009804
+animals died: 3
+animals born: 2
+169 animals with average maxFood:  61.574799644973126
+animals died: 2
+animals born: 3
+170 animals with average maxFood:  61.52347942326069
+animals died: 4
+animals born: 4
+170 animals with average maxFood:  61.09212054208246
+animals died: 3
+animals born: 3
+170 animals with average maxFood:  61.199605809398555
+animals died: 3
+animals born: 5
+172 animals with average maxFood:  60.500503294699506
+animals died: 4
+animals born: 2
+170 animals with average maxFood:  60.47777995686417
+animals died: 4
+animals born: 3
+169 animals with average maxFood:  60.38585362581942
+animals died: 3
+animals born: 4
+170 animals with average maxFood:  60.22399517990913
+animals died: 5
+animals born: 3
+168 animals with average maxFood:  60.08987241834974
+animals died: 6
+animals born: 4
+166 animals with average maxFood:  60.006777305949036
+animals died: 7
+animals born: 0
+159 animals with average maxFood:  59.954990413270295
+animals died: 5
+animals born: 1
+155 animals with average maxFood:  59.805185805239375
+animals died: 3
+animals born: 7
+159 animals with average maxFood:  59.170207204068646
+animals died: 7
+animals born: 3
+155 animals with average maxFood:  59.175718791398694
+animals died: 3
+animals born: 3
+155 animals with average maxFood:  58.99621469941608
+animals died: 4
+animals born: 2
+153 animals with average maxFood:  59.0894612526331
+animals died: 6
+animals born: 5
+152 animals with average maxFood:  59.033215101028325
+animals died: 8
+animals born: 2
+146 animals with average maxFood:  59.08493491208324
+animals died: 8
+animals born: 4
+142 animals with average maxFood:  58.672580049536776
+animals died: 7
+animals born: 2
+137 animals with average maxFood:  57.74671949400095
+animals died: 8
+animals born: 2
+131 animals with average maxFood:  57.70538250140867
+animals died: 4
+animals born: 3
+130 animals with average maxFood:  57.41685519152844
+animals died: 7
+animals born: 3
+126 animals with average maxFood:  57.67945644829189
+animals died: 4
+animals born: 1
+123 animals with average maxFood:  57.92079990981816
+animals died: 3
+animals born: 1
+121 animals with average maxFood:  57.91258172751517
+animals died: 4
+animals born: 4
+121 animals with average maxFood:  57.26215452879189
+animals died: 4
+animals born: 1
+118 animals with average maxFood:  57.256886422579186
+animals died: 0
+animals born: 2
+120 animals with average maxFood:  56.878181359909846
+animals died: 2
+animals born: 3
+121 animals with average maxFood:  56.74225818241317
+animals died: 3
+animals born: 3
+121 animals with average maxFood:  55.90919325999565
+animals died: 5
+animals born: 2
+118 animals with average maxFood:  55.989623338492166
+animals died: 4
+animals born: 2
+116 animals with average maxFood:  56.20633134927788
+animals died: 2
+animals born: 3
+117 animals with average maxFood:  55.96453379520948
+animals died: 6
+animals born: 0
+111 animals with average maxFood:  55.84343814750702
+animals died: 4
+animals born: 0
+107 animals with average maxFood:  56.0022378702474
+animals died: 1
+animals born: 2
+108 animals with average maxFood:  55.65959522208154
+animals died: 8
+animals born: 3
+103 animals with average maxFood:  55.904793322695234
+animals died: 5
+animals born: 2
+100 animals with average maxFood:  55.775865378558464
+animals died: 2
+animals born: 3
+101 animals with average maxFood:  55.31035740652765
+animals died: 4
+animals born: 1
+98 animals with average maxFood:  55.0477338085572
+animals died: 7
+animals born: 3
+94 animals with average maxFood:  54.8285825640631
+animals died: 1
+animals born: 4
+97 animals with average maxFood:  54.137197256707324
+animals died: 2
+animals born: 3
+98 animals with average maxFood:  53.801842394794726
+animals died: 3
+animals born: 2
+97 animals with average maxFood:  53.36712774403684
+animals died: 3
+animals born: 1
+95 animals with average maxFood:  53.59397014070977
+animals died: 3
+animals born: 2
+94 animals with average maxFood:  53.57500255455349
+animals died: 1
+animals born: 0
+93 animals with average maxFood:  53.79423973899871
+animals died: 4
+animals born: 2
+91 animals with average maxFood:  53.37252119669997
+animals died: 0
+animals born: 0
+91 animals with average maxFood:  53.37252119669997
+animals died: 4
+animals born: 2
+89 animals with average maxFood:  52.738066028243075
+animals died: 2
+animals born: 3
+90 animals with average maxFood:  52.286499512227216
+animals died: 0
+animals born: 4
+94 animals with average maxFood:  51.474604147995635
+animals died: 2
+animals born: 3
+95 animals with average maxFood:  50.140390956752974
+animals died: 3
+animals born: 2
+94 animals with average maxFood:  50.270465814422174
+animals died: 2
+animals born: 1
+93 animals with average maxFood:  50.22901210417463
+animals died: 0
+animals born: 1
+94 animals with average maxFood:  50.07453804412824
+animals died: 2
+animals born: 2
+94 animals with average maxFood:  50.052706763702986
+animals died: 2
+animals born: 3
+95 animals with average maxFood:  49.142824721225885
+animals died: 3
+animals born: 2
+94 animals with average maxFood:  48.93479292049289
+animals died: 2
+animals born: 0
+92 animals with average maxFood:  49.273885037842554
+animals died: 3
+animals born: 2
+91 animals with average maxFood:  49.15401484974054
+animals died: 0
+animals born: 2
+93 animals with average maxFood:  48.878678886631775
+animals died: 1
+animals born: 1
+93 animals with average maxFood:  48.84596902555598
+animals died: 2
+animals born: 2
+93 animals with average maxFood:  48.77070869591598
+animals died: 2
+animals born: 0
+91 animals with average maxFood:  48.05430392416231
+animals died: 1
+animals born: 0
+90 animals with average maxFood:  47.98632214669823
+animals died: 2
+animals born: 2
+90 animals with average maxFood:  47.90584192804602
+animals died: 1
+animals born: 4
+93 animals with average maxFood:  46.82487612387933
+animals died: 0
+animals born: 2
+95 animals with average maxFood:  46.55237102677057
+animals died: 5
+animals born: 3
+93 animals with average maxFood:  46.30359812166344
+animals died: 2
+animals born: 2
+93 animals with average maxFood:  46.2213306180089
+animals died: 1
+animals born: 3
+95 animals with average maxFood:  45.825515474579575
+animals died: 8
+animals born: 0
+87 animals with average maxFood:  45.710314019310495
+animals died: 3
+animals born: 2
+86 animals with average maxFood:  45.347907522631836
+animals died: 0
+animals born: 1
+87 animals with average maxFood:  45.21006264747234
+animals died: 3
+animals born: 0
+84 animals with average maxFood:  45.37481893756566
+animals died: 1
+animals born: 2
+85 animals with average maxFood:  45.19476419952159
+animals died: 0
+animals born: 2
+87 animals with average maxFood:  44.832151928332586
+animals died: 4
+animals born: 2
+85 animals with average maxFood:  44.80916558757474
+animals died: 2
+animals born: 1
+84 animals with average maxFood:  44.70690830083858
+animals died: 3
+animals born: 0
+81 animals with average maxFood:  45.22187990392957
+animals died: 1
+animals born: 1
+81 animals with average maxFood:  45.127752896553154
+animals died: 0
+animals born: 1
+82 animals with average maxFood:  44.940649623357835
+animals died: 0
+animals born: 1
+83 animals with average maxFood:  44.79153424085664
+animals died: 4
+animals born: 0
+79 animals with average maxFood:  45.22632064305613
+animals died: 4
+animals born: 3
+78 animals with average maxFood:  44.5772181739476
+animals died: 2
+animals born: 4
+80 animals with average maxFood:  43.75028886041897
+animals died: 1
+animals born: 0
+79 animals with average maxFood:  42.91890507642209
+animals died: 3
+animals born: 1
+77 animals with average maxFood:  42.65388620532177
+animals died: 3
+animals born: 0
+74 animals with average maxFood:  42.93486199793931
+animals died: 0
+animals born: 3
+77 animals with average maxFood:  42.746294339744466
+animals died: 1
+animals born: 3
+79 animals with average maxFood:  42.655138760526214
+animals died: 2
+animals born: 1
+78 animals with average maxFood:  41.73304139950191
+animals died: 3
+animals born: 0
+75 animals with average maxFood:  41.988574176553236
+animals died: 4
+animals born: 2
+73 animals with average maxFood:  42.17214569614425
+animals died: 3
+animals born: 0
+70 animals with average maxFood:  42.22871688557302
+animals died: 1
+animals born: 1
+70 animals with average maxFood:  42.07979160005714
+animals died: 0
+animals born: 0
+70 animals with average maxFood:  42.07979160005714
+animals died: 3
+animals born: 1
+68 animals with average maxFood:  41.68307919843319
+animals died: 1
+animals born: 0
+67 animals with average maxFood:  41.809394855039066
+animals died: 3
+animals born: 0
+64 animals with average maxFood:  41.690364966740106
+animals died: 1
+animals born: 2
+65 animals with average maxFood:  41.382888160420286
+animals died: 1
+animals born: 1
+65 animals with average maxFood:  41.009020869912796
+animals died: 0
+animals born: 2
+67 animals with average maxFood:  40.69442070550037
+animals died: 3
+animals born: 2
+66 animals with average maxFood:  40.81157643714768
+animals died: 1
+animals born: 0
+65 animals with average maxFood:  40.957493885661556
+animals died: 2
+animals born: 1
+64 animals with average maxFood:  41.097171159004205
+animals died: 2
+animals born: 0
+62 animals with average maxFood:  41.440763310359905
+animals died: 0
+animals born: 0
+62 animals with average maxFood:  41.440763310359905
+animals died: 1
+animals born: 1
+62 animals with average maxFood:  41.40182337258822
+animals died: 1
+animals born: 1
+62 animals with average maxFood:  41.35358879455934
+animals died: 2
+animals born: 1
+61 animals with average maxFood:  41.4290221785311
+animals died: 4
+animals born: 0
+57 animals with average maxFood:  41.948736117272084
+animals died: 1
+animals born: 2
+58 animals with average maxFood:  41.186451812668096
+animals died: 3
+animals born: 0
+55 animals with average maxFood:  40.674859679717436
+animals died: 3
+animals born: 0
+52 animals with average maxFood:  40.29359102449423
+animals died: 1
+animals born: 2
+53 animals with average maxFood:  40.26220407735434
+animals died: 3
+animals born: 0
+50 animals with average maxFood:  39.67478076673813
+animals died: 2
+animals born: 1
+49 animals with average maxFood:  39.340047324158306
+animals died: 1
+animals born: 2
+50 animals with average maxFood:  39.28661740979428
+animals died: 1
+animals born: 1
+50 animals with average maxFood:  39.29880655767343
+animals died: 2
+animals born: 0
+48 animals with average maxFood:  38.04598287351872
+animals died: 2
+animals born: 0
+46 animals with average maxFood:  38.249281782823545
+animals died: 0
+animals born: 2
+48 animals with average maxFood:  38.15098619551084
+animals died: 0
+animals born: 1
+49 animals with average maxFood:  38.08747911829838
+animals died: 0
+animals born: 0
+49 animals with average maxFood:  38.08747911829838
+animals died: 0
+animals born: 2
+51 animals with average maxFood:  37.93671965007902
+animals died: 3
+animals born: 0
+48 animals with average maxFood:  36.46114103195449
+animals died: 2
+animals born: 0
+46 animals with average maxFood:  36.47579034641088
+animals died: 1
+animals born: 1
+46 animals with average maxFood:  36.56962859566624
+animals died: 3
+animals born: 1
+44 animals with average maxFood:  36.03322882476837
+animals died: 1
+animals born: 0
+43 animals with average maxFood:  36.1899303573047
+animals died: 0
+animals born: 1
+44 animals with average maxFood:  36.15654671977084
+animals died: 2
+animals born: 1
+43 animals with average maxFood:  35.861461657998966
+animals died: 0
+animals born: 1
+44 animals with average maxFood:  35.88637843226523
+animals died: 1
+animals born: 0
+43 animals with average maxFood:  35.91852226713792
+animals died: 0
+animals born: 1
+44 animals with average maxFood:  35.949666527854255
+animals died: 1
+animals born: 1
+44 animals with average maxFood:  36.048572801820974
+animals died: 1
+animals born: 0
+43 animals with average maxFood:  36.087517277354245
+animals died: 2
+animals born: 3
+44 animals with average maxFood:  35.75641094130054
+animals died: 1
+animals born: 0
+43 animals with average maxFood:  35.88628109501929
+animals died: 0
+animals born: 0
+43 animals with average maxFood:  35.88628109501929
+animals died: 2
+animals born: 0
+41 animals with average maxFood:  35.96908980142996
+animals died: 4
+animals born: 0
+37 animals with average maxFood:  36.06865974458573
+animals died: 1
+animals born: 2
+38 animals with average maxFood:  36.14684160535357
+animals died: 0
+animals born: 0
+38 animals with average maxFood:  36.14684160535357
+animals died: 1
+animals born: 0
+37 animals with average maxFood:  36.20604899721372
+animals died: 1
+animals born: 1
+37 animals with average maxFood:  36.233023057965404
+animals died: 1
+animals born: 2
+38 animals with average maxFood:  36.53754187930823
+animals died: 0
+animals born: 0
+38 animals with average maxFood:  36.53754187930823
+animals died: 0
+animals born: 0
+38 animals with average maxFood:  36.53754187930823
+animals died: 1
+animals born: 1
+38 animals with average maxFood:  36.51407164666548
+animals died: 2
+animals born: 1
+37 animals with average maxFood:  36.480128923215496
+animals died: 1
+animals born: 0
+36 animals with average maxFood:  36.49626881327682
+animals died: 2
+animals born: 1
+35 animals with average maxFood:  36.43068917328882
+animals died: 1
+animals born: 0
+34 animals with average maxFood:  36.41123269086557
+animals died: 1
+animals born: 0
+33 animals with average maxFood:  36.61269287152723
+animals died: 3
+animals born: 0
+30 animals with average maxFood:  36.62152994455162
+animals died: 1
+animals born: 0
+29 animals with average maxFood:  36.76144225726863
+animals died: 0
+animals born: 0
+29 animals with average maxFood:  36.76144225726863
+animals died: 2
+animals born: 0
+27 animals with average maxFood:  36.84791206617327
+animals died: 0
+animals born: 0
+27 animals with average maxFood:  36.84791206617327
+animals died: 0
+animals born: 0
+27 animals with average maxFood:  36.84791206617327
+animals died: 2
+animals born: 0
+25 animals with average maxFood:  36.34964106093051
+animals died: 2
+animals born: 1
+24 animals with average maxFood:  36.247274135242556
+animals died: 0
+animals born: 2
+26 animals with average maxFood:  35.96930711536071
+animals died: 1
+animals born: 0
+25 animals with average maxFood:  36.007401573664986
+animals died: 0
+animals born: 0
+25 animals with average maxFood:  36.007401573664986
+animals died: 2
+animals born: 0
+23 animals with average maxFood:  36.107617304375474
+animals died: 0
+animals born: 0
+23 animals with average maxFood:  36.107617304375474
+animals died: 0
+animals born: 0
+23 animals with average maxFood:  36.107617304375474
+animals died: 1
+animals born: 0
+22 animals with average maxFood:  36.1152763356203
+animals died: 1
+animals born: 0
+21 animals with average maxFood:  36.183403417357795
+animals died: 0
+animals born: 0
+21 animals with average maxFood:  36.183403417357795
+animals died: 0
+animals born: 0
+21 animals with average maxFood:  36.183403417357795
+animals died: 0
+animals born: 1
+22 animals with average maxFood:  35.96378560265185
+animals died: 1
+animals born: 0
+21 animals with average maxFood:  35.92270498654831
+animals died: 0
+animals born: 0
+21 animals with average maxFood:  35.92270498654831
+animals died: 0
+animals born: 0
+21 animals with average maxFood:  35.92270498654831
+animals died: 0
+animals born: 0
+21 animals with average maxFood:  35.92270498654831
+animals died: 0
+animals born: 1
+22 animals with average maxFood:  35.68215090428691
+animals died: 1
+animals born: 0
+21 animals with average maxFood:  35.651252573343676
+animals died: 1
+animals born: 0
+20 animals with average maxFood:  35.650439578337526
+animals died: 1
+animals born: 1
+20 animals with average maxFood:  35.650327346234114
+animals died: 1
+animals born: 0
+19 animals with average maxFood:  35.72391200838582
+animals died: 1
+animals born: 0
+18 animals with average maxFood:  35.847970368356215
+animals died: 1
+animals born: 0
+17 animals with average maxFood:  36.15501153504016
+animals died: 0
+animals born: 1
+18 animals with average maxFood:  35.89576757333029
+animals died: 2
+animals born: 1
+17 animals with average maxFood:  35.89820175900946
+animals died: 1
+animals born: 0
+16 animals with average maxFood:  35.855079756737766
+animals died: 0
+animals born: 0
+16 animals with average maxFood:  35.855079756737766
+animals died: 0
+animals born: 0
+16 animals with average maxFood:  35.855079756737766
+animals died: 1
+animals born: 0
+15 animals with average maxFood:  35.88195452530379
+animals died: 0
+animals born: 0
+15 animals with average maxFood:  35.88195452530379
+animals died: 0
+animals born: 0
+15 animals with average maxFood:  35.88195452530379
+animals died: 1
+animals born: 0
+14 animals with average maxFood:  36.20553617040928
+animals died: 0
+animals born: 0
+14 animals with average maxFood:  36.20553617040928
+animals died: 0
+animals born: 0
+14 animals with average maxFood:  36.20553617040928
+animals died: 1
+animals born: 1
+14 animals with average maxFood:  36.05814350233187
+animals died: 0
+animals born: 0
+14 animals with average maxFood:  36.05814350233187
+animals died: 0
+animals born: 0
+14 animals with average maxFood:  36.05814350233187
+animals died: 1
+animals born: 0
+13 animals with average maxFood:  36.25441279894345
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  36.25441279894345
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  36.25441279894345
+animals died: 0
+animals born: 0
+13 animals with average maxFood:  36.25441279894345
+animals died: 1
+animals born: 0
+12 animals with average maxFood:  36.57519141498927
+animals died: 1
+animals born: 0
+11 animals with average maxFood:  37.151744166719624
+animals died: 1
+animals born: 0
+10 animals with average maxFood:  37.97289486890192
+animals died: 2
+animals born: 1
+9 animals with average maxFood:  38.1150975451595
+animals died: 0
+animals born: 0
+9 animals with average maxFood:  38.1150975451595
+animals died: 0
+animals born: 0
+9 animals with average maxFood:  38.1150975451595
+animals died: 1
+animals born: 0
+8 animals with average maxFood:  38.78206800683184
+animals died: 1
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 1
+8 animals with average maxFood:  38.92400900976335
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  38.92400900976335
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  38.92400900976335
+animals died: 1
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.823989118627466
+animals died: 1
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 0
+6 animals with average maxFood:  40.87060339266877
+animals died: 0
+animals born: 1
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  39.70634322309636
+animals died: 0
+animals born: 1
+8 animals with average maxFood:  38.925344725340636
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  38.925344725340636
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  38.925344725340636
+animals died: 1
+animals born: 1
+8 animals with average maxFood:  39.12638895064363
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  39.12638895064363
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  39.12638895064363
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  39.12638895064363
+animals died: 0
+animals born: 0
+8 animals with average maxFood:  39.12638895064363
+animals died: 1
+animals born: 0
+7 animals with average maxFood:  40.09534483159808
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  40.09534483159808
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  40.09534483159808
+animals died: 0
+animals born: 0
+7 animals with average maxFood:  40.09534483159808

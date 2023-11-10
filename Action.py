@@ -98,3 +98,7 @@ class DieAction(Action):
 
     def __init__(self):
         self.type = "die"
+        self.cause = None # hunger, thirst; handle eaten separately
+
+    def setCause(self, dieCause):
+        self.cause = dieCause

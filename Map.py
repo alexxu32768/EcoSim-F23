@@ -61,6 +61,7 @@ class Map:
         self.initializeAnimals()
         self.generateInitialPlants()
 
+
     def convertIDtoLoc(self, animalID):
         return self.IDtoLoc[animalID]
 
@@ -115,8 +116,8 @@ class Map:
         self.generatePlants(.85)
         return
 
-    def generatePlants(self, threshhold=.95):
-        # if t = 0, use 0.90 for p threshoold. otherwise use 0.99
+    def generatePlants(self, threshold=.90):
+        # if t = 0, use 0.85 for p threshold. otherwise use 0.95
         for i in range(self.sizeX):
             for j in range(self.sizeY):
                 if (self.currTemp >= 40 and self.currTemp <= 80) and (
@@ -124,7 +125,7 @@ class Map:
                     #gets random number between 0 and 1
                     p = random.random()
 
-                    if p > threshhold:
+                    if p > threshold:
                         self.map[j][i].setPlant()
 
         return
@@ -446,3 +447,23 @@ class Map:
         plt.ylabel("Population")
         #plt.ylim([0,100])
         plt.show()
+
+    def getAverageMaxFood(self):
+        return(sum(self.IDtoAnimal[id].maxFood for id in self.currentOrder)/max(1, self.numAnimals))
+
+    def getAverageMaxWater(self):
+        return(sum(self.IDtoAnimal[id].maxWater for id in self.currentOrder)/max(1, self.numAnimals))
+    
+    # Average Prey Values
+    def getPreyAverageMaxFood(self):
+        return(sum(self.IDtoAnimal[id].maxFood for id in self.currentOrder if self.IDtoAnimal[id].isPrey)/max(1, self.numPrey))
+    
+    def getPreyAverageMaxWater(self):
+        return(sum(self.IDtoAnimal[id].maxWater for id in self.currentOrder if self.IDtoAnimal[id].isPrey)/max(1, self.numPrey))
+    
+    # Average Predator Values
+    def getPredatorAverageMaxFood(self):
+        return(sum(self.IDtoAnimal[id].maxFood for id in self.currentOrder if not self.IDtoAnimal[id].isPrey)/max(1, self.numPredators))
+
+    def getPredatorAverageMaxWater(self):
+        return(sum(self.IDtoAnimal[id].maxWater for id in self.currentOrder if not self.IDtoAnimal[id].isPrey)/max(1, self.numPredators))

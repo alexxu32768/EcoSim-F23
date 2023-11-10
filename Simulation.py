@@ -35,7 +35,7 @@ class Simulation():
         # TESTING
         maxFoodTotal = 0
         bornCount = 0
-        diedCount = 0
+        diedCount = [0, 0, 0] # hunger, thirst, eaten
 
         # Map.get_next_animal() -> either animal object or None
 
@@ -72,7 +72,7 @@ class Simulation():
 
                 if (action.type == "eat"):
                     if action.foodType == "animal":
-                        diedCount = diedCount + 1
+                        diedCount[2] = diedCount[2] + 1
 
                         id = self.map.map[action.foodLocation[1]][
                             action.foodLocation[0]].animalID
@@ -94,15 +94,21 @@ class Simulation():
                 elif (action.type == "reproduce"):
                     bornCount = bornCount + 1
                     #print("Animal born at " + str(action.birthLocation))
-                    # set parameters of new animal
+                    partnerObj = self.map.locToAnimal(action.partnerLocation)
+
+                    # reproduction should come at a cost
+                    animalObj.currFood -= animalObj.currFood/8
+                    partnerObj.currFood -= partnerObj.currFood/8
+
+                    # set parameters of new animal                    
                     whichParent = random.randint(0, 1)
                     if whichParent == 0:
-                        newParams = self.map.locToAnimal(action.selfLocation).animalParams
+                        newParams = animalObj.animalParams
                     else:
-                        newParams = self.map.locToAnimal(action.partnerLocation).animalParams
+                        newParams = partnerObj.animalParams
                     
                     # randomization (PLACEHOLDER)
-                    newParams.maxFood = max(newParams.maxFood + np.random.normal(0,5), 0)
+                    newParams.maxFood = max(newParams.maxFood + np.random.normal(0,2), 0)
                     # print("new animal has max food ", newParams.maxFood)
  
                     if animalObj.isPrey:
@@ -117,6 +123,11 @@ class Simulation():
                     pass  #no action needed
                 elif (action.type == "die"):
                     #print("Animal " + str(animal) + " died")
+                    # if(action.cause)
+                    if(action.cause == "hunger"):
+                        diedCount[0] += 1
+                    else:
+                        diedCount[1] += 1
                     self.map.deleteAnimal(animal)
                     survives = False
                     break  #remove from map, delete animal
@@ -131,8 +142,8 @@ class Simulation():
             animalObj.reprDelay += 1
 
             #end of animal loop
-            if(animalObj.alive == False):
-                diedCount = diedCount + 1
+            #if(animalObj.alive == False):
+            #    diedCount = diedCount + 1
 
             animal = self.map.getNextAnimal()
 
@@ -142,10 +153,13 @@ class Simulation():
         # print stats
         print("animals died:", diedCount)
         print("animals born:", bornCount)
-        for a in self.map.currentOrder:
-            maxFoodTotal = maxFoodTotal + self.map.convertIDtoAnimal(a).maxFood
-        print(len(self.map.currentOrder), "animals with average maxFood: ", maxFoodTotal/max(0.1, len(self.map.currentOrder)))
-        self.averageMaxFood.append(maxFoodTotal/max(0.1, len(self.map.currentOrder)))
+        # for a in self.map.currentOrder:
+        #    maxFoodTotal = maxFoodTotal + self.map.convertIDtoAnimal(a).maxFood
+        print(len(self.map.currentOrder), "animals with average maxFood: ", self.map.getAverageMaxFood() )
+        # print("prey maxFood:", self.map.getPreyAverageMaxFood() )
+
+        self.averageMaxFood.append(self.map.getAverageMaxFood())
+        # self.preyaverageMaxFood.append(self.map.getPreyAverageMaxFood())
 
 
     def visualize(self):

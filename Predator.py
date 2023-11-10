@@ -119,6 +119,7 @@ class Predator(Animal):
         # self.tempReact()
         if not self.alive:
             dieAction = DieAction()
+            dieAction.setCause("thirst" if self.currFood > 0 else "hunger")
             currentActionList.append(dieAction)
             return currentActionList
             # tell sim to delete self

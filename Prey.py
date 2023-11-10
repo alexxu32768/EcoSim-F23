@@ -117,8 +117,8 @@ class Prey(Animal):
         self.checkState()  #check if it is alive
         #self.tempReact(animal_sr)
         if self.alive == 0:
-            #del(self) #don't need this anymore
             dieAction = DieAction()
+            dieAction.setCause("thirst" if self.currFood > 0 else "hunger")
             currentActionList.append(dieAction)
             return currentActionList
             # tell sim to delete self

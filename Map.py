@@ -117,7 +117,7 @@ class Map:
         return
 
     def generatePlants(self, threshold=.90):
-        # if t = 0, use 0.85 for p threshold. otherwise use 0.95
+        # if t = 0, use 0.85 for p threshold. otherwise use 0.90
         for i in range(self.sizeX):
             for j in range(self.sizeY):
                 if (self.currTemp >= 40 and self.currTemp <= 80) and (

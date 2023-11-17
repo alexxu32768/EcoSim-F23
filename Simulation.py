@@ -34,8 +34,8 @@ class Simulation():
     def simulationLoop(self, t):
         # TESTING
         maxFoodTotal = 0
-        bornCount = 0
-        diedCount = [0, 0, 0] # hunger, thirst, eaten
+        bornCount = [0, 0] # prey, predator
+        diedCount = [0, 0, 0, 0, 0] # prey hunger, prey thirst, eaten, predator hunger, predator thirst
 
         # Map.get_next_animal() -> either animal object or None
 
@@ -79,6 +79,9 @@ class Simulation():
                         #print("Animal " + str(id) + " eaten by " + str(animal))
                         #if id == animal:
                         #print("Error: animal eats itself")
+                        
+                        self.map.convertIDtoAnimal(animal
+                            ).currFood += self.map.convertIDtoAnimal(id).maxFood * 0.5 # default was 25
                         self.map.deleteAnimal(id)
                     elif action.foodType == "plant":
                         self.map.deletePlant(action.foodLocation)
@@ -92,13 +95,15 @@ class Simulation():
                     #position x, position y
 
                 elif (action.type == "reproduce"):
-                    bornCount = bornCount + 1
+                    bornCount[1-int(animalObj.isPrey)] += 1
                     #print("Animal born at " + str(action.birthLocation))
                     partnerObj = self.map.locToAnimal(action.partnerLocation)
 
-                    # reproduction should come at a cost
-                    animalObj.currFood -= animalObj.currFood/8
-                    partnerObj.currFood -= partnerObj.currFood/8
+                    # reproduction should come at a (rather arbitrary) cost
+                    animalObj.currFood -= animalObj.maxFood * 0.1
+                    partnerObj.currFood -= partnerObj.maxFood * 0.1
+                    animalObj.currWater -= animalObj.maxWater * 0.1
+                    partnerObj.currWater -= partnerObj.maxWater * 0.1
 
                     # set parameters of new animal                    
                     whichParent = random.randint(0, 1)
@@ -116,6 +121,8 @@ class Simulation():
                     else:
                         self.map.createPredator(action.birthLocation, newParams)
 
+                    self.map.locToAnimal(action.birthLocation).currFood = self.map.locToAnimal(action.birthLocation).maxFood *.2
+
                     self.map.locToAnimal(
                         action.partnerLocation).resetReprDelay()
 
@@ -124,10 +131,19 @@ class Simulation():
                 elif (action.type == "die"):
                     #print("Animal " + str(animal) + " died")
                     # if(action.cause)
+                    diedCount[int(action.cause == "thirst") + 3 * (1-int(animalObj.isPrey))] += 1
+                    '''
                     if(action.cause == "hunger"):
-                        diedCount[0] += 1
+                        if(animal.isPrey):
+                            diedCount[0] += 1
+                        else:
+                            diedCount[3] += 1
                     else:
-                        diedCount[1] += 1
+                        if(animal.isPrey):
+                            diedCount[1] += 1
+                        else:
+                            diedCount[4] += 1
+                    '''
                     self.map.deleteAnimal(animal)
                     survives = False
                     break  #remove from map, delete animal

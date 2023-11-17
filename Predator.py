@@ -21,9 +21,9 @@ class Predator(Animal):
 
         # hardcoded percentage for initial curr
         self.maxFood = predatorParams.maxFood
-        self.currFood = self.maxFood * .25 # may not nec. be an int
+        self.currFood = self.maxFood * .50 # may not nec. be an int
         self.maxWater = predatorParams.maxWater
-        self.currWater = self.maxWater * .75
+        self.currWater = self.maxWater * .50
 
         self.minReproductiveAge = predatorParams.minReproductiveAge
         self.reproductiveDelay = predatorParams.reproductiveDelay
@@ -65,7 +65,7 @@ class Predator(Animal):
             #eat plant if location is found adjacent to the animal
             if (max(abs(loc[0] - self.positionX), abs(loc[1] - self.positionY))
                     <= 1):
-                self.currFood += self.hungerDecreaseAmount
+                # self.currFood += self.hungerDecreaseAmount # moved to simulation loop
                 # returns the coordinate of the water
                 eatAction = EatAction()
                 eatAction.setFoodType("animal")

@@ -24,7 +24,7 @@ class EatAction(Action):
         self.foodType = foodType
 
     def setFoodID(self, animalID):
-        set.animalID = animalID
+        self.animalID = animalID
 
     def getFoodType(self):
         return self.foodType
@@ -33,7 +33,7 @@ class EatAction(Action):
         return self.foodLocation
 
     def getFoodID(self, animalID):
-        return set.animalID
+        return self.animalID
 
 
 class MoveAction(Action):

@@ -21,9 +21,9 @@ class Prey(Animal):
                  animalID=None):
 
         self.maxFood = preyParams.maxFood
-        self.currFood = self.maxFood * .25
+        self.currFood = self.maxFood * .50
         self.maxWater = preyParams.maxWater
-        self.currWater = self.maxWater * .75
+        self.currWater = self.maxWater * .50
 
         self.minReproductiveAge = preyParams.minReproductiveAge
         self.reproductiveDelay = preyParams.reproductiveDelay

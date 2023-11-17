@@ -3,8 +3,9 @@ from AnimalParams import SimulationParams, MapParams, AnimalParams
 import numpy as np
 import random
 
-random.seed(234432)
-np.random.seed(234432)
+random_seed = 234432
+random.seed(random_seed)
+np.random.seed(random_seed)
 
 simulationParams = SimulationParams()
 simulationParams.simulationLength = 1000

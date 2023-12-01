@@ -88,6 +88,8 @@ class Map:
             coef[3] = coef[3] + 0.5
         if (coef[0] < 0.5):
             coef[0] = coef[0] + 0.5
+        if (coef[1] < 0.5):
+            coef[1] = coef[1] + 0.5
         for i in range(self.sizeY):
             j = int(3 * coef[0] * (math.sin(coef[1] * i + coef[2])) +
                     coef[3] * self.sizeX)
@@ -116,7 +118,7 @@ class Map:
         self.generatePlants(.85)
         return
 
-    def generatePlants(self, threshold=.90):
+    def generatePlants(self, threshold=.9):
         # if t = 0, use 0.85 for p threshold. otherwise use 0.90
         for i in range(self.sizeX):
             for j in range(self.sizeY):
@@ -257,6 +259,7 @@ class Map:
         tile.hasPrey = False
         tile.animalID = -1
         tile.occupied = 0
+        tile.terrain = "E"
 
         #update new tile'
         if (newTile.hasPred != 0 or newTile.hasPrey != 0
@@ -280,6 +283,7 @@ class Map:
         tile.hasPrey = 0
         tile.occupied = False
         tile.animalID = -1
+        tile.terrain = "E"
         self.numAnimals = self.numAnimals - 1
 
         #print("Deleting animal " + str(animal_id))
@@ -432,21 +436,55 @@ class Map:
     def getNumPrey(self):
         return self.numPrey
 
-    def createGraph(self, averageMaxFood):
+    def createGraph(self, deathCounts, predatorAverageMaxFood, preyAverageMaxFood):
         xAxis = []
         for i in range(0, 101):
             if (i % 2 == 0):
                 xAxis.append(i)
-
+        
+        # POPULATION COUNTS
+        plt.subplot(2, 2, 1)
         plt.plot(self.predatorCount, label="Predator Count")
         plt.plot(self.preyCount, label="Prey Count")
-        plt.plot(averageMaxFood, label="Average Max Food")
         plt.legend(loc="upper left")
         plt.title("Population Distribution")
         plt.xlabel("Time")
         plt.ylabel("Population")
         #plt.ylim([0,100])
+
+        # AVERAGE MAX FOOD
+        plt.subplot(2, 2, 3)
+        plt.plot(predatorAverageMaxFood, label="Predator")
+        plt.plot(preyAverageMaxFood, label="Prey")
+        plt.legend(loc="upper left")
+        plt.title("Average Max Food")
+        plt.xlabel("Time")
+        plt.ylabel("Population")
+
+        # PREDATOR CAUSE OF DEATH
+        plt.subplot(2, 2, 2)
+        plt.plot([x[3] for x in deathCounts], label="Hunger")
+        plt.plot([x[4] for x in deathCounts], label="Thirst")
+        plt.legend(loc="upper left")
+        plt.title("Predator Causes of Death")
+        plt.xlabel("Time")
+        plt.ylabel("Population")
+        
+        # PREY CAUSE OF DEATH
+        plt.subplot(2, 2, 4)
+        plt.plot(np.array(deathCounts)[:, 0], label="Hunger")
+        plt.plot(np.array(deathCounts)[:, 1], label="Thirst")
+        plt.plot(np.array(deathCounts)[:, 2], label="Eaten")
+        plt.legend(loc="upper left")
+        plt.title("Prey Causes of Death")
+        plt.xlabel("Time")
+        plt.ylabel("Population")
+
+        plt.subplots_adjust(wspace=0.2,hspace=0.4)
         plt.show()
+
+        # after that: back to varying reproduction stuff
+
 
     def getAverageMaxFood(self):
         return(sum(self.IDtoAnimal[id].maxFood for id in self.currentOrder)/max(1, self.numAnimals))

@@ -29,7 +29,12 @@ class Simulation():
         self.mapSize = (mapParams.sizeX, mapParams.sizeY)
         self.map = Map(self.mapParams, self.predatorParams, self.preyParams)
         self.visualization = Visualization(self.mapSize)
-        self.averageMaxFood = [100] #TODO: Change to map
+
+        # TODO: Change to map
+        self.predatorAverageMaxFood = [100]
+        self.preyAverageMaxFood = [100]
+        self.deathCounts = [ [0, 0, 0, 0, 0] ]
+
 
     def simulationLoop(self, t):
         # TESTING
@@ -161,6 +166,7 @@ class Simulation():
             #if(animalObj.alive == False):
             #    diedCount = diedCount + 1
 
+            self.deathCounts.append(diedCount)
             animal = self.map.getNextAnimal()
 
         #Food
@@ -174,7 +180,9 @@ class Simulation():
         print(len(self.map.currentOrder), "animals with average maxFood: ", self.map.getAverageMaxFood() )
         # print("prey maxFood:", self.map.getPreyAverageMaxFood() )
 
-        self.averageMaxFood.append(self.map.getAverageMaxFood())
+        self.predatorAverageMaxFood.append(self.map.getPredatorAverageMaxFood())
+        self.preyAverageMaxFood.append(self.map.getPreyAverageMaxFood())
+
         # self.preyaverageMaxFood.append(self.map.getPreyAverageMaxFood())
 
 
@@ -227,4 +235,4 @@ class Simulation():
                 if event.type == pygame.QUIT:
                     pygame.quit()
 
-        self.map.createGraph(self.averageMaxFood)
+        self.map.createGraph(self.deathCounts, self.predatorAverageMaxFood, self.preyAverageMaxFood)

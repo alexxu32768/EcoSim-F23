@@ -35,15 +35,11 @@ class Map:
         self.map = [[Tile() for i in range(self.sizeX)]
                     for j in range(self.sizeY)]
         
-        for i in range(3):
+        for i in range(2 + (self.sizeX * self.sizeY) // 250):
+            self.pondMaker()
+        
+        for i in range(1 + (self.sizeX + self.sizeY) // 25):
             self.riverMaker()
-            self.riverMaker()
-            self.pondMaker()
-            self.pondMaker()
-            self.pondMaker()
-            self.pondMaker()
-            self.pondMaker()
-            self.pondMaker()
 
         #self.create_graph()
 
@@ -118,8 +114,8 @@ class Map:
         self.generatePlants(.85)
         return
 
-    def generatePlants(self, threshold=.9):
-        # if t = 0, use 0.85 for p threshold. otherwise use 0.90
+    def generatePlants(self, threshold=.95):
+        # if t = 0, use 0.85 for p threshold. otherwise use 0.95
         for i in range(self.sizeX):
             for j in range(self.sizeY):
                 if (self.currTemp >= 40 and self.currTemp <= 80) and (
@@ -148,6 +144,7 @@ class Map:
         for i in range(self.sizeX):
             for j in range(self.sizeY):
                 if self.map[j][i].hasWater:
+                    remainTile -= 1
                     continue
                 p1 = remainPred / (remainTile)
                 p2 = (remainPred + remainPrey) / remainTile
@@ -170,6 +167,7 @@ class Map:
                 break
         self.currentOrder = copy.deepcopy(self.nextOrder)
         self.nextOrder = []
+        print(self.getNumPredators(), self.getNumPrey())
         return
 
     '''

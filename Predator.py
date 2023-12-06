@@ -21,9 +21,9 @@ class Predator(Animal):
 
         # hardcoded percentage for initial curr
         self.maxFood = predatorParams.maxFood
-        self.currFood = self.maxFood * .50 # may not nec. be an int
+        self.currFood = self.maxFood * .4 # may not nec. be an int
         self.maxWater = predatorParams.maxWater
-        self.currWater = self.maxWater * .50
+        self.currWater = self.maxWater * .4
 
         self.minReproductiveAge = predatorParams.minReproductiveAge
         self.reproductiveDelay = predatorParams.reproductiveDelay

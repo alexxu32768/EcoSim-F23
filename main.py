@@ -3,7 +3,7 @@ from AnimalParams import SimulationParams, MapParams, AnimalParams
 import numpy as np
 import random
 
-random_seed = 234432
+random_seed = 345543
 random.seed(random_seed)
 np.random.seed(random_seed)
 

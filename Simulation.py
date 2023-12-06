@@ -85,8 +85,9 @@ class Simulation():
                         #if id == animal:
                         #print("Error: animal eats itself")
                         
-                        self.map.convertIDtoAnimal(animal
-                            ).currFood += self.map.convertIDtoAnimal(id).maxFood * 0.5 # default was 25
+                        currPred = self.map.convertIDtoAnimal(animal)
+                        currPred.currFood = max(currPred.maxFood,
+                            currPred.currFood + self.map.convertIDtoAnimal(id).maxFood * 0.333) # default was +25
                         self.map.deleteAnimal(id)
                     elif action.foodType == "plant":
                         self.map.deletePlant(action.foodLocation)
@@ -105,10 +106,10 @@ class Simulation():
                     partnerObj = self.map.locToAnimal(action.partnerLocation)
 
                     # reproduction should come at a (rather arbitrary) cost
-                    animalObj.currFood -= animalObj.maxFood * 0.1
-                    partnerObj.currFood -= partnerObj.maxFood * 0.1
-                    animalObj.currWater -= animalObj.maxWater * 0.1
-                    partnerObj.currWater -= partnerObj.maxWater * 0.1
+                    animalObj.currFood -= animalObj.maxFood * 0.2
+                    partnerObj.currFood -= partnerObj.maxFood * 0.2
+                    animalObj.currWater -= animalObj.maxWater * 0.2
+                    partnerObj.currWater -= partnerObj.maxWater * 0.2
 
                     # set parameters of new animal                    
                     whichParent = random.randint(0, 1)
@@ -118,7 +119,7 @@ class Simulation():
                         newParams = partnerObj.animalParams
                     
                     # randomization (PLACEHOLDER)
-                    newParams.maxFood = max(newParams.maxFood + np.random.normal(0,2), 0)
+                    newParams.maxFood = max(newParams.maxFood + np.random.normal(0,1), 0)
                     # print("new animal has max food ", newParams.maxFood)
  
                     if animalObj.isPrey:
@@ -178,6 +179,8 @@ class Simulation():
         # for a in self.map.currentOrder:
         #    maxFoodTotal = maxFoodTotal + self.map.convertIDtoAnimal(a).maxFood
         print(len(self.map.currentOrder), "animals with average maxFood: ", self.map.getAverageMaxFood() )
+        print(self.map.getNumPrey(), "prey:", self.map.getPreyAverageMaxFood(
+            ), "; ", self.map.getNumPredators(), "predator:", self.map.getPredatorAverageMaxFood())
         # print("prey maxFood:", self.map.getPreyAverageMaxFood() )
 
         self.predatorAverageMaxFood.append(self.map.getPredatorAverageMaxFood())

@@ -167,26 +167,23 @@ class Simulation():
             #if(animalObj.alive == False):
             #    diedCount = diedCount + 1
 
-            self.deathCounts.append(diedCount)
             animal = self.map.getNextAnimal()
 
         #Food
         self.map.generatePlants()
 
-        # print stats
-        print("animals died:", diedCount)
-        print("animals born:", bornCount)
-        # for a in self.map.currentOrder:
-        #    maxFoodTotal = maxFoodTotal + self.map.convertIDtoAnimal(a).maxFood
-        print(len(self.map.currentOrder), "animals with average maxFood: ", self.map.getAverageMaxFood() )
-        print(self.map.getNumPrey(), "prey:", self.map.getPreyAverageMaxFood(
-            ), "; ", self.map.getNumPredators(), "predator:", self.map.getPredatorAverageMaxFood())
-        # print("prey maxFood:", self.map.getPreyAverageMaxFood() )
-
+        self.deathCounts.append(diedCount)
         self.predatorAverageMaxFood.append(self.map.getPredatorAverageMaxFood())
         self.preyAverageMaxFood.append(self.map.getPreyAverageMaxFood())
 
-        # self.preyaverageMaxFood.append(self.map.getPreyAverageMaxFood())
+        # print stats
+        '''
+        print("animals died:", diedCount)
+        print("animals born:", bornCount)
+        print(len(self.map.currentOrder), "animals with average maxFood: ", self.map.getAverageMaxFood() )
+        print(self.map.getNumPrey(), "prey:", self.map.getPreyAverageMaxFood(
+            ), "; ", self.map.getNumPredators(), "predator:", self.map.getPredatorAverageMaxFood())
+        '''
 
 
     def visualize(self):

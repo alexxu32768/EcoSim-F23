@@ -167,7 +167,7 @@ class Map:
                 break
         self.currentOrder = copy.deepcopy(self.nextOrder)
         self.nextOrder = []
-        print(self.getNumPredators(), self.getNumPrey())
+        #print(self.getNumPredators(), self.getNumPrey())
         return
 
     '''
@@ -434,6 +434,10 @@ class Map:
     def getNumPrey(self):
         return self.numPrey
 
+    # thanks stackexchange
+    def moving_average(self, x, w=20):
+        return np.convolve(x, np.ones(w), 'valid') / w
+
     def createGraph(self, deathCounts, predatorAverageMaxFood, preyAverageMaxFood):
         xAxis = []
         for i in range(0, 101):
@@ -458,23 +462,23 @@ class Map:
         plt.title("Average Max Food")
         plt.xlabel("Time")
         plt.ylabel("Population")
-
-        # PREDATOR CAUSE OF DEATH
-        plt.subplot(2, 2, 2)
-        plt.plot([x[3] for x in deathCounts], label="Hunger")
-        plt.plot([x[4] for x in deathCounts], label="Thirst")
-        plt.legend(loc="upper left")
-        plt.title("Predator Causes of Death")
-        plt.xlabel("Time")
-        plt.ylabel("Population")
         
         # PREY CAUSE OF DEATH
-        plt.subplot(2, 2, 4)
-        plt.plot(np.array(deathCounts)[:, 0], label="Hunger")
-        plt.plot(np.array(deathCounts)[:, 1], label="Thirst")
-        plt.plot(np.array(deathCounts)[:, 2], label="Eaten")
+        plt.subplot(2, 2, 2)
+        plt.plot(self.moving_average(np.array(deathCounts)[:, 0]), "#ff7f0e", label="Hunger")
+        plt.plot(self.moving_average(np.array(deathCounts)[:, 1]), "#d62728", label="Thirst")
+        plt.plot(self.moving_average(np.array(deathCounts)[:, 2]), "#bcbd22", label="Eaten")
         plt.legend(loc="upper left")
         plt.title("Prey Causes of Death")
+        plt.xlabel("Time")
+        plt.ylabel("Population")
+
+        # PREDATOR CAUSE OF DEATH
+        plt.subplot(2, 2, 4)
+        plt.plot(self.moving_average([x[3] for x in deathCounts]), "#1f77b4", label="Hunger")
+        plt.plot(self.moving_average([x[4] for x in deathCounts]), "#9467bd", label="Thirst")
+        plt.legend(loc="upper left")
+        plt.title("Predator Causes of Death")
         plt.xlabel("Time")
         plt.ylabel("Population")
 

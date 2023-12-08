@@ -1,0 +1,3002 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+animals died: [0, 0, 16, 0, 0]
+animals born: 0
+203 animals with average maxFood:  100.0
+animals died: [0, 0, 14, 0, 0]
+animals born: 0
+189 animals with average maxFood:  100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: 0
+181 animals with average maxFood:  100.0
+animals died: [0, 0, 15, 0, 0]
+animals born: 0
+166 animals with average maxFood:  100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: 0
+158 animals with average maxFood:  100.0
+animals died: [0, 0, 11, 0, 0]
+animals born: 0
+147 animals with average maxFood:  100.0
+animals died: [0, 0, 6, 0, 0]
+animals born: 0
+141 animals with average maxFood:  100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: 0
+133 animals with average maxFood:  100.0
+animals died: [0, 0, 5, 17, 0]
+animals born: 0
+111 animals with average maxFood:  100.0
+animals died: [0, 0, 5, 0, 0]
+animals born: 0
+106 animals with average maxFood:  100.0
+animals died: [0, 0, 7, 0, 0]
+animals born: 14
+113 animals with average maxFood:  100.39391436934413
+animals died: [0, 0, 5, 0, 0]
+animals born: 0
+108 animals with average maxFood:  100.36584761590699
+animals died: [0, 0, 2, 0, 0]
+animals born: 1
+107 animals with average maxFood:  100.34149217418955
+animals died: [0, 0, 7, 0, 0]
+animals born: 0
+100 animals with average maxFood:  100.36486964575461
+animals died: [0, 0, 4, 0, 0]
+animals born: 1
+97 animals with average maxFood:  100.38282166829288
+animals died: [0, 0, 3, 0, 0]
+animals born: 7
+101 animals with average maxFood:  100.22568562435438
+animals died: [0, 0, 2, 12, 0]
+animals born: 0
+87 animals with average maxFood:  100.26200285126198
+animals died: [0, 0, 4, 0, 0]
+animals born: 0
+83 animals with average maxFood:  100.23571928773801
+animals died: [0, 0, 4, 0, 0]
+animals born: 0
+79 animals with average maxFood:  100.24765444154752
+animals died: [0, 0, 3, 0, 0]
+animals born: 1
+77 animals with average maxFood:  100.33372908306082
+animals died: [0, 0, 1, 0, 0]
+animals born: 9
+85 animals with average maxFood:  101.53046556967267
+animals died: [0, 0, 4, 0, 0]
+animals born: 0
+81 animals with average maxFood:  101.5136917277261
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+80 animals with average maxFood:  101.53261287432267
+animals died: [0, 0, 1, 0, 0]
+animals born: 1
+80 animals with average maxFood:  101.53373334524795
+animals died: [0, 1, 0, 12, 2]
+animals born: 0
+65 animals with average maxFood:  102.02678564001303
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+65 animals with average maxFood:  102.02678564001303
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+65 animals with average maxFood:  102.02678564001303
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+64 animals with average maxFood:  102.05845416563824
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+64 animals with average maxFood:  102.05845416563824
+animals died: [0, 0, 1, 0, 0]
+animals born: 1
+64 animals with average maxFood:  102.19669870980616
+animals died: [0, 0, 0, 0, 0]
+animals born: 9
+73 animals with average maxFood:  104.1496234058192
+animals died: [0, 0, 0, 6, 0]
+animals born: 1
+68 animals with average maxFood:  104.72910807206712
+animals died: [0, 0, 0, 3, 0]
+animals born: 0
+65 animals with average maxFood:  104.94213336582014
+animals died: [0, 0, 0, 10, 0]
+animals born: 0
+55 animals with average maxFood:  105.87549497689407
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+53 animals with average maxFood:  105.52016773716169
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+52 animals with average maxFood:  105.53308294568131
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+52 animals with average maxFood:  105.53308294568131
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+50 animals with average maxFood:  105.55541231045969
+animals died: [0, 0, 1, 3, 0]
+animals born: 0
+46 animals with average maxFood:  106.03849164180401
+animals died: [0, 0, 0, 1, 0]
+animals born: 3
+48 animals with average maxFood:  107.06850577017047
+animals died: [0, 0, 0, 0, 0]
+animals born: 6
+54 animals with average maxFood:  108.61213876156074
+animals died: [0, 0, 0, 4, 0]
+animals born: 3
+53 animals with average maxFood:  110.1237877664914
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+52 animals with average maxFood:  109.95969060285157
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+52 animals with average maxFood:  109.95969060285157
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+52 animals with average maxFood:  109.95969060285157
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+51 animals with average maxFood:  109.89166011331072
+animals died: [0, 0, 2, 1, 0]
+animals born: 0
+48 animals with average maxFood:  109.94272718030203
+animals died: [0, 0, 0, 1, 0]
+animals born: 1
+48 animals with average maxFood:  110.00077421430882
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+48 animals with average maxFood:  110.00077421430882
+animals died: [0, 0, 0, 0, 0]
+animals born: 5
+53 animals with average maxFood:  111.40712870817033
+animals died: [0, 0, 1, 0, 0]
+animals born: 5
+57 animals with average maxFood:  112.45723547253588
+animals died: [0, 0, 0, 0, 0]
+animals born: 7
+64 animals with average maxFood:  113.60479051138083
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+63 animals with average maxFood:  113.5497843291401
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+63 animals with average maxFood:  113.5497843291401
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+62 animals with average maxFood:  113.6942140490524
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+62 animals with average maxFood:  113.6942140490524
+animals died: [0, 0, 3, 0, 0]
+animals born: 0
+59 animals with average maxFood:  113.63510874758836
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+57 animals with average maxFood:  113.31428984217237
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+56 animals with average maxFood:  113.12590761635116
+animals died: [0, 0, 1, 0, 0]
+animals born: 4
+59 animals with average maxFood:  113.9241244070178
+animals died: [0, 0, 0, 0, 0]
+animals born: 10
+69 animals with average maxFood:  116.4917593863759
+animals died: [0, 0, 0, 0, 0]
+animals born: 8
+77 animals with average maxFood:  116.97372508044593
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+77 animals with average maxFood:  116.97372508044593
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+76 animals with average maxFood:  116.99653131707313
+animals died: [0, 0, 3, 0, 0]
+animals born: 0
+73 animals with average maxFood:  116.84362507818766
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+73 animals with average maxFood:  116.84362507818766
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+72 animals with average maxFood:  117.07331895801728
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+71 animals with average maxFood:  117.00504666190041
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+70 animals with average maxFood:  116.97038582400478
+animals died: [0, 0, 1, 0, 0]
+animals born: 4
+73 animals with average maxFood:  117.1667530309689
+animals died: [0, 0, 1, 0, 0]
+animals born: 14
+86 animals with average maxFood:  117.87149682679583
+animals died: [0, 0, 0, 0, 0]
+animals born: 6
+92 animals with average maxFood:  117.86619601665707
+animals died: [0, 0, 0, 0, 0]
+animals born: 2
+94 animals with average maxFood:  117.82179499793406
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+93 animals with average maxFood:  117.73277028171145
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+92 animals with average maxFood:  117.66924839038175
+animals died: [0, 0, 1, 0, 0]
+animals born: 1
+92 animals with average maxFood:  117.54189748086091
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+93 animals with average maxFood:  117.39298474507282
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+94 animals with average maxFood:  117.20720231123937
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+92 animals with average maxFood:  117.38255759351554
+animals died: [0, 0, 0, 0, 0]
+animals born: 5
+97 animals with average maxFood:  117.33152652602564
+animals died: [1, 0, 1, 0, 0]
+animals born: 16
+111 animals with average maxFood:  115.92057212411743
+animals died: [1, 0, 0, 0, 0]
+animals born: 8
+118 animals with average maxFood:  114.6396895319003
+animals died: [0, 0, 1, 0, 0]
+animals born: 2
+119 animals with average maxFood:  114.44127665703031
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+117 animals with average maxFood:  114.48267518002328
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+117 animals with average maxFood:  114.48267518002328
+animals died: [0, 0, 2, 0, 0]
+animals born: 0
+115 animals with average maxFood:  114.34611512316518
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+116 animals with average maxFood:  114.17841152114917
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+116 animals with average maxFood:  114.17841152114917
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+116 animals with average maxFood:  114.17841152114917
+animals died: [1, 0, 2, 0, 0]
+animals born: 4
+117 animals with average maxFood:  113.43686517766406
+animals died: [2, 0, 1, 0, 0]
+animals born: 17
+131 animals with average maxFood:  111.13437901808052
+animals died: [0, 0, 1, 0, 0]
+animals born: 18
+148 animals with average maxFood:  108.92619448555251
+animals died: [0, 0, 1, 0, 0]
+animals born: 2
+149 animals with average maxFood:  108.60472928700959
+animals died: [0, 0, 1, 0, 0]
+animals born: 1
+149 animals with average maxFood:  108.43783931303945
+animals died: [1, 0, 0, 1, 0]
+animals born: 1
+148 animals with average maxFood:  108.47948794573846
+animals died: [0, 0, 2, 0, 0]
+animals born: 1
+147 animals with average maxFood:  108.50078433800373
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+146 animals with average maxFood:  108.45790220750968
+animals died: [1, 0, 2, 0, 0]
+animals born: 0
+143 animals with average maxFood:  108.4131730033712
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+142 animals with average maxFood:  108.56122306257586
+animals died: [4, 0, 0, 0, 0]
+animals born: 2
+140 animals with average maxFood:  108.84544917541217
+animals died: [1, 0, 1, 0, 0]
+animals born: 12
+150 animals with average maxFood:  108.30676491976209
+animals died: [0, 0, 2, 0, 0]
+animals born: 29
+177 animals with average maxFood:  109.50448012042287
+animals died: [0, 0, 1, 0, 0]
+animals born: 7
+183 animals with average maxFood:  109.7293398178551
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+182 animals with average maxFood:  109.78150402798816
+animals died: [1, 0, 1, 0, 0]
+animals born: 1
+181 animals with average maxFood:  109.96010244147
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+181 animals with average maxFood:  109.94436347718215
+animals died: [2, 0, 1, 0, 0]
+animals born: 2
+180 animals with average maxFood:  110.1183422097143
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+180 animals with average maxFood:  110.1183422097143
+animals died: [0, 0, 1, 0, 0]
+animals born: 0
+179 animals with average maxFood:  110.05264556038058
+animals died: [2, 0, 3, 0, 0]
+animals born: 3
+177 animals with average maxFood:  109.76904192301427
+animals died: [0, 0, 2, 0, 0]
+animals born: 10
+185 animals with average maxFood:  110.91716457994423
+animals died: [1, 0, 0, 0, 0]
+animals born: 31
+215 animals with average maxFood:  113.17829442531631
+animals died: [3, 0, 0, 0, 0]
+animals born: 11
+223 animals with average maxFood:  113.36210591086943
+animals died: [0, 0, 2, 1, 0]
+animals born: 3
+223 animals with average maxFood:  113.32549682113729
+animals died: [0, 0, 0, 1, 0]
+animals born: 2
+224 animals with average maxFood:  113.28900319225245
+animals died: [1, 0, 1, 0, 0]
+animals born: 0
+222 animals with average maxFood:  113.35771397839811
+animals died: [2, 0, 1, 0, 0]
+animals born: 2
+221 animals with average maxFood:  113.3330598819631
+animals died: [0, 0, 0, 1, 0]
+animals born: 1
+221 animals with average maxFood:  113.36722073451345
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+220 animals with average maxFood:  113.44770628676207
+animals died: [0, 0, 0, 0, 0]
+animals born: 5
+225 animals with average maxFood:  113.23211499504927
+animals died: [1, 0, 1, 0, 0]
+animals born: 10
+233 animals with average maxFood:  112.60677391938448
+animals died: [0, 0, 0, 0, 0]
+animals born: 27
+260 animals with average maxFood:  110.61358677206397
+animals died: [10, 0, 2, 1, 0]
+animals born: 22
+269 animals with average maxFood:  108.02494296886431
+animals died: [0, 0, 2, 0, 0]
+animals born: 5
+272 animals with average maxFood:  107.543962561493
+animals died: [0, 0, 1, 1, 0]
+animals born: 3
+273 animals with average maxFood:  107.37178052571083
+animals died: [4, 0, 1, 0, 0]
+animals born: 1
+269 animals with average maxFood:  107.23885610640141
+animals died: [1, 1, 1, 0, 0]
+animals born: 0
+266 animals with average maxFood:  107.29586294617363
+animals died: [2, 0, 2, 0, 0]
+animals born: 1
+263 animals with average maxFood:  107.26447642007844
+animals died: [3, 0, 0, 0, 0]
+animals born: 0
+260 animals with average maxFood:  107.17378375244925
+animals died: [14, 0, 0, 0, 0]
+animals born: 6
+252 animals with average maxFood:  107.7461120548898
+animals died: [8, 0, 0, 0, 0]
+animals born: 16
+260 animals with average maxFood:  107.23746431055405
+animals died: [4, 0, 1, 1, 0]
+animals born: 26
+280 animals with average maxFood:  106.85628751023177
+animals died: [1, 0, 1, 1, 0]
+animals born: 20
+297 animals with average maxFood:  106.94335952233129
+animals died: [1, 0, 1, 0, 0]
+animals born: 12
+307 animals with average maxFood:  107.11714440082976
+animals died: [0, 0, 1, 0, 0]
+animals born: 2
+308 animals with average maxFood:  107.21066334401186
+animals died: [1, 0, 0, 0, 0]
+animals born: 3
+310 animals with average maxFood:  107.22473168224218
+animals died: [1, 1, 0, 0, 0]
+animals born: 2
+310 animals with average maxFood:  107.14881633334697
+animals died: [1, 0, 1, 0, 0]
+animals born: 1
+309 animals with average maxFood:  107.1977830074661
+animals died: [14, 0, 1, 0, 0]
+animals born: 2
+296 animals with average maxFood:  107.61210312661044
+animals died: [1, 0, 0, 0, 0]
+animals born: 4
+299 animals with average maxFood:  107.7228785539895
+animals died: [11, 0, 0, 0, 0]
+animals born: 18
+306 animals with average maxFood:  108.55619589094584
+animals died: [7, 0, 2, 0, 0]
+animals born: 22
+319 animals with average maxFood:  109.8555767369879
+animals died: [1, 0, 3, 0, 0]
+animals born: 28
+343 animals with average maxFood:  112.32891781680755
+animals died: [5, 0, 0, 0, 0]
+animals born: 14
+352 animals with average maxFood:  113.16710792141352
+animals died: [2, 0, 0, 0, 0]
+animals born: 3
+353 animals with average maxFood:  113.24155655555998
+animals died: [3, 0, 1, 0, 0]
+animals born: 4
+353 animals with average maxFood:  113.4048003695391
+animals died: [3, 2, 0, 0, 0]
+animals born: 1
+349 animals with average maxFood:  113.70693813225641
+animals died: [1, 0, 2, 0, 0]
+animals born: 2
+348 animals with average maxFood:  113.69959632124872
+animals died: [2, 0, 1, 0, 0]
+animals born: 2
+347 animals with average maxFood:  113.631388957472
+animals died: [2, 0, 1, 0, 0]
+animals born: 6
+350 animals with average maxFood:  113.62846843562497
+animals died: [3, 0, 2, 0, 0]
+animals born: 9
+354 animals with average maxFood:  113.75809229279618
+animals died: [9, 0, 0, 0, 0]
+animals born: 18
+363 animals with average maxFood:  113.3267310907789
+animals died: [8, 0, 2, 0, 0]
+animals born: 19
+372 animals with average maxFood:  112.34019513779641
+animals died: [5, 0, 1, 0, 0]
+animals born: 18
+384 animals with average maxFood:  111.2486148420635
+animals died: [11, 0, 0, 0, 0]
+animals born: 15
+388 animals with average maxFood:  110.17773177738064
+animals died: [7, 1, 0, 1, 0]
+animals born: 6
+385 animals with average maxFood:  109.76312703861375
+animals died: [2, 0, 0, 0, 0]
+animals born: 3
+386 animals with average maxFood:  109.60241631966683
+animals died: [3, 0, 1, 0, 0]
+animals born: 3
+385 animals with average maxFood:  109.45700644056639
+animals died: [5, 1, 3, 0, 0]
+animals born: 5
+381 animals with average maxFood:  109.2195750268585
+animals died: [4, 0, 1, 0, 0]
+animals born: 7
+383 animals with average maxFood:  108.98639262271567
+animals died: [9, 1, 0, 0, 0]
+animals born: 7
+380 animals with average maxFood:  108.70507655659821
+animals died: [21, 1, 0, 0, 0]
+animals born: 18
+376 animals with average maxFood:  108.8360555150168
+animals died: [10, 3, 1, 1, 0]
+animals born: 22
+383 animals with average maxFood:  108.73206798217194
+animals died: [6, 1, 0, 0, 0]
+animals born: 13
+389 animals with average maxFood:  108.65553255588921
+animals died: [7, 1, 1, 0, 0]
+animals born: 17
+397 animals with average maxFood:  108.57761129665424
+animals died: [3, 1, 6, 0, 0]
+animals born: 9
+396 animals with average maxFood:  108.87910027764964
+animals died: [5, 1, 1, 0, 0]
+animals born: 2
+391 animals with average maxFood:  109.17678402813176
+animals died: [5, 2, 0, 0, 0]
+animals born: 4
+388 animals with average maxFood:  109.16044657333981
+animals died: [7, 0, 1, 0, 0]
+animals born: 4
+384 animals with average maxFood:  109.32908392791548
+animals died: [7, 2, 0, 0, 0]
+animals born: 8
+383 animals with average maxFood:  109.33442914271768
+animals died: [9, 2, 1, 0, 0]
+animals born: 10
+381 animals with average maxFood:  109.69826755467972
+animals died: [5, 2, 1, 0, 0]
+animals born: 13
+386 animals with average maxFood:  110.70600722615373
+animals died: [4, 1, 1, 0, 0]
+animals born: 26
+406 animals with average maxFood:  111.64858564293833
+animals died: [3, 2, 0, 0, 0]
+animals born: 22
+423 animals with average maxFood:  111.95281593306724
+animals died: [9, 1, 1, 0, 0]
+animals born: 9
+421 animals with average maxFood:  111.87875824328573
+animals died: [3, 2, 0, 0, 0]
+animals born: 10
+426 animals with average maxFood:  111.72363137337126
+animals died: [5, 3, 1, 0, 0]
+animals born: 3
+420 animals with average maxFood:  111.64345483777757
+animals died: [6, 2, 1, 0, 0]
+animals born: 2
+413 animals with average maxFood:  111.6173564118854
+animals died: [5, 0, 0, 0, 0]
+animals born: 4
+412 animals with average maxFood:  111.58644589758724
+animals died: [4, 1, 1, 1, 0]
+animals born: 8
+413 animals with average maxFood:  111.61093756563264
+animals died: [4, 0, 1, 0, 0]
+animals born: 9
+417 animals with average maxFood:  111.62561687510609
+animals died: [4, 1, 1, 1, 0]
+animals born: 15
+425 animals with average maxFood:  111.5441628093281
+animals died: [6, 1, 2, 0, 0]
+animals born: 25
+441 animals with average maxFood:  110.7294703117005
+animals died: [11, 0, 0, 0, 0]
+animals born: 22
+452 animals with average maxFood:  109.59580891109762
+animals died: [8, 2, 2, 0, 0]
+animals born: 16
+456 animals with average maxFood:  109.29876740680733
+animals died: [2, 3, 3, 0, 0]
+animals born: 10
+458 animals with average maxFood:  109.38033954424817
+animals died: [1, 1, 1, 0, 0]
+animals born: 6
+461 animals with average maxFood:  109.43695638481218
+animals died: [5, 4, 3, 0, 0]
+animals born: 1
+450 animals with average maxFood:  109.50819094373188
+animals died: [4, 1, 1, 1, 0]
+animals born: 6
+449 animals with average maxFood:  109.76136610571382
+animals died: [1, 1, 1, 0, 0]
+animals born: 8
+454 animals with average maxFood:  110.09958803058383
+animals died: [5, 3, 1, 1, 0]
+animals born: 13
+457 animals with average maxFood:  110.88212819411608
+animals died: [7, 0, 1, 0, 0]
+animals born: 15
+464 animals with average maxFood:  111.5778986636277
+animals died: [5, 0, 0, 0, 0]
+animals born: 28
+487 animals with average maxFood:  111.83461227877245
+animals died: [7, 1, 0, 0, 0]
+animals born: 30
+509 animals with average maxFood:  112.08159064030562
+animals died: [0, 3, 1, 0, 0]
+animals born: 16
+521 animals with average maxFood:  112.05971821950159
+animals died: [1, 4, 3, 0, 0]
+animals born: 15
+528 animals with average maxFood:  112.0493347426316
+animals died: [1, 3, 1, 0, 0]
+animals born: 8
+531 animals with average maxFood:  111.91230148544072
+animals died: [4, 7, 2, 0, 0]
+animals born: 3
+521 animals with average maxFood:  111.6562723086725
+animals died: [2, 3, 0, 0, 0]
+animals born: 6
+522 animals with average maxFood:  111.57303372568164
+animals died: [7, 1, 0, 1, 0]
+animals born: 7
+520 animals with average maxFood:  111.39800198012524
+animals died: [5, 2, 2, 0, 0]
+animals born: 15
+526 animals with average maxFood:  111.18835007180759
+animals died: [2, 1, 4, 0, 0]
+animals born: 17
+536 animals with average maxFood:  110.92522593010824
+animals died: [8, 2, 3, 0, 0]
+animals born: 25
+548 animals with average maxFood:  110.66939924066
+animals died: [5, 0, 1, 0, 0]
+animals born: 34
+576 animals with average maxFood:  110.43256150071461
+animals died: [4, 3, 0, 0, 0]
+animals born: 24
+593 animals with average maxFood:  109.73787848755696
+animals died: [3, 2, 1, 0, 0]
+animals born: 11
+598 animals with average maxFood:  109.35292489326405
+animals died: [2, 3, 0, 0, 0]
+animals born: 15
+608 animals with average maxFood:  108.68211234805536
+animals died: [2, 3, 3, 0, 0]
+animals born: 8
+608 animals with average maxFood:  108.38922200726843
+animals died: [5, 5, 1, 0, 0]
+animals born: 6
+603 animals with average maxFood:  108.23534099283346
+animals died: [5, 1, 0, 0, 0]
+animals born: 5
+602 animals with average maxFood:  107.99673294374259
+animals died: [9, 4, 1, 0, 0]
+animals born: 9
+597 animals with average maxFood:  107.72109645405509
+animals died: [1, 3, 3, 0, 0]
+animals born: 16
+606 animals with average maxFood:  107.17003042509
+animals died: [9, 3, 0, 0, 0]
+animals born: 22
+616 animals with average maxFood:  106.58862480460017
+animals died: [15, 6, 1, 0, 0]
+animals born: 30
+624 animals with average maxFood:  105.61459574781013
+animals died: [5, 6, 3, 0, 0]
+animals born: 33
+643 animals with average maxFood:  104.75881915157044
+animals died: [1, 8, 1, 0, 0]
+animals born: 9
+642 animals with average maxFood:  104.45579938337332
+animals died: [2, 4, 3, 0, 0]
+animals born: 17
+650 animals with average maxFood:  104.3811546125385
+animals died: [0, 11, 2, 0, 0]
+animals born: 13
+650 animals with average maxFood:  104.29785907990008
+animals died: [7, 9, 1, 0, 0]
+animals born: 7
+640 animals with average maxFood:  104.1888653969057
+animals died: [2, 7, 2, 0, 0]
+animals born: 7
+636 animals with average maxFood:  104.19236983073874
+animals died: [6, 13, 0, 0, 0]
+animals born: 10
+627 animals with average maxFood:  104.24087041802915
+animals died: [10, 6, 1, 0, 0]
+animals born: 18
+628 animals with average maxFood:  104.57935795497359
+animals died: [4, 2, 2, 0, 0]
+animals born: 27
+647 animals with average maxFood:  105.26359854308396
+animals died: [5, 5, 2, 0, 0]
+animals born: 23
+658 animals with average maxFood:  106.12592241122172
+animals died: [7, 12, 5, 0, 0]
+animals born: 32
+666 animals with average maxFood:  107.03992143701628
+animals died: [5, 7, 2, 0, 0]
+animals born: 16
+668 animals with average maxFood:  107.60358328778675
+animals died: [2, 4, 1, 1, 0]
+animals born: 15
+675 animals with average maxFood:  108.24986053855788
+animals died: [3, 16, 1, 0, 0]
+animals born: 16
+671 animals with average maxFood:  108.94799250455482
+animals died: [2, 4, 0, 0, 0]
+animals born: 12
+677 animals with average maxFood:  109.36340552093493
+animals died: [3, 12, 4, 0, 0]
+animals born: 10
+668 animals with average maxFood:  109.94093126262268
+animals died: [6, 4, 4, 0, 0]
+animals born: 7
+661 animals with average maxFood:  110.35313020900509
+animals died: [5, 7, 1, 0, 0]
+animals born: 14
+662 animals with average maxFood:  111.10866596040222
+animals died: [2, 5, 1, 0, 0]
+animals born: 25
+679 animals with average maxFood:  112.24058613791229
+animals died: [1, 2, 3, 0, 0]
+animals born: 26
+699 animals with average maxFood:  112.84264375417582
+animals died: [5, 8, 2, 0, 0]
+animals born: 28
+712 animals with average maxFood:  112.85370979083059
+animals died: [2, 9, 1, 0, 0]
+animals born: 23
+723 animals with average maxFood:  112.87803816972085
+animals died: [6, 7, 4, 0, 0]
+animals born: 14
+720 animals with average maxFood:  113.37483977867107
+animals died: [6, 10, 2, 0, 0]
+animals born: 17
+719 animals with average maxFood:  114.2648264069318
+animals died: [2, 8, 1, 0, 0]
+animals born: 14
+722 animals with average maxFood:  114.73075372616628
+animals died: [8, 5, 3, 0, 0]
+animals born: 10
+716 animals with average maxFood:  114.95788674242742
+animals died: [5, 6, 3, 0, 0]
+animals born: 9
+711 animals with average maxFood:  115.25123223291317
+animals died: [3, 5, 3, 0, 0]
+animals born: 16
+716 animals with average maxFood:  115.96432529813335
+animals died: [1, 8, 2, 0, 0]
+animals born: 16
+721 animals with average maxFood:  116.68242897451863
+animals died: [16, 6, 2, 0, 0]
+animals born: 33
+730 animals with average maxFood:  118.27602517603798
+animals died: [9, 4, 3, 0, 0]
+animals born: 34
+748 animals with average maxFood:  120.10328881072967
+animals died: [11, 11, 5, 0, 0]
+animals born: 22
+743 animals with average maxFood:  121.34750693383552
+animals died: [6, 9, 4, 0, 0]
+animals born: 15
+739 animals with average maxFood:  122.56832610823135
+animals died: [5, 12, 1, 0, 0]
+animals born: 14
+735 animals with average maxFood:  123.32260547823722
+animals died: [3, 5, 3, 0, 0]
+animals born: 20
+744 animals with average maxFood:  124.0129774420452
+animals died: [6, 9, 2, 0, 0]
+animals born: 8
+735 animals with average maxFood:  124.51777489116024
+animals died: [11, 11, 2, 0, 0]
+animals born: 8
+719 animals with average maxFood:  124.94853921092394
+animals died: [5, 4, 1, 0, 0]
+animals born: 14
+723 animals with average maxFood:  125.65214564732017
+animals died: [7, 6, 1, 1, 0]
+animals born: 19
+727 animals with average maxFood:  126.24166736170729
+animals died: [6, 7, 3, 0, 0]
+animals born: 20
+731 animals with average maxFood:  126.86983728068293
+animals died: [4, 6, 2, 0, 0]
+animals born: 41
+760 animals with average maxFood:  127.89185287549061
+animals died: [4, 6, 1, 0, 0]
+animals born: 26
+775 animals with average maxFood:  128.5650527350057
+animals died: [6, 9, 1, 0, 0]
+animals born: 17
+776 animals with average maxFood:  129.04278946888445
+animals died: [3, 6, 3, 0, 0]
+animals born: 20
+784 animals with average maxFood:  129.41259324283732
+animals died: [7, 5, 1, 1, 0]
+animals born: 14
+784 animals with average maxFood:  129.41986192643404
+animals died: [7, 5, 7, 0, 0]
+animals born: 17
+782 animals with average maxFood:  129.40793554767296
+animals died: [9, 3, 7, 0, 0]
+animals born: 9
+772 animals with average maxFood:  129.7012620628604
+animals died: [18, 8, 4, 0, 0]
+animals born: 7
+749 animals with average maxFood:  129.66450434425303
+animals died: [4, 5, 1, 0, 0]
+animals born: 24
+763 animals with average maxFood:  130.46240388513294
+animals died: [4, 10, 2, 0, 0]
+animals born: 19
+766 animals with average maxFood:  131.51901952675095
+animals died: [8, 6, 2, 0, 0]
+animals born: 31
+781 animals with average maxFood:  132.26436445748743
+animals died: [12, 5, 4, 0, 0]
+animals born: 26
+786 animals with average maxFood:  132.64191882569557
+animals died: [9, 8, 1, 0, 0]
+animals born: 25
+793 animals with average maxFood:  133.22150749221316
+animals died: [14, 7, 3, 0, 0]
+animals born: 15
+784 animals with average maxFood:  133.7318920910413
+animals died: [8, 10, 1, 0, 0]
+animals born: 15
+780 animals with average maxFood:  133.83158748686392
+animals died: [13, 1, 3, 0, 0]
+animals born: 10
+773 animals with average maxFood:  134.0172255146313
+animals died: [4, 9, 4, 0, 0]
+animals born: 12
+768 animals with average maxFood:  133.64879778918112
+animals died: [13, 8, 3, 0, 0]
+animals born: 10
+754 animals with average maxFood:  133.58562831036312
+animals died: [9, 2, 2, 0, 0]
+animals born: 19
+760 animals with average maxFood:  133.56552152574073
+animals died: [8, 7, 2, 0, 0]
+animals born: 17
+760 animals with average maxFood:  133.80005612039906
+animals died: [8, 5, 6, 0, 0]
+animals born: 31
+772 animals with average maxFood:  134.4922373960893
+animals died: [7, 2, 6, 1, 0]
+animals born: 36
+792 animals with average maxFood:  136.08713873553577
+animals died: [6, 4, 5, 0, 0]
+animals born: 24
+801 animals with average maxFood:  137.48132238632994
+animals died: [17, 6, 0, 0, 0]
+animals born: 14
+792 animals with average maxFood:  138.33758890288377
+animals died: [5, 9, 3, 0, 0]
+animals born: 14
+789 animals with average maxFood:  139.48462800657592
+animals died: [12, 5, 2, 0, 0]
+animals born: 14
+784 animals with average maxFood:  140.1666510015877
+animals died: [8, 6, 2, 0, 0]
+animals born: 10
+778 animals with average maxFood:  140.53821420577728
+animals died: [9, 9, 4, 0, 0]
+animals born: 13
+769 animals with average maxFood:  140.9555463825533
+animals died: [7, 8, 5, 0, 0]
+animals born: 15
+764 animals with average maxFood:  141.2319694746277
+animals died: [14, 7, 3, 0, 0]
+animals born: 11
+751 animals with average maxFood:  141.65670410764764
+animals died: [4, 6, 0, 0, 0]
+animals born: 22
+763 animals with average maxFood:  142.37835149782262
+animals died: [9, 6, 1, 0, 0]
+animals born: 33
+780 animals with average maxFood:  143.790117702737
+animals died: [1, 2, 3, 0, 0]
+animals born: 38
+812 animals with average maxFood:  144.68244104925486
+animals died: [7, 9, 3, 0, 0]
+animals born: 15
+808 animals with average maxFood:  144.88923838954537
+animals died: [3, 9, 1, 0, 0]
+animals born: 20
+815 animals with average maxFood:  145.13650344162366
+animals died: [9, 3, 3, 0, 0]
+animals born: 17
+817 animals with average maxFood:  145.09718288359727
+animals died: [8, 5, 9, 1, 0]
+animals born: 7
+801 animals with average maxFood:  145.31412158920057
+animals died: [6, 5, 12, 0, 0]
+animals born: 15
+793 animals with average maxFood:  145.48936492133012
+animals died: [9, 12, 4, 1, 0]
+animals born: 16
+783 animals with average maxFood:  145.68010993330478
+animals died: [9, 5, 4, 0, 0]
+animals born: 14
+779 animals with average maxFood:  145.98285157443567
+animals died: [8, 3, 2, 0, 0]
+animals born: 21
+787 animals with average maxFood:  146.14621752356499
+animals died: [13, 5, 4, 0, 0]
+animals born: 23
+788 animals with average maxFood:  146.40130939463177
+animals died: [5, 4, 5, 0, 0]
+animals born: 36
+810 animals with average maxFood:  147.01213988659777
+animals died: [6, 7, 4, 0, 0]
+animals born: 20
+813 animals with average maxFood:  147.41568622379438
+animals died: [6, 7, 2, 0, 0]
+animals born: 14
+812 animals with average maxFood:  147.77409160739663
+animals died: [8, 15, 10, 0, 0]
+animals born: 10
+789 animals with average maxFood:  148.3578258946752
+animals died: [18, 8, 1, 1, 0]
+animals born: 10
+771 animals with average maxFood:  148.40750854165384
+animals died: [5, 6, 4, 0, 0]
+animals born: 10
+766 animals with average maxFood:  148.7253014279994
+animals died: [11, 6, 4, 0, 0]
+animals born: 20
+765 animals with average maxFood:  149.23311686149032
+animals died: [8, 6, 1, 0, 0]
+animals born: 15
+765 animals with average maxFood:  149.4995485180841
+animals died: [7, 12, 4, 0, 0]
+animals born: 23
+765 animals with average maxFood:  149.86985477060963
+animals died: [6, 9, 11, 0, 0]
+animals born: 21
+760 animals with average maxFood:  150.75079610964423
+animals died: [7, 11, 5, 0, 0]
+animals born: 23
+760 animals with average maxFood:  151.69059452743147
+animals died: [8, 10, 3, 2, 0]
+animals born: 27
+764 animals with average maxFood:  153.08297503194206
+animals died: [11, 3, 4, 0, 0]
+animals born: 14
+760 animals with average maxFood:  153.94653609117395
+animals died: [9, 8, 4, 0, 0]
+animals born: 12
+751 animals with average maxFood:  154.69539277132972
+animals died: [15, 7, 5, 0, 0]
+animals born: 14
+738 animals with average maxFood:  155.64671086679968
+animals died: [3, 9, 7, 0, 0]
+animals born: 9
+728 animals with average maxFood:  155.98430452074388
+animals died: [7, 7, 2, 0, 0]
+animals born: 19
+731 animals with average maxFood:  157.177819830613
+animals died: [4, 9, 6, 1, 0]
+animals born: 18
+729 animals with average maxFood:  158.82954845777627
+animals died: [6, 7, 6, 0, 0]
+animals born: 14
+724 animals with average maxFood:  160.3653354919746
+animals died: [1, 7, 5, 0, 0]
+animals born: 25
+736 animals with average maxFood:  163.09730413198983
+animals died: [7, 12, 4, 0, 0]
+animals born: 21
+734 animals with average maxFood:  165.85867453314899
+animals died: [3, 8, 3, 0, 0]
+animals born: 24
+744 animals with average maxFood:  168.21362884979376
+animals died: [2, 8, 4, 0, 0]
+animals born: 19
+749 animals with average maxFood:  169.2938102451899
+animals died: [6, 11, 4, 0, 0]
+animals born: 22
+750 animals with average maxFood:  170.05377310647393
+animals died: [4, 10, 10, 0, 0]
+animals born: 14
+740 animals with average maxFood:  171.5744733006341
+animals died: [3, 9, 10, 1, 0]
+animals born: 6
+723 animals with average maxFood:  172.27122843742788
+animals died: [3, 5, 6, 0, 0]
+animals born: 15
+724 animals with average maxFood:  173.40159339318575
+animals died: [5, 4, 7, 0, 0]
+animals born: 21
+729 animals with average maxFood:  174.73566328498487
+animals died: [4, 4, 5, 0, 0]
+animals born: 12
+728 animals with average maxFood:  175.5993059525699
+animals died: [3, 4, 4, 0, 0]
+animals born: 17
+734 animals with average maxFood:  177.38975795215734
+animals died: [4, 7, 2, 1, 0]
+animals born: 24
+744 animals with average maxFood:  179.72973142712397
+animals died: [7, 16, 7, 0, 0]
+animals born: 17
+731 animals with average maxFood:  181.12235461150433
+animals died: [4, 9, 2, 0, 0]
+animals born: 21
+737 animals with average maxFood:  182.6601720531885
+animals died: [5, 8, 2, 1, 0]
+animals born: 19
+740 animals with average maxFood:  184.2363303496934
+animals died: [7, 7, 6, 1, 0]
+animals born: 8
+727 animals with average maxFood:  184.31119581513897
+animals died: [3, 5, 4, 0, 0]
+animals born: 13
+728 animals with average maxFood:  185.0227836470034
+animals died: [3, 7, 3, 2, 0]
+animals born: 12
+725 animals with average maxFood:  185.42417254378918
+animals died: [5, 11, 3, 1, 0]
+animals born: 18
+723 animals with average maxFood:  186.0196497715629
+animals died: [4, 8, 6, 2, 0]
+animals born: 20
+723 animals with average maxFood:  186.4145991841753
+animals died: [4, 8, 9, 0, 0]
+animals born: 6
+708 animals with average maxFood:  186.4681935914714
+animals died: [3, 6, 3, 2, 0]
+animals born: 17
+711 animals with average maxFood:  187.24229179980134
+animals died: [10, 6, 3, 2, 0]
+animals born: 23
+713 animals with average maxFood:  187.5508989716278
+animals died: [3, 12, 7, 1, 0]
+animals born: 15
+705 animals with average maxFood:  187.3429776255537
+animals died: [3, 7, 6, 1, 0]
+animals born: 19
+707 animals with average maxFood:  187.63883415322593
+animals died: [7, 13, 5, 0, 0]
+animals born: 13
+695 animals with average maxFood:  187.62691436095898
+animals died: [2, 9, 5, 0, 0]
+animals born: 12
+691 animals with average maxFood:  187.5967161207129
+animals died: [7, 6, 2, 1, 0]
+animals born: 11
+686 animals with average maxFood:  186.8950713210911
+animals died: [5, 7, 3, 2, 0]
+animals born: 12
+681 animals with average maxFood:  187.10923362570225
+animals died: [2, 7, 3, 0, 0]
+animals born: 14
+683 animals with average maxFood:  187.57024073999906
+animals died: [6, 9, 3, 1, 0]
+animals born: 8
+672 animals with average maxFood:  188.1537172796246
+animals died: [10, 8, 4, 0, 0]
+animals born: 15
+665 animals with average maxFood:  188.57506397704438
+animals died: [5, 10, 3, 2, 0]
+animals born: 12
+657 animals with average maxFood:  188.6743400546499
+animals died: [9, 8, 4, 1, 0]
+animals born: 17
+652 animals with average maxFood:  188.83670897553594
+animals died: [4, 10, 7, 1, 0]
+animals born: 14
+644 animals with average maxFood:  188.7697454689128
+animals died: [4, 9, 9, 0, 0]
+animals born: 19
+641 animals with average maxFood:  189.37827351164313
+animals died: [6, 15, 4, 0, 0]
+animals born: 9
+625 animals with average maxFood:  189.68353897672586
+animals died: [1, 7, 6, 2, 0]
+animals born: 12
+621 animals with average maxFood:  190.22921356783755
+animals died: [1, 14, 6, 1, 0]
+animals born: 13
+612 animals with average maxFood:  190.34538039870864
+animals died: [3, 12, 4, 2, 0]
+animals born: 10
+601 animals with average maxFood:  190.35300405024373
+animals died: [11, 6, 4, 3, 0]
+animals born: 9
+586 animals with average maxFood:  190.87433971083502
+animals died: [3, 4, 7, 1, 0]
+animals born: 9
+580 animals with average maxFood:  191.32827073739887
+animals died: [7, 10, 4, 1, 0]
+animals born: 13
+571 animals with average maxFood:  192.19341163209128
+animals died: [6, 9, 4, 5, 0]
+animals born: 16
+563 animals with average maxFood:  193.840203788779
+animals died: [4, 9, 6, 0, 0]
+animals born: 13
+557 animals with average maxFood:  194.67345713556435
+animals died: [3, 2, 5, 1, 0]
+animals born: 15
+561 animals with average maxFood:  195.62716344068434
+animals died: [5, 11, 7, 1, 0]
+animals born: 8
+545 animals with average maxFood:  196.18200739413678
+animals died: [5, 8, 3, 0, 0]
+animals born: 9
+538 animals with average maxFood:  196.72168694819808
+animals died: [1, 7, 6, 2, 0]
+animals born: 11
+533 animals with average maxFood:  197.31154572779465
+animals died: [0, 7, 3, 1, 0]
+animals born: 16
+538 animals with average maxFood:  197.15465234440825
+animals died: [7, 6, 10, 1, 0]
+animals born: 14
+528 animals with average maxFood:  197.48422142035446
+animals died: [7, 6, 4, 1, 0]
+animals born: 7
+517 animals with average maxFood:  197.41729353798502
+animals died: [3, 5, 6, 0, 0]
+animals born: 14
+517 animals with average maxFood:  197.6503715098248
+animals died: [2, 7, 7, 1, 1]
+animals born: 14
+513 animals with average maxFood:  198.31451487745707
+animals died: [3, 6, 8, 1, 0]
+animals born: 10
+505 animals with average maxFood:  198.46927503782896
+animals died: [3, 6, 7, 1, 1]
+animals born: 8
+495 animals with average maxFood:  199.17239685219673
+animals died: [6, 7, 8, 0, 0]
+animals born: 14
+488 animals with average maxFood:  199.5332526276408
+animals died: [4, 3, 6, 0, 0]
+animals born: 9
+484 animals with average maxFood:  199.43620392360236
+animals died: [1, 8, 3, 0, 0]
+animals born: 7
+479 animals with average maxFood:  199.38412375662122
+animals died: [6, 3, 5, 0, 0]
+animals born: 11
+476 animals with average maxFood:  199.75176864990755
+animals died: [4, 5, 9, 3, 0]
+animals born: 7
+462 animals with average maxFood:  199.59386764915124
+animals died: [1, 5, 9, 0, 0]
+animals born: 11
+458 animals with average maxFood:  199.81955546584837
+animals died: [2, 2, 6, 0, 0]
+animals born: 13
+461 animals with average maxFood:  200.55755163280824
+animals died: [4, 5, 7, 2, 0]
+animals born: 6
+449 animals with average maxFood:  200.58720811118647
+animals died: [8, 1, 4, 2, 0]
+animals born: 12
+446 animals with average maxFood:  199.6325246860105
+animals died: [7, 4, 6, 0, 0]
+animals born: 5
+434 animals with average maxFood:  199.12264871337553
+animals died: [5, 4, 5, 0, 0]
+animals born: 9
+429 animals with average maxFood:  198.55076212363815
+animals died: [6, 4, 3, 0, 0]
+animals born: 12
+428 animals with average maxFood:  197.69619613066618
+animals died: [3, 3, 4, 0, 0]
+animals born: 9
+427 animals with average maxFood:  197.35248600336394
+animals died: [5, 3, 5, 0, 0]
+animals born: 8
+422 animals with average maxFood:  196.56849462139027
+animals died: [4, 4, 6, 1, 0]
+animals born: 11
+418 animals with average maxFood:  195.9737901105874
+animals died: [4, 5, 9, 2, 0]
+animals born: 8
+406 animals with average maxFood:  195.3360867056834
+animals died: [4, 2, 6, 0, 2]
+animals born: 14
+406 animals with average maxFood:  194.58495914021893
+animals died: [4, 3, 9, 1, 0]
+animals born: 9
+398 animals with average maxFood:  194.6403370128877
+animals died: [6, 2, 8, 1, 1]
+animals born: 7
+387 animals with average maxFood:  194.07824016853678
+animals died: [1, 3, 5, 2, 0]
+animals born: 9
+385 animals with average maxFood:  194.21027491786356
+animals died: [5, 4, 5, 1, 0]
+animals born: 6
+376 animals with average maxFood:  193.75160630126814
+animals died: [2, 5, 3, 2, 0]
+animals born: 5
+369 animals with average maxFood:  194.18037601256074
+animals died: [1, 0, 3, 1, 1]
+animals born: 7
+370 animals with average maxFood:  194.31256491657095
+animals died: [2, 1, 8, 3, 0]
+animals born: 9
+365 animals with average maxFood:  193.22684460015344
+animals died: [4, 0, 7, 0, 0]
+animals born: 7
+361 animals with average maxFood:  191.99052579758757
+animals died: [5, 4, 3, 3, 1]
+animals born: 7
+352 animals with average maxFood:  192.1411400170394
+animals died: [6, 1, 6, 2, 0]
+animals born: 7
+344 animals with average maxFood:  191.79668177854484
+animals died: [1, 2, 2, 2, 3]
+animals born: 10
+344 animals with average maxFood:  192.73004112555824
+animals died: [3, 2, 4, 1, 0]
+animals born: 14
+348 animals with average maxFood:  192.99046492689882
+animals died: [8, 1, 3, 0, 1]
+animals born: 10
+345 animals with average maxFood:  192.78783443671637
+animals died: [4, 1, 4, 1, 1]
+animals born: 8
+342 animals with average maxFood:  192.28802415217427
+animals died: [0, 4, 7, 1, 1]
+animals born: 8
+337 animals with average maxFood:  191.45742307770342
+animals died: [2, 1, 7, 3, 0]
+animals born: 6
+330 animals with average maxFood:  190.76773818653575
+animals died: [3, 0, 7, 1, 0]
+animals born: 6
+325 animals with average maxFood:  190.0498888947679
+animals died: [1, 1, 5, 3, 0]
+animals born: 1
+316 animals with average maxFood:  190.49811866430088
+animals died: [4, 0, 8, 1, 0]
+animals born: 5
+308 animals with average maxFood:  189.81837467999043
+animals died: [4, 2, 5, 3, 0]
+animals born: 6
+300 animals with average maxFood:  189.49068441910015
+animals died: [2, 2, 4, 1, 1]
+animals born: 5
+295 animals with average maxFood:  189.18672316632575
+animals died: [0, 3, 5, 1, 0]
+animals born: 13
+299 animals with average maxFood:  188.00713584555132
+animals died: [1, 2, 5, 0, 0]
+animals born: 9
+300 animals with average maxFood:  187.40729037028677
+animals died: [1, 0, 6, 3, 0]
+animals born: 5
+295 animals with average maxFood:  187.04245487674825
+animals died: [2, 0, 2, 1, 0]
+animals born: 5
+295 animals with average maxFood:  186.6944449149727
+animals died: [2, 0, 4, 0, 1]
+animals born: 5
+293 animals with average maxFood:  186.09322828379672
+animals died: [4, 1, 4, 0, 0]
+animals born: 5
+289 animals with average maxFood:  184.65270154573298
+animals died: [2, 1, 1, 3, 0]
+animals born: 5
+287 animals with average maxFood:  184.55143383782598
+animals died: [4, 4, 5, 0, 0]
+animals born: 6
+280 animals with average maxFood:  181.85121309705318
+animals died: [5, 1, 6, 1, 0]
+animals born: 5
+272 animals with average maxFood:  180.09216214211685
+animals died: [1, 2, 6, 1, 0]
+animals born: 13
+275 animals with average maxFood:  177.9172774769959
+animals died: [3, 1, 2, 1, 0]
+animals born: 5
+273 animals with average maxFood:  176.9498467277244
+animals died: [5, 0, 1, 2, 0]
+animals born: 10
+275 animals with average maxFood:  176.7783958551662
+animals died: [1, 1, 5, 0, 0]
+animals born: 5
+273 animals with average maxFood:  175.8473759375532
+animals died: [0, 2, 2, 1, 0]
+animals born: 3
+271 animals with average maxFood:  175.4579385095821
+animals died: [0, 0, 4, 0, 1]
+animals born: 8
+274 animals with average maxFood:  175.1861480696988
+animals died: [3, 1, 3, 2, 0]
+animals born: 4
+269 animals with average maxFood:  174.3667197573727
+animals died: [1, 1, 5, 3, 0]
+animals born: 2
+261 animals with average maxFood:  174.22034806415923
+animals died: [2, 1, 2, 5, 0]
+animals born: 5
+256 animals with average maxFood:  173.65000367051303
+animals died: [4, 1, 2, 2, 0]
+animals born: 3
+250 animals with average maxFood:  172.89636337309932
+animals died: [3, 1, 3, 4, 0]
+animals born: 7
+246 animals with average maxFood:  173.2499832692573
+animals died: [1, 0, 3, 4, 1]
+animals born: 5
+242 animals with average maxFood:  174.20801158868423
+animals died: [3, 0, 2, 4, 0]
+animals born: 5
+238 animals with average maxFood:  174.78965820735294
+animals died: [2, 1, 3, 3, 1]
+animals born: 8
+236 animals with average maxFood:  174.6524425676021
+animals died: [0, 0, 5, 2, 1]
+animals born: 6
+234 animals with average maxFood:  175.09375311254587
+animals died: [2, 0, 3, 2, 0]
+animals born: 7
+234 animals with average maxFood:  174.8291000680671
+animals died: [3, 0, 2, 0, 0]
+animals born: 7
+236 animals with average maxFood:  173.8826624991925
+animals died: [1, 2, 3, 4, 0]
+animals born: 1
+227 animals with average maxFood:  174.02098944013082
+animals died: [2, 0, 5, 4, 0]
+animals born: 2
+218 animals with average maxFood:  174.4178578480506
+animals died: [1, 0, 5, 4, 0]
+animals born: 5
+213 animals with average maxFood:  174.82986200460164
+animals died: [0, 0, 1, 2, 1]
+animals born: 3
+212 animals with average maxFood:  175.4508523556903
+animals died: [5, 1, 2, 1, 0]
+animals born: 5
+208 animals with average maxFood:  174.33725025852334
+animals died: [1, 0, 3, 3, 0]
+animals born: 5
+206 animals with average maxFood:  174.2981420609663
+animals died: [0, 0, 3, 2, 0]
+animals born: 5
+206 animals with average maxFood:  174.2385801334554
+animals died: [1, 0, 5, 4, 0]
+animals born: 8
+204 animals with average maxFood:  173.5331237507545
+animals died: [1, 0, 1, 2, 0]
+animals born: 6
+206 animals with average maxFood:  173.932267040246
+animals died: [3, 0, 2, 3, 1]
+animals born: 4
+201 animals with average maxFood:  174.46307194477237
+animals died: [1, 0, 3, 1, 1]
+animals born: 1
+196 animals with average maxFood:  174.42205622950934
+animals died: [4, 2, 7, 3, 0]
+animals born: 4
+184 animals with average maxFood:  172.6391279885842
+animals died: [5, 0, 4, 1, 0]
+animals born: 3
+177 animals with average maxFood:  172.48964184559918
+animals died: [5, 0, 2, 1, 1]
+animals born: 3
+171 animals with average maxFood:  173.0522198026793
+animals died: [1, 0, 3, 3, 1]
+animals born: 4
+167 animals with average maxFood:  173.2682977981838
+animals died: [2, 0, 2, 0, 0]
+animals born: 3
+166 animals with average maxFood:  172.8446188877722
+animals died: [2, 0, 1, 0, 0]
+animals born: 6
+169 animals with average maxFood:  172.98317737548362
+animals died: [0, 1, 0, 2, 0]
+animals born: 3
+169 animals with average maxFood:  173.14540357335085
+animals died: [3, 0, 2, 1, 0]
+animals born: 8
+171 animals with average maxFood:  173.16823863647883
+animals died: [2, 0, 4, 0, 0]
+animals born: 3
+168 animals with average maxFood:  172.6096879970009
+animals died: [5, 0, 4, 1, 0]
+animals born: 2
+160 animals with average maxFood:  170.97572989645707
+animals died: [2, 2, 2, 2, 0]
+animals born: 3
+155 animals with average maxFood:  171.0241433948251
+animals died: [1, 0, 2, 0, 0]
+animals born: 3
+155 animals with average maxFood:  169.88776352556812
+animals died: [1, 0, 4, 2, 0]
+animals born: 4
+152 animals with average maxFood:  170.08591468562537
+animals died: [4, 0, 3, 0, 0]
+animals born: 2
+147 animals with average maxFood:  169.3129669266117
+animals died: [0, 0, 1, 0, 1]
+animals born: 1
+146 animals with average maxFood:  169.6360027501801
+animals died: [0, 0, 3, 0, 0]
+animals born: 3
+146 animals with average maxFood:  169.2628078758857
+animals died: [0, 0, 1, 1, 0]
+animals born: 4
+148 animals with average maxFood:  169.72237542812138
+animals died: [0, 1, 3, 2, 0]
+animals born: 1
+143 animals with average maxFood:  169.80872874755414
+animals died: [4, 0, 2, 2, 0]
+animals born: 2
+137 animals with average maxFood:  170.3415189108606
+animals died: [0, 0, 2, 3, 0]
+animals born: 3
+135 animals with average maxFood:  169.51513659067214
+animals died: [2, 0, 1, 1, 0]
+animals born: 0
+131 animals with average maxFood:  169.21903941754488
+animals died: [3, 0, 3, 1, 0]
+animals born: 2
+126 animals with average maxFood:  168.26912685921687
+animals died: [1, 0, 4, 2, 0]
+animals born: 2
+121 animals with average maxFood:  168.0916403862266
+animals died: [1, 1, 1, 1, 0]
+animals born: 4
+121 animals with average maxFood:  167.0496361869341
+animals died: [3, 0, 1, 0, 1]
+animals born: 2
+118 animals with average maxFood:  166.23168318004497
+animals died: [1, 0, 3, 1, 0]
+animals born: 3
+116 animals with average maxFood:  166.39774394218244
+animals died: [1, 1, 1, 1, 0]
+animals born: 3
+115 animals with average maxFood:  165.19110559705456
+animals died: [5, 0, 3, 2, 0]
+animals born: 5
+110 animals with average maxFood:  164.11555987571313
+animals died: [0, 2, 1, 0, 0]
+animals born: 2
+109 animals with average maxFood:  163.75454852672416
+animals died: [3, 0, 3, 0, 0]
+animals born: 1
+104 animals with average maxFood:  161.40394307623427
+animals died: [0, 0, 0, 1, 0]
+animals born: 2
+105 animals with average maxFood:  161.83476961728547
+animals died: [1, 2, 3, 1, 0]
+animals born: 2
+100 animals with average maxFood:  160.2966928968187
+animals died: [2, 0, 0, 4, 0]
+animals born: 1
+95 animals with average maxFood:  162.73113356163987
+animals died: [2, 2, 1, 1, 0]
+animals born: 3
+92 animals with average maxFood:  161.548739376922
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+92 animals with average maxFood:  161.548739376922
+animals died: [0, 0, 0, 2, 0]
+animals born: 2
+92 animals with average maxFood:  162.65311074481514
+animals died: [0, 0, 0, 2, 0]
+animals born: 0
+90 animals with average maxFood:  163.61610858795086
+animals died: [1, 0, 1, 1, 0]
+animals born: 1
+88 animals with average maxFood:  162.36460604618966
+animals died: [1, 0, 0, 1, 0]
+animals born: 2
+88 animals with average maxFood:  161.91661068491675
+animals died: [2, 0, 0, 3, 0]
+animals born: 0
+83 animals with average maxFood:  162.98005172188832
+animals died: [2, 0, 2, 1, 0]
+animals born: 0
+78 animals with average maxFood:  161.03854333664745
+animals died: [0, 0, 0, 3, 0]
+animals born: 1
+76 animals with average maxFood:  162.2127782606624
+animals died: [1, 0, 0, 2, 0]
+animals born: 3
+76 animals with average maxFood:  163.4333367045277
+animals died: [0, 1, 0, 0, 0]
+animals born: 1
+76 animals with average maxFood:  163.4983842528015
+animals died: [2, 0, 0, 2, 0]
+animals born: 0
+72 animals with average maxFood:  163.4851932343687
+animals died: [1, 0, 0, 1, 0]
+animals born: 3
+73 animals with average maxFood:  162.6417788769245
+animals died: [2, 1, 0, 2, 0]
+animals born: 0
+68 animals with average maxFood:  162.20350704471778
+animals died: [2, 0, 0, 4, 0]
+animals born: 0
+62 animals with average maxFood:  164.4959839143807
+animals died: [3, 0, 0, 3, 0]
+animals born: 1
+57 animals with average maxFood:  166.21120788419736
+animals died: [4, 0, 0, 1, 0]
+animals born: 0
+52 animals with average maxFood:  165.31158488894528
+animals died: [1, 0, 0, 1, 0]
+animals born: 0
+50 animals with average maxFood:  165.61003238036128
+animals died: [4, 1, 0, 1, 0]
+animals born: 0
+44 animals with average maxFood:  161.924760038849
+animals died: [1, 1, 0, 0, 0]
+animals born: 1
+43 animals with average maxFood:  161.2221494077083
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+44 animals with average maxFood:  162.15923990613769
+animals died: [1, 0, 0, 2, 0]
+animals born: 0
+41 animals with average maxFood:  164.48680014182045
+animals died: [0, 0, 0, 2, 0]
+animals born: 0
+39 animals with average maxFood:  166.74906683458556
+animals died: [1, 0, 0, 1, 0]
+animals born: 1
+38 animals with average maxFood:  168.68618453746748
+animals died: [0, 0, 0, 1, 0]
+animals born: 0
+37 animals with average maxFood:  170.23259193555447
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+38 animals with average maxFood:  171.13138375516525
+animals died: [1, 1, 0, 4, 0]
+animals born: 0
+32 animals with average maxFood:  176.205008495922
+animals died: [2, 0, 0, 0, 0]
+animals born: 0
+30 animals with average maxFood:  174.00754246519853
+animals died: [2, 0, 0, 3, 0]
+animals born: 0
+25 animals with average maxFood:  178.336290495722
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+25 animals with average maxFood:  178.95449946266456
+animals died: [1, 0, 0, 1, 0]
+animals born: 0
+23 animals with average maxFood:  180.36034316835642
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+23 animals with average maxFood:  180.36034316835642
+animals died: [0, 0, 0, 1, 0]
+animals born: 0
+22 animals with average maxFood:  182.88420436942863
+animals died: [1, 0, 0, 1, 0]
+animals born: 1
+21 animals with average maxFood:  186.36756383260786
+animals died: [0, 0, 0, 2, 0]
+animals born: 0
+19 animals with average maxFood:  193.77778605493594
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+19 animals with average maxFood:  193.77778605493594
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+18 animals with average maxFood:  192.88755722045138
+animals died: [2, 0, 0, 0, 0]
+animals born: 0
+16 animals with average maxFood:  191.57015964181957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+16 animals with average maxFood:  191.57015964181957
+animals died: [0, 0, 0, 2, 0]
+animals born: 0
+14 animals with average maxFood:  203.58372343454454
+animals died: [2, 0, 0, 0, 0]
+animals born: 1
+13 animals with average maxFood:  201.04550823347014
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+12 animals with average maxFood:  202.86561508418887
+animals died: [0, 0, 0, 0, 0]
+animals born: 1
+13 animals with average maxFood:  203.15822281148633
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+13 animals with average maxFood:  203.413814238598
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+13 animals with average maxFood:  203.413814238598
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+13 animals with average maxFood:  203.413814238598
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+13 animals with average maxFood:  203.413814238598
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+12 animals with average maxFood:  204.04766924173092
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+12 animals with average maxFood:  204.04766924173092
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+12 animals with average maxFood:  204.04766924173092
+animals died: [2, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.4584819475303
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+10 animals with average maxFood:  204.7875805219167
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+9 animals with average maxFood:  204.65861177597085
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+9 animals with average maxFood:  204.65861177597085
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+9 animals with average maxFood:  204.65861177597085
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+9 animals with average maxFood:  204.58901699483687
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+9 animals with average maxFood:  204.58901699483687
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+8 animals with average maxFood:  202.57792381850308
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+7 animals with average maxFood:  198.6759022314184
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+7 animals with average maxFood:  198.6759022314184
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+7 animals with average maxFood:  198.6759022314184
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+7 animals with average maxFood:  198.6759022314184
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+7 animals with average maxFood:  198.6759022314184
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+6 animals with average maxFood:  196.87325099865936
+animals died: [1, 0, 0, 0, 0]
+animals born: 1
+6 animals with average maxFood:  202.49391002160368
+animals died: [2, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+4 animals with average maxFood:  200.0147809037126
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+3 animals with average maxFood:  196.40172209079535
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+3 animals with average maxFood:  196.40172209079535
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+3 animals with average maxFood:  196.40172209079535
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+2 animals with average maxFood:  191.28774775184957
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+1 animals with average maxFood:  206.66951553905548
+animals died: [1, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0
+animals died: [0, 0, 0, 0, 0]
+animals born: 0
+0 animals with average maxFood:  0.0

@@ -1,0 +1,4003 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+80 200
+animals died: [0, 0, 20, 0, 0]
+animals born: [0, 0]
+260 animals with average maxFood:  100.0
+180 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 9, 0, 0]
+animals born: [0, 0]
+251 animals with average maxFood:  100.0
+171 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: [0, 0]
+243 animals with average maxFood:  100.0
+163 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: [0, 0]
+235 animals with average maxFood:  100.0
+155 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: [0, 0]
+227 animals with average maxFood:  100.0
+147 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 6, 0, 0]
+animals born: [0, 0]
+221 animals with average maxFood:  100.0
+141 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 5, 0, 0]
+animals born: [0, 0]
+216 animals with average maxFood:  100.0
+136 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 4, 0, 0]
+animals born: [0, 0]
+212 animals with average maxFood:  100.0
+132 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 3, 0, 0]
+animals born: [0, 0]
+209 animals with average maxFood:  100.0
+129 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 1, 0, 0]
+animals born: [0, 0]
+208 animals with average maxFood:  100.0
+128 prey: 100.0 ;  80 predator: 100.0
+animals died: [0, 0, 0, 0, 0]
+animals born: [43, 0]
+251 animals with average maxFood:  99.9126439066887
+171 prey: 99.87177555894073 ;  80 predator: 100.0
+animals died: [0, 0, 2, 0, 0]
+animals born: [2, 0]
+251 animals with average maxFood:  99.93441250979372
+171 prey: 99.90372830384928 ;  80 predator: 100.0
+animals died: [0, 0, 0, 0, 0]
+animals born: [0, 0]
+251 animals with average maxFood:  99.93441250979372
+171 prey: 99.90372830384928 ;  80 predator: 100.0
+animals died: [0, 20, 0, 6, 11]
+animals born: [1, 0]
+215 animals with average maxFood:  99.93943454295494
+152 prey: 99.91433175483759 ;  63 predator: 100.0
+animals died: [0, 0, 4, 0, 0]
+animals born: [0, 0]
+211 animals with average maxFood:  99.96537884101471
+148 prey: 99.950641455771 ;  63 predator: 100.0
+animals died: [0, 0, 8, 0, 0]
+animals born: [0, 26]
+229 animals with average maxFood:  99.69306312195258
+140 prey: 99.94143855217521 ;  89 predator: 99.30236019800692
+animals died: [0, 0, 17, 0, 0]
+animals born: [0, 1]
+213 animals with average maxFood:  99.66572040477148
+123 prey: 99.96746390578127 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 3, 0, 0]
+animals born: [0, 0]
+210 animals with average maxFood:  99.66443459409436
+120 prey: 99.97275732462154 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 5, 0, 0]
+animals born: [0, 0]
+205 animals with average maxFood:  99.65766429022261
+115 prey: 99.97409385817744 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 3, 0, 0]
+animals born: [6, 0]
+208 animals with average maxFood:  99.72997584427368
+118 prey: 100.09351347291269 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 6, 0, 0]
+animals born: [32, 0]
+234 animals with average maxFood:  100.60597368078889
+144 prey: 101.45137121874556 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 6, 0, 0]
+animals born: [5, 0]
+233 animals with average maxFood:  100.79844960537352
+143 prey: 101.7708977080195 ;  90 predator: 99.25333762005813
+animals died: [0, 0, 3, 17, 0]
+animals born: [0, 0]
+213 animals with average maxFood:  101.00827447416582
+140 prey: 101.75702109971857 ;  73 predator: 99.57232204159888
+animals died: [0, 0, 0, 0, 0]
+animals born: [2, 0]
+215 animals with average maxFood:  101.10726586484239
+142 prey: 101.89635670355209 ;  73 predator: 99.57232204159888
+animals died: [0, 0, 1, 0, 0]
+animals born: [0, 0]
+214 animals with average maxFood:  101.12091727140613
+141 prey: 101.92267224854038 ;  73 predator: 99.57232204159888
+animals died: [0, 0, 2, 0, 0]
+animals born: [0, 0]
+212 animals with average maxFood:  101.13149196264581
+139 prey: 101.95033659744024 ;  73 predator: 99.57232204159888
+animals died: [0, 0, 0, 0, 0]
+animals born: [0, 0]
+212 animals with average maxFood:  101.13149196264581
+139 prey: 101.95033659744024 ;  73 predator: 99.57232204159888
+animals died: [0, 0, 0, 2, 0]
+animals born: [0, 0]
+210 animals with average maxFood:  101.14226807657579
+139 prey: 101.95033659744024 ;  71 predator: 99.56027477516504
+animals died: [0, 0, 0, 1, 0]
+animals born: [0, 0]
+209 animals with average maxFood:  101.14773347407134
+139 prey: 101.95033659744024 ;  70 predator: 99.55399298623882
+animals died: [0, 0, 4, 6, 0]
+animals born: [14, 3]
+216 animals with average maxFood:  101.53662077981035
+149 prey: 102.52594203342791 ;  67 predator: 99.3364884396757
+animals died: [0, 0, 13, 2, 0]
+animals born: [32, 17]
+250 animals with average maxFood:  101.47170218839669
+168 prey: 102.65212739658612 ;  82 predator: 99.05327005454501
+animals died: [0, 0, 7, 1, 0]
+animals born: [5, 3]
+250 animals with average maxFood:  101.47235548858283
+166 prey: 102.65402262626618 ;  84 predator: 99.13715614506557
+animals died: [0, 0, 14, 1, 0]
+animals born: [1, 1]
+237 animals with average maxFood:  101.415164781889
+153 prey: 102.65901958740858 ;  84 predator: 99.14957210040679
+animals died: [0, 0, 8, 0, 0]
+animals born: [1, 1]
+231 animals with average maxFood:  101.36246444812356
+146 prey: 102.62524598507927 ;  85 predator: 99.19345145523488
+animals died: [0, 1, 4, 1, 0]
+animals born: [1, 1]
+227 animals with average maxFood:  101.35958545493857
+142 prey: 102.64741493185613 ;  85 predator: 99.20815268173499
+animals died: [0, 0, 3, 1, 0]
+animals born: [0, 1]
+224 animals with average maxFood:  101.30652382979767
+139 prey: 102.58413670446704 ;  85 predator: 99.21725101122061
+animals died: [0, 0, 2, 0, 0]
+animals born: [0, 0]
+222 animals with average maxFood:  101.2783526539584
+137 prey: 102.55713834470808 ;  85 predator: 99.21725101122061
+animals died: [1, 0, 5, 8, 0]
+animals born: [0, 0]
+208 animals with average maxFood:  101.48524605618253
+131 prey: 102.66150881660955 ;  77 predator: 99.48407174948191
+animals died: [0, 0, 5, 0, 0]
+animals born: [0, 0]
+203 animals with average maxFood:  101.44264822768228
+126 prey: 102.63955607547136 ;  77 predator: 99.48407174948191
+animals died: [0, 0, 2, 0, 0]
+animals born: [7, 0]
+208 animals with average maxFood:  101.47417424348865
+131 prey: 102.643929144546 ;  77 predator: 99.48407174948191
+animals died: [0, 0, 1, 1, 0]
+animals born: [32, 0]
+238 animals with average maxFood:  101.1120709484091
+162 prey: 101.89678196464229 ;  76 predator: 99.43939746643832
+animals died: [0, 0, 3, 1, 0]
+animals born: [12, 0]
+246 animals with average maxFood:  101.24249583935888
+171 prey: 102.03660683645008 ;  75 predator: 99.43192276599083
+animals died: [0, 0, 0, 3, 0]
+animals born: [2, 0]
+245 animals with average maxFood:  101.2515607472175
+173 prey: 102.02318805563726 ;  72 predator: 99.39751179781996
+animals died: [1, 0, 6, 4, 0]
+animals born: [0, 2]
+236 animals with average maxFood:  101.24312098848424
+166 prey: 102.00514485590199 ;  70 predator: 99.43603581717912
+animals died: [0, 1, 3, 1, 0]
+animals born: [2, 2]
+235 animals with average maxFood:  101.23779015316367
+164 prey: 102.0023557893542 ;  71 predator: 99.47175121886431
+animals died: [0, 0, 3, 0, 0]
+animals born: [0, 12]
+244 animals with average maxFood:  101.18948348758211
+161 prey: 102.02164303145342 ;  83 predator: 99.57529449284384
+animals died: [2, 0, 12, 0, 0]
+animals born: [0, 7]
+237 animals with average maxFood:  100.93479250470881
+147 prey: 101.93357340316294 ;  90 predator: 99.30345037056702
+animals died: [2, 0, 10, 2, 0]
+animals born: [0, 1]
+224 animals with average maxFood:  100.90106984973127
+135 prey: 101.99742970812544 ;  89 predator: 99.23805208699852
+animals died: [0, 0, 6, 0, 0]
+animals born: [1, 2]
+221 animals with average maxFood:  100.81103264121933
+130 prey: 101.982913141477 ;  91 predator: 99.13691764085118
+animals died: [0, 0, 4, 0, 0]
+animals born: [6, 1]
+224 animals with average maxFood:  100.77718789148416
+132 prey: 101.95398605860541 ;  92 predator: 99.08873834735367
+animals died: [0, 0, 3, 1, 0]
+animals born: [22, 1]
+243 animals with average maxFood:  101.1757402683785
+151 prey: 102.48582282471494 ;  92 predator: 99.02549607265242
+animals died: [0, 0, 5, 2, 0]
+animals born: [16, 0]
+252 animals with average maxFood:  101.57526108902826
+162 prey: 103.0159999079502 ;  90 predator: 98.98193121496882
+animals died: [0, 0, 3, 5, 0]
+animals born: [2, 0]
+246 animals with average maxFood:  101.60842230524543
+161 prey: 103.01677823835857 ;  85 predator: 98.94083047899589
+animals died: [0, 2, 2, 3, 0]
+animals born: [0, 0]
+239 animals with average maxFood:  101.6885117893818
+157 prey: 103.06849566906588 ;  82 predator: 99.04634753193793
+animals died: [0, 0, 5, 1, 0]
+animals born: [2, 0]
+235 animals with average maxFood:  101.76853137171497
+154 prey: 103.17324985146718 ;  81 predator: 99.09783203984041
+animals died: [0, 0, 3, 1, 0]
+animals born: [1, 0]
+232 animals with average maxFood:  101.79724978202766
+152 prey: 103.18650538745456 ;  80 predator: 99.15766413171654
+animals died: [0, 0, 1, 1, 0]
+animals born: [0, 0]
+230 animals with average maxFood:  101.77630184266026
+151 prey: 103.15189598195055 ;  79 predator: 99.14700165237119
+animals died: [1, 1, 2, 6, 0]
+animals born: [0, 1]
+221 animals with average maxFood:  101.77314741771137
+147 prey: 103.1061078847121 ;  74 predator: 99.12523946299368
+animals died: [1, 0, 2, 2, 0]
+animals born: [2, 0]
+218 animals with average maxFood:  101.78811763784242
+146 prey: 103.10203023273344 ;  72 predator: 99.12379487598005
+animals died: [1, 0, 1, 1, 0]
+animals born: [6, 2]
+223 animals with average maxFood:  101.88078315404512
+150 prey: 103.29422665788434 ;  73 predator: 98.97644718725215
+animals died: [0, 0, 5, 3, 0]
+animals born: [25, 10]
+250 animals with average maxFood:  102.82711834834765
+170 prey: 104.82817190131107 ;  80 predator: 98.57487954830046
+animals died: [0, 0, 12, 2, 0]
+animals born: [17, 9]
+262 animals with average maxFood:  103.6771033645698
+175 prey: 106.44133897430022 ;  87 predator: 98.11685932200858
+animals died: [0, 0, 6, 0, 0]
+animals born: [4, 1]
+261 animals with average maxFood:  103.93662260501594
+173 prey: 106.8953959620546 ;  88 predator: 98.11994316447402
+animals died: [0, 0, 4, 0, 0]
+animals born: [0, 3]
+260 animals with average maxFood:  103.75905462547156
+169 prey: 106.79021502004913 ;  91 predator: 98.12975674982751
+animals died: [0, 2, 1, 3, 0]
+animals born: [0, 0]
+254 animals with average maxFood:  103.87576520569249
+166 prey: 106.84135194694541 ;  88 predator: 98.28159021651078
+animals died: [0, 0, 3, 1, 0]
+animals born: [1, 1]
+252 animals with average maxFood:  103.85189103734584
+164 prey: 106.85367294585174 ;  88 predator: 98.25766111694844
+animals died: [0, 0, 2, 2, 0]
+animals born: [1, 0]
+249 animals with average maxFood:  104.04288692172575
+163 prey: 107.04522747740546 ;  86 predator: 98.35240424061188
+animals died: [1, 0, 5, 4, 0]
+animals born: [0, 0]
+239 animals with average maxFood:  104.14609454648517
+157 prey: 107.11061959118514 ;  82 predator: 98.47011366821822
+animals died: [2, 0, 2, 5, 0]
+animals born: [1, 0]
+231 animals with average maxFood:  104.34423902545369
+154 prey: 107.13708405147807 ;  77 predator: 98.75854897340497
+animals died: [0, 0, 2, 3, 0]
+animals born: [5, 0]
+231 animals with average maxFood:  104.9760240388125
+157 prey: 107.85329903394056 ;  74 predator: 98.87153519779768
+animals died: [1, 0, 0, 3, 0]
+animals born: [20, 0]
+247 animals with average maxFood:  106.57190311073875
+176 prey: 109.68475982859755 ;  71 predator: 98.85552589463799
+animals died: [1, 0, 1, 0, 0]
+animals born: [27, 0]
+272 animals with average maxFood:  108.57087668941145
+201 prey: 112.00266726865988 ;  71 predator: 98.85552589463799
+animals died: [0, 0, 0, 1, 0]
+animals born: [3, 0]
+274 animals with average maxFood:  108.84611125417806
+204 prey: 112.26954109982361 ;  70 predator: 98.86925856115404
+animals died: [1, 0, 1, 3, 0]
+animals born: [2, 0]
+271 animals with average maxFood:  109.07436071802131
+204 prey: 112.40980229249651 ;  67 predator: 98.91868786439535
+animals died: [3, 2, 2, 7, 0]
+animals born: [1, 1]
+259 animals with average maxFood:  109.37848565699584
+198 prey: 112.6584640873999 ;  61 predator: 98.73199829273356
+animals died: [1, 2, 4, 3, 0]
+animals born: [0, 6]
+255 animals with average maxFood:  109.04877215846692
+191 prey: 112.5790748642369 ;  64 predator: 98.51302502093469
+animals died: [1, 1, 6, 1, 0]
+animals born: [1, 5]
+252 animals with average maxFood:  108.69688958372505
+184 prey: 112.53919706448438 ;  68 predator: 98.30005757696465
+animals died: [0, 0, 1, 2, 0]
+animals born: [0, 2]
+251 animals with average maxFood:  108.62672001387114
+183 prey: 112.49856383182491 ;  68 predator: 98.20690503320155
+animals died: [0, 0, 2, 2, 0]
+animals born: [3, 1]
+251 animals with average maxFood:  109.00258262503561
+184 prey: 112.92270672815603 ;  67 predator: 98.23686867019755
+animals died: [1, 0, 4, 3, 0]
+animals born: [7, 0]
+250 animals with average maxFood:  109.81033065490506
+186 prey: 113.79844219617112 ;  64 predator: 98.21988148810063
+animals died: [0, 0, 0, 1, 0]
+animals born: [17, 0]
+266 animals with average maxFood:  111.1688918470184
+203 prey: 115.19631929097763 ;  63 predator: 98.1916256387054
+animals died: [0, 0, 2, 2, 0]
+animals born: [25, 0]
+287 animals with average maxFood:  113.0774439186485
+226 prey: 117.07814908448722 ;  61 predator: 98.25515920586922
+animals died: [0, 0, 5, 6, 0]
+animals born: [14, 0]
+290 animals with average maxFood:  113.82449753734929
+235 prey: 117.45011252732557 ;  55 predator: 98.33323348926896
+animals died: [3, 1, 0, 4, 0]
+animals born: [1, 0]
+283 animals with average maxFood:  114.26218655967682
+232 prey: 117.71920995270366 ;  51 predator: 98.53611936002541
+animals died: [0, 3, 1, 2, 0]
+animals born: [2, 0]
+279 animals with average maxFood:  114.42205323089114
+230 prey: 117.81009496934105 ;  49 predator: 98.51900017286111
+animals died: [0, 4, 1, 3, 0]
+animals born: [1, 0]
+272 animals with average maxFood:  114.42878685270514
+226 prey: 117.69531654558918 ;  46 predator: 98.38018444853611
+animals died: [1, 1, 0, 0, 1]
+animals born: [0, 0]
+269 animals with average maxFood:  114.4795639145926
+224 prey: 117.72104557318197 ;  45 predator: 98.34418854739248
+animals died: [0, 0, 0, 7, 0]
+animals born: [1, 0]
+263 animals with average maxFood:  114.98505770608826
+225 prey: 117.73397898508327 ;  38 predator: 98.70855013309185
+animals died: [1, 0, 2, 4, 0]
+animals born: [4, 0]
+260 animals with average maxFood:  115.16829353886774
+226 prey: 117.63034251819933 ;  34 predator: 98.80290914684075
+animals died: [5, 0, 5, 1, 0]
+animals born: [6, 2]
+257 animals with average maxFood:  115.05763648769666
+222 prey: 117.6579840640003 ;  35 predator: 98.56400328942827
+animals died: [2, 0, 6, 2, 0]
+animals born: [15, 3]
+265 animals with average maxFood:  115.24750775459259
+229 prey: 117.97955964442887 ;  36 predator: 97.86862212202318
+animals died: [3, 0, 5, 0, 0]
+animals born: [25, 1]
+283 animals with average maxFood:  115.78254585862146
+246 prey: 118.50417041974983 ;  37 predator: 97.68742039814627
+animals died: [1, 0, 2, 0, 0]
+animals born: [19, 0]
+299 animals with average maxFood:  115.96932379695193
+262 prey: 118.55111931510388 ;  37 predator: 97.68742039814627
+animals died: [1, 2, 2, 1, 0]
+animals born: [3, 1]
+297 animals with average maxFood:  115.84727784100406
+260 prey: 118.45778804138126 ;  37 predator: 97.50315210862378
+animals died: [1, 2, 5, 0, 0]
+animals born: [3, 0]
+292 animals with average maxFood:  115.74241828959347
+255 prey: 118.38890004918511 ;  37 predator: 97.50315210862378
+animals died: [1, 3, 3, 0, 0]
+animals born: [1, 0]
+286 animals with average maxFood:  115.46431263898744
+249 prey: 118.13324010735471 ;  37 predator: 97.50315210862378
+animals died: [0, 1, 2, 2, 0]
+animals born: [1, 0]
+282 animals with average maxFood:  115.49822985302043
+247 prey: 118.068357046691 ;  35 predator: 97.36047508625943
+animals died: [1, 0, 3, 0, 0]
+animals born: [2, 0]
+280 animals with average maxFood:  115.48140990881068
+245 prey: 118.07011488346083 ;  35 predator: 97.36047508625943
+animals died: [0, 0, 0, 0, 0]
+animals born: [7, 0]
+287 animals with average maxFood:  115.40194836033389
+252 prey: 117.90770853728867 ;  35 predator: 97.36047508625943
+animals died: [4, 1, 0, 2, 0]
+animals born: [5, 0]
+285 animals with average maxFood:  115.44710576699987
+252 prey: 117.84249446219872 ;  33 predator: 97.15504664002691
+animals died: [5, 2, 1, 0, 0]
+animals born: [17, 0]
+294 animals with average maxFood:  115.42308415685812
+261 prey: 117.73283602680225 ;  33 predator: 97.15504664002691
+animals died: [3, 0, 0, 0, 0]
+animals born: [22, 0]
+313 animals with average maxFood:  115.46475488311954
+280 prey: 117.62268478319834 ;  33 predator: 97.15504664002691
+animals died: [2, 1, 3, 0, 0]
+animals born: [26, 0]
+333 animals with average maxFood:  115.44608704655727
+300 prey: 117.45810149127568 ;  33 predator: 97.15504664002691
+animals died: [2, 1, 3, 0, 1]
+animals born: [8, 0]
+334 animals with average maxFood:  115.56357452923264
+302 prey: 117.52356739616832 ;  32 predator: 97.06614184752775
+animals died: [3, 2, 4, 0, 0]
+animals born: [4, 1]
+330 animals with average maxFood:  115.52081637607544
+297 prey: 117.58827838630113 ;  33 predator: 96.91365828404466
+animals died: [1, 4, 7, 1, 0]
+animals born: [0, 4]
+321 animals with average maxFood:  115.12575463926939
+285 prey: 117.51860093444166 ;  36 predator: 96.1823881358223
+animals died: [3, 1, 3, 0, 0]
+animals born: [2, 1]
+317 animals with average maxFood:  114.95463645220545
+280 prey: 117.4636066169744 ;  37 predator: 95.96783520530578
+animals died: [1, 0, 4, 0, 0]
+animals born: [4, 0]
+316 animals with average maxFood:  114.88679597482123
+279 prey: 117.39576209837706 ;  37 predator: 95.96783520530578
+animals died: [2, 0, 0, 0, 0]
+animals born: [5, 1]
+320 animals with average maxFood:  114.85603194081156
+282 prey: 117.43391750694377 ;  38 predator: 95.72540747635716
+animals died: [4, 0, 6, 0, 0]
+animals born: [6, 1]
+317 animals with average maxFood:  114.70147368138815
+278 prey: 117.39569257288012 ;  39 predator: 95.4965287625483
+animals died: [3, 0, 4, 0, 0]
+animals born: [13, 0]
+323 animals with average maxFood:  114.85500941500719
+284 prey: 117.51339232150687 ;  39 predator: 95.4965287625483
+animals died: [1, 0, 2, 0, 0]
+animals born: [21, 0]
+341 animals with average maxFood:  114.84242027399205
+302 prey: 117.3407307671918 ;  39 predator: 95.4965287625483
+animals died: [3, 1, 4, 2, 0]
+animals born: [24, 0]
+355 animals with average maxFood:  114.96291576884457
+318 prey: 117.19852310822637 ;  37 predator: 95.74877701415816
+animals died: [3, 4, 0, 0, 0]
+animals born: [14, 0]
+362 animals with average maxFood:  114.7441892873308
+325 prey: 116.90674391535354 ;  37 predator: 95.74877701415816
+animals died: [0, 5, 4, 0, 0]
+animals born: [6, 0]
+359 animals with average maxFood:  114.60464128647045
+322 prey: 116.77130892024553 ;  37 predator: 95.74877701415816
+animals died: [1, 3, 0, 0, 0]
+animals born: [2, 0]
+357 animals with average maxFood:  114.58150930957974
+320 prey: 116.75904398123794 ;  37 predator: 95.74877701415816
+animals died: [1, 6, 4, 0, 0]
+animals born: [2, 0]
+348 animals with average maxFood:  114.40254847797446
+311 prey: 116.62180746241566 ;  37 predator: 95.74877701415816
+animals died: [2, 0, 0, 0, 0]
+animals born: [4, 0]
+350 animals with average maxFood:  114.30524232677818
+313 prey: 116.49881809855759 ;  37 predator: 95.74877701415816
+animals died: [0, 0, 3, 0, 0]
+animals born: [5, 0]
+352 animals with average maxFood:  114.23481953108131
+315 prey: 116.40619595370408 ;  37 predator: 95.74877701415816
+animals died: [3, 0, 6, 0, 0]
+animals born: [3, 1]
+347 animals with average maxFood:  114.00555660577916
+309 prey: 116.28051948981118 ;  38 predator: 95.50651631194006
+animals died: [3, 2, 3, 0, 0]
+animals born: [13, 4]
+356 animals with average maxFood:  113.41588684068914
+314 prey: 115.94428639082889 ;  42 predator: 94.51309020393026
+animals died: [3, 1, 8, 0, 0]
+animals born: [22, 2]
+368 animals with average maxFood:  112.69941575785552
+324 prey: 115.22363093529836 ;  44 predator: 94.11201308759505
+animals died: [2, 1, 3, 0, 0]
+animals born: [20, 0]
+382 animals with average maxFood:  112.40270739855006
+338 prey: 114.78374452778681 ;  44 predator: 94.11201308759505
+animals died: [2, 3, 6, 0, 0]
+animals born: [23, 1]
+395 animals with average maxFood:  111.8950743879063
+350 prey: 114.20543995010765 ;  45 predator: 93.92556445967362
+animals died: [2, 4, 3, 0, 0]
+animals born: [9, 1]
+396 animals with average maxFood:  111.6500690515563
+350 prey: 114.00819803428304 ;  46 predator: 93.70778331341812
+animals died: [2, 7, 6, 0, 0]
+animals born: [5, 1]
+387 animals with average maxFood:  111.35028477048606
+340 prey: 113.82440541560861 ;  47 predator: 93.45239074193974
+animals died: [0, 5, 5, 0, 0]
+animals born: [3, 0]
+380 animals with average maxFood:  111.2101083650566
+333 prey: 113.71645289444545 ;  47 predator: 93.45239074193974
+animals died: [2, 0, 2, 0, 0]
+animals born: [1, 0]
+377 animals with average maxFood:  111.16342882760092
+330 prey: 113.6859100094981 ;  47 predator: 93.45239074193974
+animals died: [11, 3, 2, 0, 0]
+animals born: [6, 0]
+367 animals with average maxFood:  111.35767607250379
+320 prey: 113.98751485543039 ;  47 predator: 93.45239074193974
+animals died: [3, 0, 1, 0, 0]
+animals born: [5, 1]
+369 animals with average maxFood:  111.32963133025721
+321 prey: 114.03495354747326 ;  48 predator: 93.2377890026249
+animals died: [7, 3, 3, 1, 1]
+animals born: [13, 0]
+367 animals with average maxFood:  111.5608897209972
+321 prey: 114.16653711726471 ;  46 predator: 93.37800245573928
+animals died: [4, 1, 2, 0, 0]
+animals born: [16, 0]
+376 animals with average maxFood:  111.68580029773018
+330 prey: 114.23779636055318 ;  46 predator: 93.37800245573928
+animals died: [2, 0, 4, 0, 0]
+animals born: [18, 0]
+388 animals with average maxFood:  111.52192869808391
+342 prey: 113.96233983009519 ;  46 predator: 93.37800245573928
+animals died: [3, 1, 5, 0, 0]
+animals born: [20, 0]
+399 animals with average maxFood:  111.41779199499993
+353 prey: 113.76858609926626 ;  46 predator: 93.37800245573928
+animals died: [1, 3, 4, 0, 0]
+animals born: [7, 1]
+399 animals with average maxFood:  111.18241530521792
+352 prey: 113.58664684863524 ;  47 predator: 93.17625566090136
+animals died: [1, 4, 5, 0, 0]
+animals born: [11, 4]
+404 animals with average maxFood:  110.77601365328363
+353 prey: 113.41909992827621 ;  51 predator: 92.48171061264894
+animals died: [2, 5, 11, 0, 0]
+animals born: [6, 3]
+395 animals with average maxFood:  110.40952826343104
+341 prey: 113.32148935602487 ;  54 predator: 92.0210332157554
+animals died: [2, 6, 7, 0, 0]
+animals born: [4, 1]
+385 animals with average maxFood:  110.39266552938497
+330 prey: 113.47535517943419 ;  55 predator: 91.89652762908936
+animals died: [4, 2, 5, 0, 0]
+animals born: [7, 1]
+382 animals with average maxFood:  110.35843520081595
+326 prey: 113.5530118232896 ;  56 predator: 91.76143557713
+animals died: [3, 2, 6, 0, 1]
+animals born: [7, 1]
+378 animals with average maxFood:  110.48577742021637
+322 prey: 113.74867772153827 ;  56 predator: 91.72410068761499
+animals died: [4, 0, 3, 0, 0]
+animals born: [8, 2]
+381 animals with average maxFood:  110.53096812595967
+323 prey: 113.95940017935597 ;  58 predator: 91.43814824239054
+animals died: [6, 2, 5, 0, 0]
+animals born: [13, 0]
+381 animals with average maxFood:  110.62135788986319
+323 prey: 114.06602092253623 ;  58 predator: 91.43814824239054
+animals died: [1, 2, 5, 0, 0]
+animals born: [18, 1]
+392 animals with average maxFood:  111.06665299345804
+333 prey: 114.56976238362165 ;  59 predator: 91.29486609643233
+animals died: [4, 0, 6, 0, 0]
+animals born: [21, 0]
+403 animals with average maxFood:  111.68867878781468
+344 prey: 115.18645480174365 ;  59 predator: 91.29486609643233
+animals died: [3, 3, 5, 0, 0]
+animals born: [12, 1]
+405 animals with average maxFood:  111.9681991441353
+345 prey: 115.58651641606023 ;  60 predator: 91.162874830567
+animals died: [1, 4, 3, 0, 1]
+animals born: [3, 0]
+399 animals with average maxFood:  112.02072464238765
+340 prey: 115.65695840171608 ;  59 predator: 91.06615721574912
+animals died: [3, 3, 3, 0, 0]
+animals born: [7, 0]
+397 animals with average maxFood:  112.03078642288536
+338 prey: 115.69029270460443 ;  59 predator: 91.06615721574912
+animals died: [2, 1, 2, 0, 0]
+animals born: [6, 0]
+398 animals with average maxFood:  112.09535532847292
+339 prey: 115.75530426254582 ;  59 predator: 91.06615721574912
+animals died: [1, 0, 7, 0, 0]
+animals born: [5, 0]
+395 animals with average maxFood:  112.18263364293793
+336 prey: 115.89058634890264 ;  59 predator: 91.06615721574912
+animals died: [3, 2, 5, 0, 0]
+animals born: [5, 1]
+391 animals with average maxFood:  112.16596031576766
+331 prey: 116.00932527492648 ;  60 predator: 90.96339695774154
+animals died: [1, 2, 5, 0, 0]
+animals born: [8, 7]
+398 animals with average maxFood:  111.92033523851799
+331 prey: 116.2995104097531 ;  67 predator: 90.28590267614767
+animals died: [5, 2, 16, 0, 1]
+animals born: [6, 2]
+382 animals with average maxFood:  111.68990702460867
+314 prey: 116.33038223095515 ;  68 predator: 90.26183033647898
+animals died: [4, 4, 6, 0, 0]
+animals born: [16, 3]
+387 animals with average maxFood:  111.87272730516443
+316 prey: 116.74656074230533 ;  71 predator: 90.18073623281887
+animals died: [6, 3, 7, 0, 0]
+animals born: [16, 1]
+388 animals with average maxFood:  112.15555210293596
+316 prey: 117.16478806651118 ;  72 predator: 90.1705720405779
+animals died: [2, 3, 2, 0, 0]
+animals born: [13, 4]
+398 animals with average maxFood:  112.33261936961058
+322 prey: 117.55986747924034 ;  76 predator: 90.18559448407433
+animals died: [4, 4, 10, 1, 0]
+animals born: [2, 2]
+383 animals with average maxFood:  112.18629346835957
+306 prey: 117.7031197999833 ;  77 predator: 90.26228233229631
+animals died: [1, 5, 11, 1, 0]
+animals born: [7, 2]
+374 animals with average maxFood:  112.08304523259385
+296 prey: 117.81808322985101 ;  78 predator: 90.31931129428449
+animals died: [3, 4, 9, 0, 0]
+animals born: [4, 2]
+364 animals with average maxFood:  111.93736149292762
+284 prey: 118.03656961368488 ;  80 predator: 90.28517266423906
+animals died: [1, 0, 4, 0, 0]
+animals born: [6, 1]
+366 animals with average maxFood:  112.00059863392713
+285 prey: 118.17252373523255 ;  81 predator: 90.28456587007433
+animals died: [2, 0, 4, 1, 0]
+animals born: [7, 0]
+366 animals with average maxFood:  112.3293610764664
+286 prey: 118.4928154996578 ;  80 predator: 90.29501151355691
+animals died: [3, 3, 2, 1, 0]
+animals born: [5, 0]
+362 animals with average maxFood:  112.60366754820225
+283 prey: 118.82833379077894 ;  79 predator: 90.30517961593347
+animals died: [3, 2, 4, 0, 0]
+animals born: [9, 0]
+362 animals with average maxFood:  112.78190806917453
+283 prey: 119.05633049958448 ;  79 predator: 90.30517961593347
+animals died: [6, 3, 2, 0, 0]
+animals born: [9, 0]
+360 animals with average maxFood:  112.86906390352823
+281 prey: 119.21264703064558 ;  79 predator: 90.30517961593347
+animals died: [1, 1, 7, 0, 0]
+animals born: [13, 0]
+364 animals with average maxFood:  113.31336075678901
+285 prey: 119.69106710811381 ;  79 predator: 90.30517961593347
+animals died: [2, 2, 7, 0, 1]
+animals born: [15, 1]
+368 animals with average maxFood:  113.69741797070533
+289 prey: 120.0801648430548 ;  79 predator: 90.34787561489506
+animals died: [2, 0, 9, 0, 1]
+animals born: [4, 2]
+362 animals with average maxFood:  113.53624140244628
+282 prey: 120.12008144798018 ;  80 predator: 90.3282052419391
+animals died: [3, 3, 8, 1, 0]
+animals born: [3, 6]
+356 animals with average maxFood:  113.02317038552853
+271 prey: 120.17700865110167 ;  85 predator: 90.21505073881877
+animals died: [2, 2, 5, 1, 0]
+animals born: [12, 3]
+361 animals with average maxFood:  113.05427286731195
+274 prey: 120.3624110996227 ;  87 predator: 90.03783751497693
+animals died: [3, 0, 9, 0, 0]
+animals born: [7, 1]
+357 animals with average maxFood:  112.85612239132263
+269 prey: 120.34498672214475 ;  88 predator: 89.96402574369586
+animals died: [5, 0, 6, 0, 1]
+animals born: [3, 3]
+351 animals with average maxFood:  112.44635623931923
+261 prey: 120.27521347552829 ;  90 predator: 89.742670254313
+animals died: [3, 0, 5, 0, 0]
+animals born: [4, 2]
+349 animals with average maxFood:  112.13570539938125
+257 prey: 120.21456844045485 ;  92 predator: 89.56757712159961
+animals died: [6, 0, 9, 0, 0]
+animals born: [14, 4]
+352 animals with average maxFood:  111.72740099299031
+256 prey: 120.16780997165908 ;  96 predator: 89.21964371654013
+animals died: [4, 0, 11, 0, 0]
+animals born: [6, 3]
+346 animals with average maxFood:  111.20047857137189
+247 prey: 120.1284691270768 ;  99 predator: 88.925593043502
+animals died: [4, 0, 3, 1, 0]
+animals born: [11, 1]
+350 animals with average maxFood:  111.01078430815367
+251 prey: 119.7391045962564 ;  99 predator: 88.8814066080144
+animals died: [2, 0, 3, 1, 0]
+animals born: [10, 0]
+354 animals with average maxFood:  111.02177879021957
+256 prey: 119.47653452807238 ;  98 predator: 88.93588625052229
+animals died: [4, 0, 4, 2, 0]
+animals born: [8, 1]
+353 animals with average maxFood:  110.96303359903132
+256 prey: 119.31257468974096 ;  97 predator: 88.927131339014
+animals died: [4, 1, 4, 0, 0]
+animals born: [2, 0]
+346 animals with average maxFood:  110.8390349427443
+249 prey: 119.37499739078378 ;  97 predator: 88.927131339014
+animals died: [4, 0, 10, 0, 0]
+animals born: [9, 0]
+341 animals with average maxFood:  110.94635398128517
+244 prey: 119.69989740874536 ;  97 predator: 88.927131339014
+animals died: [1, 4, 4, 2, 0]
+animals born: [7, 0]
+337 animals with average maxFood:  111.2114781775903
+242 prey: 119.96609169861512 ;  95 predator: 88.91025215561118
+animals died: [1, 1, 7, 1, 0]
+animals born: [5, 1]
+333 animals with average maxFood:  111.09754586727652
+238 prey: 119.96060384529717 ;  95 predator: 88.89325324865638
+animals died: [5, 1, 7, 0, 0]
+animals born: [4, 1]
+325 animals with average maxFood:  110.97803529229336
+229 prey: 120.29377622151432 ;  96 predator: 88.75611161738065
+animals died: [6, 1, 5, 1, 1]
+animals born: [12, 3]
+326 animals with average maxFood:  111.4694057993141
+229 prey: 121.25204742495949 ;  97 predator: 88.37430340474917
+animals died: [5, 0, 3, 1, 0]
+animals born: [4, 3]
+324 animals with average maxFood:  111.40181445695295
+225 prey: 121.70002693769204 ;  99 predator: 87.99678609163666
+animals died: [1, 0, 4, 1, 2]
+animals born: [6, 1]
+323 animals with average maxFood:  111.94559348849813
+226 prey: 122.26039163420268 ;  97 predator: 87.91317719025844
+animals died: [5, 0, 3, 1, 0]
+animals born: [10, 2]
+326 animals with average maxFood:  112.31917273329161
+228 prey: 122.88238471352098 ;  98 predator: 87.74353669765583
+animals died: [2, 3, 3, 0, 2]
+animals born: [9, 3]
+328 animals with average maxFood:  112.61669858616725
+229 prey: 123.56534378582138 ;  99 predator: 87.29104453848245
+animals died: [2, 1, 5, 3, 0]
+animals born: [1, 1]
+319 animals with average maxFood:  112.46013649115908
+222 prey: 123.56839005588043 ;  97 predator: 87.03712317808551
+animals died: [8, 3, 6, 4, 0]
+animals born: [4, 1]
+303 animals with average maxFood:  112.51107927234568
+209 prey: 124.01217489579982 ;  94 predator: 86.93949432232537
+animals died: [4, 2, 6, 6, 1]
+animals born: [4, 2]
+290 animals with average maxFood:  112.80931925258606
+201 prey: 124.30914846245544 ;  89 predator: 86.83779485726296
+animals died: [3, 0, 5, 3, 0]
+animals born: [5, 2]
+286 animals with average maxFood:  112.96205227927551
+198 prey: 124.67242847165916 ;  88 predator: 86.61370584641226
+animals died: [2, 0, 3, 2, 1]
+animals born: [6, 2]
+286 animals with average maxFood:  113.44713564147611
+199 prey: 125.12265427009002 ;  87 predator: 86.741064295566
+animals died: [1, 1, 5, 1, 0]
+animals born: [10, 0]
+288 animals with average maxFood:  114.2211340161013
+202 prey: 125.86005884302809 ;  86 predator: 86.88319430634306
+animals died: [2, 0, 2, 0, 0]
+animals born: [6, 0]
+290 animals with average maxFood:  114.56626171962978
+204 prey: 126.23657445268202 ;  86 predator: 86.88319430634306
+animals died: [3, 2, 2, 1, 0]
+animals born: [5, 1]
+288 animals with average maxFood:  114.5784473258283
+202 prey: 126.47053378242882 ;  86 predator: 86.64587216032469
+animals died: [2, 1, 3, 1, 0]
+animals born: [4, 1]
+286 animals with average maxFood:  114.57676119045605
+200 prey: 126.57236279532663 ;  86 predator: 86.68001327215244
+animals died: [2, 3, 3, 2, 0]
+animals born: [13, 1]
+290 animals with average maxFood:  115.4106595930269
+205 prey: 127.27637246766677 ;  85 predator: 86.7933520718367
+animals died: [1, 1, 8, 5, 0]
+animals born: [1, 3]
+279 animals with average maxFood:  115.28876663337263
+196 prey: 127.46887176412446 ;  83 predator: 86.52610873424783
+animals died: [3, 1, 2, 2, 0]
+animals born: [4, 0]
+275 animals with average maxFood:  115.42555198349412
+194 prey: 127.48537429183699 ;  81 predator: 86.5415331215371
+animals died: [3, 1, 3, 5, 2]
+animals born: [3, 1]
+265 animals with average maxFood:  115.94172677642054
+190 prey: 127.67391084798012 ;  75 predator: 86.22019379513632
+animals died: [2, 1, 4, 2, 0]
+animals born: [3, 2]
+261 animals with average maxFood:  115.56533144739099
+186 prey: 127.50906685421766 ;  75 predator: 85.94486763846079
+animals died: [4, 0, 6, 1, 0]
+animals born: [4, 1]
+255 animals with average maxFood:  115.33159432400556
+180 prey: 127.6910270241647 ;  75 predator: 85.6689558436236
+animals died: [6, 1, 1, 3, 0]
+animals born: [5, 0]
+249 animals with average maxFood:  115.45795395051385
+177 prey: 127.50448223548005 ;  72 predator: 85.84357191663871
+animals died: [3, 0, 5, 4, 0]
+animals born: [4, 2]
+243 animals with average maxFood:  115.58384658139416
+173 prey: 127.67912153298352 ;  70 predator: 85.69123848675207
+animals died: [4, 0, 3, 1, 1]
+animals born: [4, 1]
+239 animals with average maxFood:  115.53151907712953
+170 prey: 127.75377714871155 ;  69 predator: 85.41870933555079
+animals died: [1, 0, 4, 5, 0]
+animals born: [7, 0]
+236 animals with average maxFood:  116.72842191376688
+172 prey: 128.44377040531384 ;  64 predator: 85.24342284273452
+animals died: [10, 2, 4, 0, 0]
+animals born: [9, 4]
+233 animals with average maxFood:  116.21857156250097
+165 prey: 129.2467905468301 ;  68 predator: 84.60598137993767
+animals died: [2, 0, 1, 5, 1]
+animals born: [5, 0]
+229 animals with average maxFood:  117.43397985106844
+167 prey: 129.56986691683417 ;  62 predator: 84.74538081908672
+animals died: [5, 1, 3, 4, 1]
+animals born: [2, 0]
+217 animals with average maxFood:  117.77006647852505
+160 prey: 129.44638013114508 ;  57 predator: 84.9944492080127
+animals died: [2, 1, 3, 0, 1]
+animals born: [3, 1]
+214 animals with average maxFood:  117.78694768574591
+157 prey: 129.7078276915907 ;  57 predator: 84.95224310824362
+animals died: [1, 1, 2, 1, 0]
+animals born: [4, 1]
+214 animals with average maxFood:  118.10451512412293
+157 prey: 130.20960798070251 ;  57 predator: 84.76241725600038
+animals died: [2, 0, 7, 2, 0]
+animals born: [2, 2]
+207 animals with average maxFood:  117.87009852115523
+150 prey: 130.43366029363412 ;  57 predator: 84.80809385673719
+animals died: [4, 0, 2, 3, 0]
+animals born: [7, 2]
+207 animals with average maxFood:  118.45950169556644
+151 prey: 131.0536137644478 ;  56 predator: 84.50037808126142
+animals died: [2, 1, 3, 1, 0]
+animals born: [3, 1]
+204 animals with average maxFood:  118.45500129879566
+148 prey: 131.40037532309844 ;  56 predator: 84.24222709170984
+animals died: [0, 2, 2, 2, 0]
+animals born: [5, 0]
+203 animals with average maxFood:  118.99268150763305
+149 prey: 131.58961769786907 ;  54 predator: 84.23446868642628
+animals died: [2, 0, 4, 4, 0]
+animals born: [7, 2]
+202 animals with average maxFood:  119.33716402413667
+150 prey: 131.70005907720116 ;  52 predator: 83.67496675568133
+animals died: [1, 0, 5, 0, 0]
+animals born: [7, 3]
+206 animals with average maxFood:  119.0014753804236
+151 prey: 132.0321819111419 ;  55 predator: 83.22626290517894
+animals died: [1, 0, 6, 2, 0]
+animals born: [6, 0]
+203 animals with average maxFood:  119.49767223948588
+150 prey: 132.22389255402058 ;  53 predator: 83.48006757570849
+animals died: [2, 1, 1, 1, 0]
+animals born: [3, 0]
+201 animals with average maxFood:  119.53111037066849
+149 prey: 132.06755094006343 ;  52 predator: 83.60938643144067
+animals died: [3, 0, 1, 1, 0]
+animals born: [2, 1]
+199 animals with average maxFood:  119.16594763157931
+147 prey: 131.80681310412066 ;  52 predator: 83.43119331497209
+animals died: [0, 1, 3, 1, 0]
+animals born: [2, 1]
+197 animals with average maxFood:  118.95610845109435
+145 prey: 131.77676783654684 ;  52 predator: 83.20619285704419
+animals died: [0, 0, 6, 1, 0]
+animals born: [4, 2]
+196 animals with average maxFood:  118.68807002847048
+143 prey: 131.90352556275485 ;  53 predator: 83.03127490766539
+animals died: [6, 0, 3, 1, 0]
+animals born: [6, 0]
+192 animals with average maxFood:  118.5182651274369
+140 prey: 131.773338882233 ;  52 predator: 82.83152809529348
+animals died: [4, 0, 3, 1, 0]
+animals born: [5, 0]
+189 animals with average maxFood:  118.36540600893187
+138 prey: 131.50927587963469 ;  51 predator: 82.79964047644182
+animals died: [1, 1, 4, 0, 0]
+animals born: [6, 0]
+189 animals with average maxFood:  118.25049387564563
+138 prey: 131.35189621882958 ;  51 predator: 82.79964047644182
+animals died: [2, 0, 1, 2, 0]
+animals born: [7, 1]
+192 animals with average maxFood:  118.48558572629713
+142 prey: 131.04040024573396 ;  50 predator: 82.82991249109648
+animals died: [1, 0, 3, 1, 0]
+animals born: [7, 2]
+196 animals with average maxFood:  118.16066493978153
+145 prey: 130.60471172392636 ;  51 predator: 82.78053192603622
+animals died: [1, 0, 7, 1, 0]
+animals born: [9, 3]
+199 animals with average maxFood:  117.49237177892185
+146 prey: 130.18275635728526 ;  53 predator: 82.53395388380746
+animals died: [0, 0, 3, 0, 0]
+animals born: [3, 0]
+199 animals with average maxFood:  117.55284565871588
+146 prey: 130.26518308385383 ;  53 predator: 82.53395388380746
+animals died: [0, 0, 1, 0, 0]
+animals born: [1, 1]
+200 animals with average maxFood:  117.36695098682354
+146 prey: 130.25833480099578 ;  54 predator: 82.51246882257999
+animals died: [1, 0, 4, 2, 0]
+animals born: [2, 1]
+196 animals with average maxFood:  117.26048144437117
+143 prey: 130.23897371770684 ;  53 predator: 82.24304002763526
+animals died: [0, 1, 4, 0, 0]
+animals born: [4, 2]
+197 animals with average maxFood:  116.54671891663452
+142 prey: 129.89736449317002 ;  55 predator: 82.0777794281248
+animals died: [1, 0, 3, 3, 0]
+animals born: [6, 1]
+197 animals with average maxFood:  117.04998449071525
+144 prey: 130.02288346223355 ;  53 predator: 81.80286275677867
+animals died: [1, 1, 3, 1, 0]
+animals born: [2, 1]
+194 animals with average maxFood:  116.9838548194187
+141 prey: 130.1982265420746 ;  53 predator: 81.82863948178695
+animals died: [2, 0, 2, 1, 0]
+animals born: [1, 1]
+191 animals with average maxFood:  116.7924882932453
+138 prey: 130.2350776195784 ;  53 predator: 81.79102929260446
+animals died: [2, 0, 4, 0, 0]
+animals born: [4, 1]
+190 animals with average maxFood:  116.42994166762418
+136 prey: 130.23843217075068 ;  54 predator: 81.65300262271296
+animals died: [1, 0, 4, 1, 0]
+animals born: [12, 2]
+198 animals with average maxFood:  116.74731506324179
+143 prey: 130.36148539013107 ;  55 predator: 81.35047221332965
+animals died: [0, 1, 2, 3, 0]
+animals born: [9, 1]
+202 animals with average maxFood:  117.79008589083081
+149 prey: 130.82782886750746 ;  53 predator: 81.13680846583424
+animals died: [2, 0, 3, 1, 0]
+animals born: [4, 0]
+200 animals with average maxFood:  118.19532457764241
+148 prey: 131.19054124128243 ;  52 predator: 81.20893868882078
+animals died: [1, 1, 2, 1, 0]
+animals born: [3, 0]
+198 animals with average maxFood:  118.41609175096967
+147 prey: 131.37249054272056 ;  51 predator: 81.07117758651118
+animals died: [0, 0, 1, 1, 0]
+animals born: [3, 0]
+199 animals with average maxFood:  118.92356676481322
+149 prey: 131.58051891546458 ;  50 predator: 81.20584935587218
+animals died: [1, 0, 3, 1, 1]
+animals born: [3, 1]
+197 animals with average maxFood:  119.28344430563953
+148 prey: 131.8895824591724 ;  49 predator: 81.20776171945862
+animals died: [3, 0, 7, 2, 0]
+animals born: [6, 1]
+192 animals with average maxFood:  119.65176704332004
+144 prey: 132.46864921726595 ;  48 predator: 81.20112052148214
+animals died: [0, 0, 3, 1, 0]
+animals born: [2, 0]
+190 animals with average maxFood:  119.75681342390044
+143 prey: 132.38914639080406 ;  47 predator: 81.32226843949121
+animals died: [1, 0, 2, 1, 0]
+animals born: [1, 2]
+189 animals with average maxFood:  119.30445076757172
+141 prey: 132.33820172457567 ;  48 predator: 81.01780733137248
+animals died: [1, 1, 3, 1, 0]
+animals born: [5, 2]
+190 animals with average maxFood:  118.91707452518425
+141 prey: 132.3757501626723 ;  49 predator: 80.18904871118797
+animals died: [1, 0, 2, 1, 0]
+animals born: [9, 1]
+196 animals with average maxFood:  119.43092938022073
+147 prey: 132.59898258136576 ;  49 predator: 79.92676977678545
+animals died: [4, 1, 3, 1, 0]
+animals born: [8, 1]
+196 animals with average maxFood:  119.94293384438319
+147 prey: 133.2825028262858 ;  49 predator: 79.92422689867519
+animals died: [2, 0, 3, 0, 0]
+animals born: [7, 0]
+198 animals with average maxFood:  120.39422149950393
+149 prey: 133.70314589843414 ;  49 predator: 79.92422689867519
+animals died: [1, 0, 2, 1, 0]
+animals born: [3, 2]
+199 animals with average maxFood:  120.21633597626747
+149 prey: 133.78961998141338 ;  50 predator: 79.76794964093267
+animals died: [3, 0, 6, 0, 0]
+animals born: [1, 0]
+191 animals with average maxFood:  119.54253568003588
+141 prey: 133.6469988144696 ;  50 predator: 79.76794964093267
+animals died: [1, 0, 1, 2, 0]
+animals born: [5, 4]
+196 animals with average maxFood:  119.24161815667122
+144 prey: 133.62950602674863 ;  52 predator: 79.39823636261073
+animals died: [1, 0, 5, 0, 0]
+animals born: [7, 1]
+198 animals with average maxFood:  119.30985320465936
+145 prey: 133.95570620679257 ;  53 predator: 79.24101008561573
+animals died: [0, 1, 1, 1, 0]
+animals born: [3, 1]
+199 animals with average maxFood:  119.3647089922152
+146 prey: 133.95077547316853 ;  53 predator: 79.18422396921169
+animals died: [1, 0, 1, 1, 0]
+animals born: [1, 0]
+197 animals with average maxFood:  119.61949346408728
+145 prey: 134.07617201804234 ;  52 predator: 79.30760134248193
+animals died: [1, 0, 1, 1, 0]
+animals born: [4, 0]
+198 animals with average maxFood:  119.90987426473662
+147 prey: 134.13714173203263 ;  51 predator: 78.90186803547178
+animals died: [1, 0, 4, 2, 0]
+animals born: [9, 0]
+200 animals with average maxFood:  120.79579235382496
+151 prey: 134.29345127596443 ;  49 predator: 79.20096587947693
+animals died: [3, 0, 4, 1, 0]
+animals born: [11, 3]
+206 animals with average maxFood:  120.61997088798903
+155 prey: 134.35552307510193 ;  51 predator: 78.87466522127376
+animals died: [2, 0, 3, 4, 0]
+animals born: [4, 0]
+201 animals with average maxFood:  121.40965056638645
+154 prey: 134.347565509582 ;  47 predator: 79.01733351846937
+animals died: [1, 0, 0, 0, 0]
+animals born: [5, 1]
+206 animals with average maxFood:  121.4243186261029
+158 prey: 134.37153493305877 ;  48 predator: 78.80639828237342
+animals died: [2, 0, 3, 2, 0]
+animals born: [3, 1]
+203 animals with average maxFood:  121.47839159186312
+156 prey: 134.35107411903513 ;  47 predator: 78.75204107614331
+animals died: [1, 0, 4, 0, 0]
+animals born: [2, 0]
+200 animals with average maxFood:  121.3186438163129
+153 prey: 134.39465903714938 ;  47 predator: 78.75204107614331
+animals died: [3, 0, 5, 3, 0]
+animals born: [5, 0]
+194 animals with average maxFood:  122.02281186685136
+150 prey: 134.64393454390617 ;  44 predator: 78.99625728598288
+animals died: [1, 0, 0, 0, 0]
+animals born: [5, 1]
+199 animals with average maxFood:  122.21353171010223
+154 prey: 134.89900145494292 ;  45 predator: 78.80103524998096
+animals died: [2, 0, 2, 1, 0]
+animals born: [3, 2]
+199 animals with average maxFood:  122.23232966819671
+153 prey: 135.33168675558895 ;  46 predator: 78.66272892100108
+animals died: [3, 0, 2, 0, 0]
+animals born: [3, 1]
+198 animals with average maxFood:  122.07108052702617
+151 prey: 135.62117361718663 ;  47 predator: 78.53780272672367
+animals died: [5, 0, 5, 1, 0]
+animals born: [6, 1]
+194 animals with average maxFood:  122.10752794124018
+147 prey: 136.04799176106383 ;  47 predator: 78.50650280264287
+animals died: [3, 1, 1, 3, 0]
+animals born: [9, 0]
+195 animals with average maxFood:  123.52704707903457
+151 prey: 136.76450159526354 ;  44 predator: 78.09850998924883
+animals died: [2, 0, 4, 1, 0]
+animals born: [10, 0]
+198 animals with average maxFood:  124.83715892325702
+155 prey: 137.7524793093151 ;  43 predator: 78.2819342758384
+animals died: [1, 0, 1, 2, 0]
+animals born: [3, 0]
+197 animals with average maxFood:  125.56098364129403
+156 prey: 138.03747839591296 ;  41 predator: 78.08944262371945
+animals died: [0, 1, 2, 0, 0]
+animals born: [3, 0]
+197 animals with average maxFood:  125.73480502589933
+156 prey: 138.25698360595945 ;  41 predator: 78.08944262371945
+animals died: [1, 0, 4, 3, 0]
+animals born: [4, 0]
+193 animals with average maxFood:  126.55903934578969
+155 prey: 138.50178855175557 ;  38 predator: 77.84519390040246
+animals died: [4, 0, 2, 0, 0]
+animals born: [1, 3]
+191 animals with average maxFood:  125.48978350204439
+150 prey: 138.58990069917317 ;  41 predator: 77.56252546376857
+animals died: [0, 0, 3, 1, 0]
+animals born: [4, 0]
+191 animals with average maxFood:  125.91265920669001
+151 prey: 138.80343389612142 ;  40 predator: 77.24998475408667
+animals died: [1, 0, 3, 0, 1]
+animals born: [3, 1]
+190 animals with average maxFood:  126.06719282672412
+150 prey: 139.0758515419941 ;  40 predator: 77.28472264446174
+animals died: [2, 1, 1, 1, 0]
+animals born: [6, 0]
+191 animals with average maxFood:  126.70956825357631
+152 prey: 139.3916038463937 ;  39 predator: 77.28214748156998
+animals died: [2, 0, 3, 1, 0]
+animals born: [6, 0]
+191 animals with average maxFood:  127.26823726637716
+153 prey: 139.6433003331082 ;  38 predator: 77.44232544506542
+animals died: [2, 0, 3, 3, 0]
+animals born: [8, 1]
+192 animals with average maxFood:  128.5155258292381
+156 prey: 140.2356065769065 ;  36 predator: 77.72850925600835
+animals died: [3, 1, 0, 0, 1]
+animals born: [13, 0]
+200 animals with average maxFood:  130.14047402860652
+165 prey: 141.26402695922457 ;  35 predator: 77.70086735569309
+animals died: [1, 0, 4, 0, 0]
+animals born: [5, 4]
+204 animals with average maxFood:  129.36939692779166
+165 prey: 141.67032585874495 ;  39 predator: 77.32700529683568
+animals died: [1, 0, 4, 1, 0]
+animals born: [4, 1]
+203 animals with average maxFood:  129.48453946310298
+164 prey: 142.00077548532758 ;  39 predator: 76.85216234400504
+animals died: [2, 1, 3, 0, 0]
+animals born: [2, 2]
+201 animals with average maxFood:  128.70653006399667
+160 prey: 142.04153018162066 ;  41 predator: 76.66750521473263
+animals died: [2, 1, 3, 0, 0]
+animals born: [3, 0]
+198 animals with average maxFood:  128.6561267411827
+157 prey: 142.232773127071 ;  41 predator: 76.66750521473263
+animals died: [0, 0, 4, 0, 0]
+animals born: [2, 0]
+196 animals with average maxFood:  128.76853060985744
+155 prey: 142.55009216598725 ;  41 predator: 76.66750521473263
+animals died: [1, 0, 4, 0, 0]
+animals born: [3, 0]
+194 animals with average maxFood:  128.77513210053945
+153 prey: 142.73861381503673 ;  41 predator: 76.66750521473263
+animals died: [3, 0, 1, 1, 0]
+animals born: [6, 0]
+195 animals with average maxFood:  129.51208247438464
+155 prey: 143.13867593694033 ;  40 predator: 76.70903280698147
+animals died: [1, 0, 3, 1, 0]
+animals born: [7, 1]
+198 animals with average maxFood:  130.44516761911652
+158 prey: 144.04256313951808 ;  40 predator: 76.73545531353055
+animals died: [1, 0, 1, 0, 0]
+animals born: [6, 1]
+203 animals with average maxFood:  130.79498502179166
+162 prey: 144.49398923833215 ;  41 predator: 76.6672122637539
+animals died: [2, 0, 2, 0, 0]
+animals born: [12, 0]
+211 animals with average maxFood:  131.7592151163889
+170 prey: 145.04610992202447 ;  41 predator: 76.6672122637539
+animals died: [0, 0, 3, 0, 0]
+animals born: [11, 1]
+220 animals with average maxFood:  132.61698945447463
+178 prey: 145.83748967905933 ;  42 predator: 76.58725040742527
+animals died: [1, 0, 4, 2, 0]
+animals born: [4, 0]
+217 animals with average maxFood:  133.28624982729576
+177 prey: 146.06681086117996 ;  40 predator: 76.7322672523583
+animals died: [0, 0, 4, 0, 0]
+animals born: [5, 0]
+218 animals with average maxFood:  133.53996855933192
+178 prey: 146.30574413393276 ;  40 predator: 76.7322672523583
+animals died: [0, 0, 3, 0, 0]
+animals born: [2, 1]
+218 animals with average maxFood:  133.31759150219787
+177 prey: 146.4445359551491 ;  41 predator: 76.64761179067689
+animals died: [3, 0, 3, 1, 0]
+animals born: [2, 0]
+213 animals with average maxFood:  133.65272610031974
+173 prey: 146.87499698872088 ;  40 predator: 76.46640450798492
+animals died: [4, 0, 1, 0, 0]
+animals born: [4, 3]
+215 animals with average maxFood:  132.93362981572005
+172 prey: 147.12157061870673 ;  43 predator: 76.18186660377356
+animals died: [0, 0, 3, 0, 0]
+animals born: [4, 1]
+217 animals with average maxFood:  132.9734251872765
+173 prey: 147.43220508687546 ;  44 predator: 76.12413149112616
+animals died: [3, 1, 2, 1, 1]
+animals born: [8, 2]
+219 animals with average maxFood:  133.2419168254447
+175 prey: 147.55826828108965 ;  44 predator: 76.30188262685694
+animals died: [3, 0, 3, 0, 0]
+animals born: [5, 1]
+219 animals with average maxFood:  133.11266843768226
+174 prey: 147.8264162471071 ;  45 predator: 76.21951024123975
+animals died: [0, 0, 0, 0, 0]
+animals born: [13, 0]
+232 animals with average maxFood:  134.30233112105384
+187 prey: 148.27948053063477 ;  45 predator: 76.21951024123975
+animals died: [2, 0, 6, 3, 0]
+animals born: [11, 0]
+232 animals with average maxFood:  135.36640573570475
+190 prey: 148.40116116255766 ;  42 predator: 76.39965499517969
+animals died: [1, 0, 0, 0, 0]
+animals born: [10, 0]
+241 animals with average maxFood:  135.8714904302844
+199 prey: 148.42333509497988 ;  42 predator: 76.39965499517969
+animals died: [0, 1, 2, 0, 0]
+animals born: [4, 0]
+242 animals with average maxFood:  135.96609975001724
+200 prey: 148.47505314853316 ;  42 predator: 76.39965499517969
+animals died: [2, 0, 3, 2, 0]
+animals born: [1, 1]
+237 animals with average maxFood:  136.0396769620601
+196 prey: 148.5126647773316 ;  41 predator: 76.41271082076236
+animals died: [0, 0, 1, 0, 0]
+animals born: [6, 0]
+242 animals with average maxFood:  136.42163637506195
+201 prey: 148.66226298066536 ;  41 predator: 76.41271082076236
+animals died: [1, 0, 1, 0, 0]
+animals born: [4, 0]
+244 animals with average maxFood:  136.6943407774916
+203 prey: 148.86944830569792 ;  41 predator: 76.41271082076236
+animals died: [3, 0, 2, 0, 0]
+animals born: [4, 1]
+244 animals with average maxFood:  136.57282174329268
+202 prey: 149.09913237967828 ;  42 predator: 76.32723249210447
+animals died: [2, 0, 2, 2, 0]
+animals born: [7, 0]
+245 animals with average maxFood:  137.55561277431497
+205 prey: 149.56622603388413 ;  40 predator: 76.00121981902247
+animals died: [7, 1, 5, 1, 0]
+animals born: [9, 2]
+242 animals with average maxFood:  137.44792071402915
+201 prey: 149.9875179427439 ;  41 predator: 75.97330990984196
+animals died: [1, 0, 2, 1, 0]
+animals born: [9, 0]
+247 animals with average maxFood:  138.2436745890634
+207 prey: 150.25310491381182 ;  40 predator: 76.0948726584897
+animals died: [2, 0, 4, 0, 1]
+animals born: [15, 1]
+256 animals with average maxFood:  139.05003719404945
+216 prey: 150.69560132231814 ;  40 predator: 76.163990901398
+animals died: [4, 2, 1, 3, 0]
+animals born: [6, 2]
+254 animals with average maxFood:  139.45634993024277
+215 prey: 150.92424187845137 ;  39 predator: 76.23591995934915
+animals died: [1, 0, 1, 1, 1]
+animals born: [8, 1]
+259 animals with average maxFood:  140.12318374106644
+221 prey: 151.10926688556572 ;  38 predator: 76.23043703226793
+animals died: [1, 2, 4, 0, 0]
+animals born: [4, 1]
+257 animals with average maxFood:  139.86474083793254
+218 prey: 151.2576113300163 ;  39 predator: 76.1815160360284
+animals died: [0, 2, 2, 0, 0]
+animals born: [4, 0]
+257 animals with average maxFood:  139.95381140496752
+218 prey: 151.36261653977772 ;  39 predator: 76.1815160360284
+animals died: [2, 0, 3, 1, 0]
+animals born: [6, 0]
+257 animals with average maxFood:  140.40484363512834
+219 prey: 151.53778336313695 ;  38 predator: 76.24395415002603
+animals died: [2, 0, 1, 1, 0]
+animals born: [4, 0]
+257 animals with average maxFood:  140.76156429473346
+220 prey: 151.59891172883385 ;  37 predator: 76.32328225413616
+animals died: [1, 0, 2, 3, 0]
+animals born: [6, 0]
+257 animals with average maxFood:  141.80886092305118
+223 prey: 151.77706941528683 ;  34 predator: 76.42914051809394
+animals died: [3, 0, 0, 1, 1]
+animals born: [11, 1]
+264 animals with average maxFood:  142.16784015903403
+231 prey: 151.66595027903693 ;  33 predator: 75.68106931901336
+animals died: [3, 0, 2, 0, 0]
+animals born: [8, 0]
+267 animals with average maxFood:  142.172159538771
+234 prey: 151.54910815950603 ;  33 predator: 75.68106931901336
+animals died: [1, 0, 1, 0, 1]
+animals born: [15, 0]
+279 animals with average maxFood:  142.53603801944956
+247 prey: 151.1858378174742 ;  32 predator: 75.77039582844718
+animals died: [4, 0, 2, 1, 0]
+animals born: [10, 1]
+283 animals with average maxFood:  142.56122240964245
+251 prey: 151.0727945241266 ;  32 predator: 75.7985786366575
+animals died: [1, 0, 3, 0, 0]
+animals born: [8, 1]
+288 animals with average maxFood:  142.24844072445865
+255 prey: 150.85010269852108 ;  33 predator: 75.78105274306701
+animals died: [5, 0, 2, 0, 0]
+animals born: [3, 1]
+285 animals with average maxFood:  141.6677684493362
+251 prey: 150.59798737313616 ;  34 predator: 75.74174051187201
+animals died: [2, 3, 2, 1, 0]
+animals born: [5, 0]
+282 animals with average maxFood:  141.7376040447818
+249 prey: 150.46609404817013 ;  33 predator: 75.87717947376063
+animals died: [3, 2, 3, 0, 0]
+animals born: [2, 0]
+276 animals with average maxFood:  141.47946232267472
+243 prey: 150.38841431450254 ;  33 predator: 75.87717947376063
+animals died: [3, 3, 1, 1, 0]
+animals born: [8, 3]
+279 animals with average maxFood:  140.81924049071694
+244 prey: 150.15962060400975 ;  35 predator: 75.70344770090415
+animals died: [1, 1, 5, 1, 0]
+animals born: [5, 1]
+277 animals with average maxFood:  140.5566442748759
+242 prey: 149.96549229379946 ;  35 predator: 75.501180829747
+animals died: [2, 1, 2, 1, 0]
+animals born: [11, 1]
+283 animals with average maxFood:  140.55765279275357
+248 prey: 149.75263469189872 ;  35 predator: 75.4046381930967
+animals died: [2, 0, 2, 0, 0]
+animals born: [12, 1]
+292 animals with average maxFood:  140.34138122411554
+256 prey: 149.4857420634898 ;  36 predator: 75.31481525523219
+animals died: [8, 1, 4, 1, 0]
+animals born: [13, 1]
+292 animals with average maxFood:  139.799733683451
+256 prey: 148.8549731739246 ;  36 predator: 75.40691952897213
+animals died: [4, 0, 2, 2, 0]
+animals born: [10, 0]
+294 animals with average maxFood:  139.88293391809518
+260 prey: 148.30018868047725 ;  34 predator: 75.51569161752636
+animals died: [4, 1, 3, 0, 0]
+animals born: [7, 0]
+293 animals with average maxFood:  139.37449687536466
+259 prey: 147.75750605979133 ;  34 predator: 75.51569161752636
+animals died: [2, 0, 5, 0, 0]
+animals born: [6, 1]
+293 animals with average maxFood:  138.67072507843528
+258 prey: 147.2508730459809 ;  35 predator: 75.42277720338468
+animals died: [3, 1, 2, 1, 0]
+animals born: [7, 1]
+294 animals with average maxFood:  138.20686918318796
+259 prey: 146.6953277734034 ;  35 predator: 75.39227561559366
+animals died: [5, 0, 2, 0, 1]
+animals born: [4, 0]
+290 animals with average maxFood:  138.10205161875413
+256 prey: 146.426848468327 ;  34 predator: 75.42122828079324
+animals died: [3, 1, 3, 1, 0]
+animals born: [8, 0]
+290 animals with average maxFood:  137.9880145799883
+257 prey: 146.00709094301004 ;  33 predator: 75.5364198740308
+animals died: [5, 0, 1, 0, 0]
+animals born: [7, 1]
+292 animals with average maxFood:  137.42231301687175
+258 prey: 145.58630244892998 ;  34 predator: 75.47204026772386
+animals died: [5, 0, 3, 0, 0]
+animals born: [8, 0]
+292 animals with average maxFood:  137.01811174166036
+258 prey: 145.12883433900086 ;  34 predator: 75.47204026772386
+animals died: [7, 1, 3, 0, 0]
+animals born: [9, 2]
+292 animals with average maxFood:  136.24713629012635
+256 prey: 144.79383908778854 ;  36 predator: 75.47058306230609
+animals died: [2, 0, 2, 0, 0]
+animals born: [13, 0]
+301 animals with average maxFood:  136.3765651503356
+265 prey: 144.65058535852071 ;  36 predator: 75.47058306230609
+animals died: [7, 0, 0, 0, 0]
+animals born: [15, 2]
+311 animals with average maxFood:  135.86595563412558
+273 prey: 144.25172084007696 ;  38 predator: 75.62085297031676
+animals died: [3, 0, 1, 0, 0]
+animals born: [9, 1]
+317 animals with average maxFood:  135.48651444866618
+278 prey: 143.8777845115748 ;  39 predator: 75.6718201540869
+animals died: [3, 0, 4, 0, 0]
+animals born: [6, 1]
+317 animals with average maxFood:  135.1112506829467
+277 prey: 143.68775202227334 ;  40 predator: 75.71897890810921
+animals died: [3, 1, 2, 2, 0]
+animals born: [5, 1]
+315 animals with average maxFood:  135.0256078314811
+276 prey: 143.3900434267653 ;  39 predator: 75.83114054177767
+animals died: [5, 2, 5, 0, 0]
+animals born: [7, 1]
+311 animals with average maxFood:  134.35800705026296
+271 prey: 142.99319463286932 ;  40 predator: 75.85461117810465
+animals died: [1, 0, 5, 0, 0]
+animals born: [7, 1]
+313 animals with average maxFood:  133.96576339642326
+272 prey: 142.7216006281291 ;  41 predator: 75.87825785925273
+animals died: [3, 1, 3, 0, 0]
+animals born: [6, 1]
+313 animals with average maxFood:  133.58279808600668
+271 prey: 142.52129934316048 ;  42 predator: 75.90818283151404
+animals died: [3, 1, 3, 2, 0]
+animals born: [9, 1]
+314 animals with average maxFood:  133.50371991295515
+273 prey: 142.15473576648722 ;  41 predator: 75.90061435163146
+animals died: [5, 0, 3, 0, 0]
+animals born: [12, 1]
+319 animals with average maxFood:  132.98284028064654
+277 prey: 141.64213243070517 ;  42 predator: 75.87274681478321
+animals died: [2, 1, 4, 0, 0]
+animals born: [13, 0]
+325 animals with average maxFood:  132.56629942012887
+283 prey: 140.98018355237093 ;  42 predator: 75.87274681478321
+animals died: [5, 0, 1, 0, 0]
+animals born: [14, 0]
+333 animals with average maxFood:  132.43599157654185
+291 prey: 140.59975886174408 ;  42 predator: 75.87274681478321
+animals died: [4, 0, 2, 1, 0]
+animals born: [10, 1]
+337 animals with average maxFood:  132.12184643875776
+295 prey: 140.13565251359756 ;  42 predator: 75.83439900833457
+animals died: [5, 1, 1, 1, 0]
+animals born: [8, 1]
+338 animals with average maxFood:  132.0266071276657
+296 prey: 139.98728585175763 ;  42 predator: 75.92277611977914
+animals died: [4, 2, 5, 1, 0]
+animals born: [5, 0]
+331 animals with average maxFood:  131.87593835806055
+290 prey: 139.78450542203674 ;  41 predator: 75.93729327139962
+animals died: [2, 0, 3, 0, 0]
+animals born: [5, 2]
+333 animals with average maxFood:  131.17878055358656
+290 prey: 139.3710775914041 ;  43 predator: 75.92840518225864
+animals died: [2, 0, 1, 0, 0]
+animals born: [8, 2]
+340 animals with average maxFood:  130.53613308565565
+295 prey: 138.87842668448474 ;  45 predator: 75.84776393777553
+animals died: [3, 2, 8, 0, 0]
+animals born: [8, 2]
+337 animals with average maxFood:  129.7331347136817
+290 prey: 138.47928623919657 ;  47 predator: 75.76751891795116
+animals died: [6, 3, 6, 0, 0]
+animals born: [4, 0]
+326 animals with average maxFood:  129.23287257880617
+279 prey: 138.23958090160252 ;  47 predator: 75.76751891795116
+animals died: [5, 1, 3, 2, 0]
+animals born: [14, 0]
+329 animals with average maxFood:  129.3581072004285
+284 prey: 137.8345737855009 ;  45 predator: 75.86218475241554
+animals died: [4, 1, 5, 1, 0]
+animals born: [15, 3]
+336 animals with average maxFood:  128.58595708600262
+289 prey: 137.1791195154632 ;  47 predator: 75.747149806979
+animals died: [2, 1, 2, 0, 0]
+animals born: [14, 0]
+345 animals with average maxFood:  128.7550668558725
+298 prey: 137.11537592063087 ;  47 predator: 75.747149806979
+animals died: [5, 0, 1, 0, 0]
+animals born: [13, 0]
+352 animals with average maxFood:  128.54633648844936
+305 prey: 136.68260460002017 ;  47 predator: 75.747149806979
+animals died: [2, 1, 1, 0, 0]
+animals born: [7, 2]
+357 animals with average maxFood:  128.15051170821917
+308 prey: 136.50212383322798 ;  49 predator: 75.65466406530625
+animals died: [2, 2, 5, 1, 0]
+animals born: [8, 1]
+356 animals with average maxFood:  128.0435064135366
+307 prey: 136.3984688044166 ;  49 predator: 75.69710939312502
+animals died: [2, 0, 3, 2, 0]
+animals born: [5, 0]
+354 animals with average maxFood:  128.30005475432932
+307 prey: 136.33634118262154 ;  47 predator: 75.80771574399488
+animals died: [1, 1, 2, 0, 0]
+animals born: [9, 0]
+359 animals with average maxFood:  128.2870711680948
+312 prey: 136.1926150941611 ;  47 predator: 75.80771574399488
+animals died: [2, 1, 3, 0, 0]
+animals born: [8, 1]
+362 animals with average maxFood:  128.09655585336617
+314 prey: 136.0930216165958 ;  48 predator: 75.78634231890568
+animals died: [3, 4, 2, 1, 0]
+animals born: [4, 0]
+356 animals with average maxFood:  128.08689706513624
+309 prey: 136.03604090730906 ;  47 predator: 75.82550457085114
+animals died: [3, 3, 2, 1, 0]
+animals born: [16, 0]
+363 animals with average maxFood:  128.69058428410915
+317 prey: 136.35482974270337 ;  46 predator: 75.87393623249241
+animals died: [1, 3, 2, 0, 0]
+animals born: [16, 1]
+374 animals with average maxFood:  129.27814162282345
+327 prey: 136.95633199374365 ;  47 predator: 75.85754053152766
+animals died: [4, 2, 4, 0, 0]
+animals born: [15, 2]
+381 animals with average maxFood:  129.56027665200384
+332 prey: 137.48803275302518 ;  49 predator: 75.845684294063
+animals died: [4, 0, 7, 1, 0]
+animals born: [14, 2]
+385 animals with average maxFood:  129.73842879010783
+335 prey: 137.783922492815 ;  50 predator: 75.83362098196963
+animals died: [3, 3, 3, 2, 1]
+animals born: [9, 0]
+382 animals with average maxFood:  130.44900339833774
+335 prey: 138.1083029976771 ;  47 predator: 75.85612327538644
+animals died: [4, 1, 3, 0, 0]
+animals born: [13, 2]
+389 animals with average maxFood:  130.73221438962426
+340 prey: 138.62690981744353 ;  49 predator: 75.9526950945513
+animals died: [3, 0, 5, 1, 0]
+animals born: [6, 1]
+387 animals with average maxFood:  130.8758534138374
+338 prey: 138.82333778654674 ;  49 predator: 76.0544305980053
+animals died: [3, 3, 1, 1, 0]
+animals born: [8, 0]
+387 animals with average maxFood:  131.3326090585003
+339 prey: 139.1507425616645 ;  48 predator: 76.11704119240308
+animals died: [3, 2, 2, 1, 1]
+animals born: [6, 0]
+384 animals with average maxFood:  131.77529689004467
+338 prey: 139.351671739666 ;  46 predator: 76.10541212543568
+animals died: [0, 0, 3, 1, 1]
+animals born: [5, 2]
+386 animals with average maxFood:  132.01953833315198
+340 prey: 139.56649665240542 ;  46 predator: 76.23767249519142
+animals died: [4, 1, 4, 0, 0]
+animals born: [10, 1]
+388 animals with average maxFood:  132.41733905339433
+341 prey: 140.15312601327292 ;  47 predator: 76.29173579129588
+animals died: [2, 1, 0, 0, 0]
+animals born: [19, 1]
+405 animals with average maxFood:  133.417483699356
+357 prey: 141.0909531929411 ;  48 predator: 76.34605434081668
+animals died: [3, 0, 4, 0, 0]
+animals born: [19, 0]
+417 animals with average maxFood:  134.64975825078088
+369 prey: 142.23397989760548 ;  48 predator: 76.34605434081668
+animals died: [5, 1, 2, 1, 0]
+animals born: [15, 1]
+424 animals with average maxFood:  135.6065619993657
+376 prey: 143.1645292114127 ;  48 predator: 76.40248550499747
+animals died: [0, 2, 3, 1, 0]
+animals born: [14, 0]
+432 animals with average maxFood:  136.60942810031972
+385 prey: 143.9483757078655 ;  47 predator: 76.49251684701923
+animals died: [6, 3, 2, 3, 0]
+animals born: [11, 0]
+429 animals with average maxFood:  137.56997340590075
+385 prey: 144.55348250975248 ;  44 predator: 76.46426874719818
+animals died: [5, 1, 4, 2, 0]
+animals born: [11, 2]
+430 animals with average maxFood:  137.95691948585468
+386 prey: 144.95428564270443 ;  44 predator: 76.57093456439999
+animals died: [2, 2, 6, 0, 0]
+animals born: [5, 1]
+426 animals with average maxFood:  137.97997316252292
+381 prey: 145.2224867609666 ;  45 predator: 76.66002469569969
+animals died: [6, 4, 6, 0, 0]
+animals born: [9, 1]
+420 animals with average maxFood:  138.16172957853547
+374 prey: 145.71812835813753 ;  46 predator: 76.72492210959685
+animals died: [4, 3, 4, 1, 0]
+animals born: [5, 4]
+417 animals with average maxFood:  137.87837308011055
+368 prey: 145.97675967649923 ;  49 predator: 77.05783700927299
+animals died: [2, 1, 3, 0, 0]
+animals born: [7, 1]
+419 animals with average maxFood:  138.0809257466186
+369 prey: 146.34993990335207 ;  50 predator: 77.05560126992553
+animals died: [6, 1, 5, 0, 0]
+animals born: [16, 1]
+424 animals with average maxFood:  138.24235577475054
+373 prey: 146.61013155256447 ;  51 predator: 77.04274077230718
+animals died: [0, 2, 5, 1, 0]
+animals born: [24, 0]
+440 animals with average maxFood:  139.19323075139198
+390 prey: 147.15344693433357 ;  50 predator: 77.1035445244475
+animals died: [4, 1, 2, 1, 0]
+animals born: [20, 1]
+453 animals with average maxFood:  139.80843634137415
+403 prey: 147.58540168410227 ;  50 predator: 77.12609567898505
+animals died: [3, 4, 2, 0, 0]
+animals born: [15, 3]
+462 animals with average maxFood:  139.90678056090243
+409 prey: 148.04580328410978 ;  53 predator: 77.09809577237743
+animals died: [1, 5, 8, 2, 0]
+animals born: [15, 0]
+461 animals with average maxFood:  140.33259786554962
+410 prey: 148.19661123334967 ;  51 predator: 77.1120982420587
+animals died: [4, 4, 4, 0, 1]
+animals born: [8, 1]
+457 animals with average maxFood:  140.22810913731666
+406 prey: 148.15253449120965 ;  51 predator: 77.14346808475649
+animals died: [4, 3, 2, 1, 0]
+animals born: [10, 1]
+458 animals with average maxFood:  140.24686567254844
+407 prey: 148.15870732628332 ;  51 predator: 77.10726659274236
+animals died: [2, 2, 5, 0, 1]
+animals born: [9, 0]
+457 animals with average maxFood:  140.4218790924914
+407 prey: 148.19084929311614 ;  50 predator: 77.18246165940532
+animals died: [3, 0, 1, 1, 0]
+animals born: [3, 0]
+455 animals with average maxFood:  140.50339359565837
+406 prey: 148.16445619668713 ;  49 predator: 77.02601775856273
+animals died: [3, 4, 5, 0, 0]
+animals born: [12, 0]
+455 animals with average maxFood:  140.69525952086025
+406 prey: 148.37947835424097 ;  49 predator: 77.02601775856273
+animals died: [5, 1, 5, 0, 0]
+animals born: [8, 2]
+454 animals with average maxFood:  140.6552303561371
+403 prey: 148.7200362382067 ;  51 predator: 76.92745054292078
+animals died: [3, 1, 9, 0, 0]
+animals born: [22, 2]
+465 animals with average maxFood:  140.61244537848836
+412 prey: 148.82418763026726 ;  53 predator: 76.77776976088631
+animals died: [8, 2, 5, 0, 0]
+animals born: [17, 0]
+467 animals with average maxFood:  140.70294148246504
+414 prey: 148.88659873184588 ;  53 predator: 76.77776976088631
+animals died: [5, 1, 2, 0, 0]
+animals born: [17, 5]
+481 animals with average maxFood:  139.89935885154674
+423 prey: 148.5797767355346 ;  58 predator: 76.59217324935885
+animals died: [5, 3, 7, 0, 0]
+animals born: [13, 1]
+480 animals with average maxFood:  139.3226335025192
+421 prey: 148.11612669707245 ;  59 predator: 76.57584308036817
+animals died: [5, 5, 5, 0, 0]
+animals born: [10, 2]
+477 animals with average maxFood:  138.57596180825337
+416 prey: 147.67942151936683 ;  61 predator: 76.4933513193483
+animals died: [7, 6, 5, 0, 0]
+animals born: [9, 0]
+468 animals with average maxFood:  138.0200427858722
+407 prey: 147.24148794424556 ;  61 predator: 76.4933513193483
+animals died: [4, 2, 7, 0, 0]
+animals born: [13, 2]
+470 animals with average maxFood:  137.35620019643247
+407 prey: 146.7866899437584 ;  63 predator: 76.43224262243784
+animals died: [2, 3, 5, 0, 0]
+animals born: [9, 4]
+473 animals with average maxFood:  136.45988255623476
+406 prey: 146.40156415647454 ;  67 predator: 76.21625972493128
+animals died: [2, 3, 8, 0, 0]
+animals born: [9, 1]
+470 animals with average maxFood:  136.01960320970952
+402 prey: 146.144306637196 ;  68 predator: 76.16473882956888
+animals died: [4, 0, 4, 1, 1]
+animals born: [9, 1]
+470 animals with average maxFood:  136.10049850287658
+403 prey: 146.07137054581918 ;  67 predator: 76.12644725950557
+animals died: [5, 2, 8, 0, 0]
+animals born: [14, 1]
+470 animals with average maxFood:  135.87076847137615
+402 prey: 145.98479341750124 ;  68 predator: 76.07903276046036
+animals died: [9, 0, 3, 0, 0]
+animals born: [17, 0]
+475 animals with average maxFood:  135.95794533700382
+407 prey: 145.9622845389816 ;  68 predator: 76.07903276046036
+animals died: [7, 4, 4, 0, 0]
+animals born: [14, 1]
+475 animals with average maxFood:  136.01876082306256
+406 prey: 146.20880676472976 ;  69 predator: 76.05993977499192
+animals died: [7, 3, 5, 2, 0]
+animals born: [15, 0]
+473 animals with average maxFood:  136.5261627463566
+406 prey: 146.50746789129408 ;  67 predator: 76.04243306210847
+animals died: [3, 9, 6, 0, 0]
+animals born: [10, 1]
+466 animals with average maxFood:  136.4439056495957
+398 prey: 146.76730049352864 ;  68 predator: 76.02168288657649
+animals died: [6, 5, 7, 0, 0]
+animals born: [10, 3]
+461 animals with average maxFood:  136.151749433614
+390 prey: 147.12028690289458 ;  71 predator: 75.90203657418532
+animals died: [3, 4, 6, 0, 1]
+animals born: [8, 3]
+458 animals with average maxFood:  135.9850540694565
+385 prey: 147.39776341332526 ;  73 predator: 75.79473766686118
+animals died: [4, 3, 7, 1, 0]
+animals born: [12, 2]
+457 animals with average maxFood:  136.19886602077162
+383 prey: 147.87916048947534 ;  74 predator: 75.74545005437288
+animals died: [3, 3, 9, 1, 0]
+animals born: [5, 2]
+448 animals with average maxFood:  135.98080885449983
+373 prey: 148.10274626397427 ;  75 predator: 75.69437347138042
+animals died: [2, 2, 6, 0, 0]
+animals born: [12, 3]
+453 animals with average maxFood:  136.03633755371214
+375 prey: 148.61900535893312 ;  78 predator: 75.54274233630375
+animals died: [2, 0, 6, 0, 1]
+animals born: [15, 0]
+459 animals with average maxFood:  137.05669876405128
+382 prey: 149.44855398269726 ;  77 predator: 75.58022222479467
+animals died: [4, 0, 4, 0, 0]
+animals born: [15, 2]
+468 animals with average maxFood:  137.71639012890142
+389 prey: 150.36655599310453 ;  79 predator: 75.42633289883815
+animals died: [3, 0, 7, 0, 0]
+animals born: [14, 2]
+474 animals with average maxFood:  138.21463130554952
+393 prey: 151.18272730491725 ;  81 predator: 75.29535071602473
+animals died: [1, 1, 4, 1, 0]
+animals born: [10, 6]
+483 animals with average maxFood:  137.9041834693236
+397 prey: 151.54375711229912 ;  86 predator: 74.94010514070406
+animals died: [3, 1, 10, 0, 0]
+animals born: [17, 0]
+486 animals with average maxFood:  138.44695571666472
+400 prey: 152.1009285904962 ;  86 predator: 74.94010514070406
+animals died: [4, 2, 7, 0, 0]
+animals born: [15, 2]
+490 animals with average maxFood:  138.3766649300286
+402 prey: 152.29044732046899 ;  88 predator: 74.81597719188012
+animals died: [2, 2, 6, 0, 0]
+animals born: [11, 0]
+491 animals with average maxFood:  138.54168579641805
+403 prey: 152.45697700534933 ;  88 predator: 74.81597719188012
+animals died: [7, 6, 6, 1, 0]
+animals born: [6, 0]
+477 animals with average maxFood:  138.3311359963921
+390 prey: 152.4876413225021 ;  87 predator: 74.8709397069337
+animals died: [1, 2, 7, 1, 0]
+animals born: [9, 0]
+475 animals with average maxFood:  138.47810598257138
+389 prey: 152.5306460581747 ;  86 predator: 74.91487238478445
+animals died: [2, 1, 6, 0, 0]
+animals born: [9, 2]
+477 animals with average maxFood:  138.128997251044
+389 prey: 152.46186401794424 ;  88 predator: 74.77121120190576
+animals died: [5, 1, 5, 1, 0]
+animals born: [15, 4]
+484 animals with average maxFood:  137.91898713169977
+393 prey: 152.59880958944976 ;  91 predator: 74.52151212185642
+animals died: [4, 0, 9, 0, 0]
+animals born: [14, 2]
+487 animals with average maxFood:  137.59787352312802
+394 prey: 152.52585742083627 ;  93 predator: 74.3545869027294
+animals died: [3, 1, 7, 1, 0]
+animals born: [12, 5]
+492 animals with average maxFood:  137.0226211941727
+395 prey: 152.4931123202772 ;  97 predator: 74.02422949508707
+animals died: [4, 4, 7, 2, 2]
+animals born: [12, 1]
+486 animals with average maxFood:  137.04803407376465
+392 prey: 152.23005255444488 ;  94 predator: 73.73578679263005
+animals died: [6, 4, 9, 1, 0]
+animals born: [16, 4]
+486 animals with average maxFood:  136.08736083508765
+389 prey: 151.68625789735967 ;  97 predator: 73.53095921422366
+animals died: [6, 3, 6, 4, 0]
+animals born: [15, 0]
+482 animals with average maxFood:  136.040781130623
+389 prey: 151.005573243513 ;  93 predator: 73.44611304552427
+animals died: [6, 3, 4, 0, 0]
+animals born: [12, 1]
+482 animals with average maxFood:  135.65526431785509
+388 prey: 150.7424400991283 ;  94 predator: 73.38053875259988
+animals died: [5, 0, 8, 1, 1]
+animals born: [10, 4]
+481 animals with average maxFood:  135.18822057004846
+385 prey: 150.62620397058515 ;  96 predator: 73.27547464081286
+animals died: [1, 3, 10, 0, 0]
+animals born: [11, 4]
+482 animals with average maxFood:  134.17184022175735
+382 prey: 150.1657747520809 ;  100 predator: 73.07501031592163
+animals died: [3, 2, 8, 2, 0]
+animals born: [7, 2]
+476 animals with average maxFood:  133.76877787455396
+376 prey: 149.93814225533453 ;  100 predator: 72.97196780281928
+animals died: [2, 2, 8, 0, 0]
+animals born: [14, 1]
+479 animals with average maxFood:  133.11355471300456
+378 prey: 149.2053468422655 ;  101 predator: 72.88882773418646
+animals died: [5, 1, 7, 1, 0]
+animals born: [20, 0]
+485 animals with average maxFood:  132.64264715215924
+385 prey: 148.16290147586247 ;  100 predator: 72.88966800590201
+animals died: [6, 2, 5, 0, 0]
+animals born: [11, 2]
+485 animals with average maxFood:  131.80458269726932
+383 prey: 147.53963917622016 ;  102 predator: 72.72098827140509
+animals died: [3, 1, 11, 0, 0]
+animals born: [10, 1]
+481 animals with average maxFood:  131.18874267543563
+378 prey: 147.14646834855182 ;  103 predator: 72.6254387488542
+animals died: [5, 2, 3, 2, 0]
+animals born: [13, 1]
+483 animals with average maxFood:  130.72584712766
+381 prey: 146.27474511794932 ;  102 predator: 72.64613992863815
+animals died: [4, 0, 9, 0, 1]
+animals born: [12, 1]
+482 animals with average maxFood:  130.25356455965343
+380 prey: 145.74515512483356 ;  102 predator: 72.53979578741382
+animals died: [3, 1, 5, 2, 1]
+animals born: [18, 5]
+493 animals with average maxFood:  129.19526642530232
+389 prey: 144.41926205334676 ;  104 predator: 72.25166739348236
+animals died: [3, 1, 11, 1, 0]
+animals born: [10, 4]
+491 animals with average maxFood:  127.9732224453193
+384 prey: 143.50476787753135 ;  107 predator: 72.23384444560507
+animals died: [1, 4, 9, 1, 1]
+animals born: [11, 5]
+491 animals with average maxFood:  126.93096073496876
+381 prey: 142.75379759225194 ;  110 predator: 72.12640762019713
+animals died: [8, 1, 4, 0, 1]
+animals born: [10, 3]
+490 animals with average maxFood:  126.11834773545647
+378 prey: 142.14248481766896 ;  112 predator: 72.03688508298947
+animals died: [5, 0, 4, 1, 0]
+animals born: [11, 1]
+492 animals with average maxFood:  125.54733801130213
+380 prey: 141.30415988111596 ;  112 predator: 72.08669238157685
+animals died: [2, 1, 3, 0, 0]
+animals born: [21, 2]
+509 animals with average maxFood:  124.26918583499335
+395 prey: 139.34768826756184 ;  114 predator: 72.0234975817957
+animals died: [2, 1, 9, 2, 0]
+animals born: [10, 1]
+506 animals with average maxFood:  123.53124520823266
+393 prey: 138.36961616650794 ;  113 predator: 71.9252293975941
+animals died: [3, 1, 10, 3, 0]
+animals born: [13, 5]
+507 animals with average maxFood:  122.52147409604042
+392 prey: 137.38889228514634 ;  115 predator: 71.84297035578395
+animals died: [3, 1, 7, 1, 0]
+animals born: [11, 2]
+508 animals with average maxFood:  122.00522806839008
+392 prey: 136.8686815924704 ;  116 predator: 71.77700581460157
+animals died: [4, 2, 4, 4, 0]
+animals born: [18, 0]
+512 animals with average maxFood:  122.11934931284706
+400 prey: 136.22631616357688 ;  112 predator: 71.73732484595509
+animals died: [1, 3, 5, 2, 1]
+animals born: [9, 1]
+510 animals with average maxFood:  122.23231392819277
+400 prey: 136.13361482359733 ;  110 predator: 71.68212885399444
+animals died: [4, 2, 8, 1, 0]
+animals born: [12, 2]
+509 animals with average maxFood:  121.90270425808846
+398 prey: 135.95224450401975 ;  111 predator: 71.52687526817286
+animals died: [5, 0, 6, 1, 0]
+animals born: [13, 0]
+510 animals with average maxFood:  121.89528998990735
+400 prey: 135.7389732744246 ;  110 predator: 71.55462350075385
+animals died: [6, 1, 3, 2, 1]
+animals born: [10, 1]
+508 animals with average maxFood:  122.1524439610727
+400 prey: 135.83352133481725 ;  108 predator: 71.48178702127815
+animals died: [7, 0, 3, 2, 1]
+animals born: [12, 1]
+508 animals with average maxFood:  122.08818801260747
+402 prey: 135.4447955256403 ;  106 predator: 71.43388404808682
+animals died: [6, 2, 5, 1, 0]
+animals born: [21, 3]
+518 animals with average maxFood:  121.74892668722276
+410 prey: 135.06536479673997 ;  108 predator: 71.19578201220381
+animals died: [2, 1, 9, 6, 0]
+animals born: [18, 1]
+519 animals with average maxFood:  122.18880233783021
+416 prey: 134.83927756679248 ;  103 predator: 71.0956208305652
+animals died: [3, 0, 6, 2, 0]
+animals born: [10, 5]
+523 animals with average maxFood:  121.62608243804185
+417 prey: 134.58174395308683 ;  106 predator: 70.65899893074238
+animals died: [4, 2, 8, 1, 0]
+animals born: [8, 1]
+517 animals with average maxFood:  121.42664909191795
+411 prey: 134.53621466920512 ;  106 predator: 70.59616369319131
+animals died: [6, 1, 5, 4, 0]
+animals born: [20, 2]
+523 animals with average maxFood:  121.1710257619001
+419 prey: 133.8112305518113 ;  104 predator: 70.24558531023871
+animals died: [2, 0, 8, 6, 0]
+animals born: [8, 1]
+516 animals with average maxFood:  121.59451619880997
+417 prey: 133.7779373352442 ;  99 predator: 70.27646959382943
+animals died: [3, 2, 7, 2, 0]
+animals born: [14, 3]
+519 animals with average maxFood:  121.07186598206238
+419 prey: 133.22664911288553 ;  100 predator: 70.14332466391338
+animals died: [1, 0, 3, 3, 0]
+animals born: [17, 3]
+532 animals with average maxFood:  121.00877481586835
+432 prey: 132.83089446479946 ;  100 predator: 69.93721793248598
+animals died: [3, 4, 8, 4, 0]
+animals born: [9, 2]
+524 animals with average maxFood:  120.89193164838066
+426 prey: 132.64036005054612 ;  98 predator: 69.82223267570215
+animals died: [9, 0, 8, 5, 0]
+animals born: [16, 0]
+518 animals with average maxFood:  121.17972261761362
+425 prey: 132.40673427543814 ;  93 predator: 69.8734865469101
+animals died: [5, 0, 9, 1, 0]
+animals born: [22, 1]
+526 animals with average maxFood:  121.12154532215058
+433 prey: 132.14063452303407 ;  93 predator: 69.8176138814779
+animals died: [2, 1, 4, 2, 1]
+animals born: [17, 1]
+534 animals with average maxFood:  121.35593597895483
+443 prey: 131.94215837342176 ;  91 predator: 69.820809377319
+animals died: [5, 1, 5, 1, 1]
+animals born: [10, 0]
+531 animals with average maxFood:  121.4751932146409
+442 prey: 131.87660493468067 ;  89 predator: 69.81874399826364
+animals died: [2, 1, 4, 4, 0]
+animals born: [6, 1]
+527 animals with average maxFood:  121.70050112748217
+441 prey: 131.82869500642235 ;  86 predator: 69.76406507384709
+animals died: [5, 1, 6, 2, 0]
+animals born: [21, 0]
+534 animals with average maxFood:  121.98536450998616
+450 prey: 131.72861720070935 ;  84 predator: 69.78936795254046
+animals died: [4, 2, 6, 0, 0]
+animals born: [13, 4]
+539 animals with average maxFood:  121.50200006481958
+451 prey: 131.5907953999703 ;  88 predator: 69.79692397217231
+animals died: [5, 1, 8, 2, 0]
+animals born: [12, 1]
+536 animals with average maxFood:  121.64697400659517
+449 prey: 131.69842466972906 ;  87 predator: 69.77224587157087
+animals died: [3, 1, 7, 1, 0]
+animals born: [14, 3]
+541 animals with average maxFood:  121.58057122281045
+452 prey: 131.76556591136446 ;  89 predator: 69.8545307820643
+animals died: [4, 1, 5, 1, 0]
+animals born: [13, 3]
+546 animals with average maxFood:  121.59043075146873
+455 prey: 131.93219392453977 ;  91 predator: 69.8816148861136
+animals died: [4, 2, 6, 2, 0]
+animals born: [17, 2]
+551 animals with average maxFood:  121.76435497137457
+460 prey: 132.0181969516927 ;  91 predator: 69.93174715877778
+animals died: [5, 1, 8, 0, 0]
+animals born: [17, 2]
+556 animals with average maxFood:  121.85751927691607
+463 prey: 132.2900380758011 ;  93 predator: 69.9192805254778
+animals died: [2, 0, 9, 3, 0]
+animals born: [22, 1]
+565 animals with average maxFood:  122.20085723371194
+474 prey: 132.2243039567225 ;  91 predator: 69.99081606110785
+animals died: [3, 1, 8, 0, 0]
+animals born: [16, 3]
+572 animals with average maxFood:  121.84399246284816
+478 prey: 132.04724379606722 ;  94 predator: 69.95937398115991
+animals died: [3, 1, 5, 1, 0]
+animals born: [11, 4]
+577 animals with average maxFood:  121.44285089671807
+480 prey: 131.83740928567067 ;  97 predator: 70.00586093076687
+animals died: [3, 1, 6, 1, 0]
+animals born: [19, 0]
+585 animals with average maxFood:  121.39174169548501
+489 prey: 131.4805677598263 ;  96 predator: 70.00178393024628
+animals died: [2, 1, 4, 3, 0]
+animals born: [16, 2]
+593 animals with average maxFood:  121.34779918073347
+498 prey: 131.13254934925473 ;  95 predator: 70.05510882364273
+animals died: [3, 1, 7, 3, 0]
+animals born: [16, 0]
+595 animals with average maxFood:  121.26783886933113
+503 prey: 130.65274420843753 ;  92 predator: 69.956889026173
+animals died: [3, 1, 10, 3, 0]
+animals born: [10, 1]
+589 animals with average maxFood:  121.38446240921625
+499 prey: 130.65277389916574 ;  90 predator: 69.9968242593848
+animals died: [3, 4, 6, 4, 0]
+animals born: [17, 1]
+590 animals with average maxFood:  121.60825494412016
+503 prey: 130.5390974602809 ;  87 predator: 69.97361372999491
+animals died: [4, 2, 7, 1, 0]
+animals born: [19, 2]
+597 animals with average maxFood:  121.55941907808416
+509 prey: 130.45810948916417 ;  88 predator: 70.08858476854128
+animals died: [4, 3, 9, 2, 0]
+animals born: [23, 1]
+603 animals with average maxFood:  121.6082317799274
+516 prey: 130.28730476744101 ;  87 predator: 70.13235061260488
+animals died: [4, 1, 7, 0, 0]
+animals born: [22, 2]
+615 animals with average maxFood:  121.39678179363246
+526 prey: 130.0652570981211 ;  89 predator: 70.16511875811497
+animals died: [7, 3, 7, 0, 0]
+animals born: [15, 4]
+617 animals with average maxFood:  120.86834781363758
+524 prey: 129.8453255763186 ;  93 predator: 70.28838708627337
+animals died: [6, 0, 9, 0, 0]
+animals born: [10, 1]
+613 animals with average maxFood:  120.55727627360099
+519 prey: 129.65580341930516 ;  94 predator: 70.3217912882767
+animals died: [3, 3, 6, 1, 0]
+animals born: [17, 1]
+618 animals with average maxFood:  120.29865912481318
+524 prey: 129.27243332975436 ;  94 predator: 70.27464121641746
+animals died: [2, 2, 6, 0, 0]
+animals born: [21, 5]
+634 animals with average maxFood:  119.49876035803548
+535 prey: 128.58240721737312 ;  99 predator: 70.41036571413997
+animals died: [5, 0, 8, 0, 1]
+animals born: [15, 2]
+637 animals with average maxFood:  119.09769051575566
+537 prey: 128.1418930058672 ;  100 predator: 70.53032314385653
+animals died: [2, 0, 8, 2, 0]
+animals born: [8, 2]
+635 animals with average maxFood:  118.92382986525955
+535 prey: 127.96788691038472 ;  100 predator: 70.53812467383979
+animals died: [4, 3, 10, 1, 0]
+animals born: [18, 3]
+638 animals with average maxFood:  118.4425830194477
+536 prey: 127.53444452041552 ;  102 predator: 70.66574219083245
+animals died: [9, 4, 9, 1, 0]
+animals born: [23, 3]
+641 animals with average maxFood:  117.83939026328305
+537 prey: 126.9490157602682 ;  104 predator: 70.80218937981142
+animals died: [6, 2, 11, 2, 0]
+animals born: [26, 1]
+647 animals with average maxFood:  117.71425719046992
+544 prey: 126.58645689610933 ;  103 predator: 70.85526068689852
+animals died: [1, 3, 10, 0, 0]
+animals born: [20, 1]
+654 animals with average maxFood:  117.45262708024734
+550 prey: 126.26064416169689 ;  104 predator: 70.87176751488897
+animals died: [7, 4, 10, 0, 0]
+animals born: [25, 1]
+659 animals with average maxFood:  117.20801889938888
+554 prey: 125.98721604318172 ;  105 predator: 70.88730254071031
+animals died: [6, 5, 8, 2, 0]
+animals born: [8, 3]
+649 animals with average maxFood:  117.08955847650782
+543 prey: 126.11451034685864 ;  106 predator: 70.85796540480484
+animals died: [3, 4, 3, 0, 0]
+animals born: [16, 0]
+655 animals with average maxFood:  117.13593381632226
+549 prey: 126.07120640579554 ;  106 predator: 70.85796540480484
+animals died: [5, 2, 8, 0, 0]
+animals born: [16, 3]
+659 animals with average maxFood:  116.97397913876583
+550 prey: 126.1083429799932 ;  109 predator: 70.88315241697622
+animals died: [3, 2, 6, 0, 0]
+animals born: [17, 3]
+668 animals with average maxFood:  116.8464082860695
+556 prey: 126.09628522671343 ;  112 predator: 70.92737633072989
+animals died: [3, 2, 9, 0, 0]
+animals born: [10, 1]
+665 animals with average maxFood:  116.71887755642756
+552 prey: 126.09326314859385 ;  113 predator: 70.92541873451773
+animals died: [1, 6, 7, 5, 0]
+animals born: [12, 0]
+658 animals with average maxFood:  117.03087484966854
+550 prey: 126.08350114557082 ;  108 predator: 70.92953723164743
+animals died: [3, 4, 10, 1, 0]
+animals born: [19, 6]
+665 animals with average maxFood:  116.92446044152815
+552 prey: 126.3203567992439 ;  113 predator: 71.02592248171305
+animals died: [2, 11, 14, 4, 1]
+animals born: [32, 5]
+670 animals with average maxFood:  117.19112113458851
+557 prey: 126.52859203126246 ;  113 predator: 71.16482653770893
+animals died: [6, 0, 15, 1, 0]
+animals born: [27, 2]
+677 animals with average maxFood:  117.26581598919968
+563 prey: 126.5837634349611 ;  114 predator: 71.24823342811477
+animals died: [2, 2, 10, 1, 0]
+animals born: [29, 1]
+692 animals with average maxFood:  117.4706227347615
+578 prey: 126.57546777295265 ;  114 predator: 71.30746104989757
+animals died: [3, 3, 9, 1, 0]
+animals born: [13, 1]
+690 animals with average maxFood:  117.56944224827095
+576 prey: 126.7098916946509 ;  114 predator: 71.38611872971944
+animals died: [3, 3, 5, 2, 0]
+animals born: [15, 5]
+697 animals with average maxFood:  117.66894795844559
+580 prey: 126.9399505104988 ;  117 predator: 71.71013188843793
+animals died: [6, 1, 11, 0, 0]
+animals born: [12, 2]
+693 animals with average maxFood:  117.55844842021916
+574 prey: 127.04127054143342 ;  119 predator: 71.81777701200905
+animals died: [5, 3, 9, 0, 0]
+animals born: [16, 1]
+693 animals with average maxFood:  117.53886496305626
+573 prey: 127.09783589393007 ;  120 predator: 71.89477876813378
+animals died: [3, 3, 9, 0, 1]
+animals born: [15, 2]
+694 animals with average maxFood:  117.6316814353743
+573 prey: 127.27091929621747 ;  121 predator: 71.98471206129868
+animals died: [5, 4, 4, 0, 0]
+animals born: [9, 1]
+691 animals with average maxFood:  117.70554505985538
+569 prey: 127.49093490483554 ;  122 predator: 72.06712848777568
+animals died: [6, 4, 11, 0, 0]
+animals born: [17, 2]
+689 animals with average maxFood:  117.60514106165674
+565 prey: 127.56946062030833 ;  124 predator: 72.20320113715539
+animals died: [2, 4, 6, 0, 0]
+animals born: [19, 2]
+698 animals with average maxFood:  117.91079393862051
+572 prey: 127.94949343954406 ;  126 predator: 72.338285093158
+animals died: [3, 5, 12, 2, 0]
+animals born: [38, 5]
+719 animals with average maxFood:  118.51182215729008
+590 prey: 128.52461534974657 ;  129 predator: 72.71687654838061
+animals died: [3, 4, 11, 0, 0]
+animals born: [34, 3]
+738 animals with average maxFood:  118.79761513983608
+606 prey: 128.80851914060955 ;  132 predator: 72.83846495446693
+animals died: [7, 5, 10, 2, 0]
+animals born: [20, 0]
+734 animals with average maxFood:  118.92964795444102
+604 prey: 128.84958379473085 ;  130 predator: 72.84009989647916
+animals died: [6, 7, 7, 0, 0]
+animals born: [10, 5]
+729 animals with average maxFood:  118.41974481895726
+594 prey: 128.72643546942285 ;  135 predator: 73.07030595690881
+animals died: [2, 2, 13, 0, 0]
+animals born: [17, 6]
+735 animals with average maxFood:  118.13197080282607
+594 prey: 128.75484460973874 ;  141 predator: 73.38028965881114
+animals died: [1, 4, 15, 1, 0]
+animals born: [17, 3]
+734 animals with average maxFood:  117.9342498793791
+591 prey: 128.69422384006566 ;  143 predator: 73.4647071467515
+animals died: [1, 1, 12, 2, 0]
+animals born: [8, 5]
+731 animals with average maxFood:  117.69918320621956
+585 prey: 128.6902172147121 ;  146 predator: 73.65976611739663
+animals died: [3, 3, 13, 2, 0]
+animals born: [13, 1]
+724 animals with average maxFood:  117.62223725255822
+579 prey: 128.61715345418764 ;  145 predator: 73.71839945432764
+animals died: [3, 7, 10, 2, 0]
+animals born: [11, 4]
+717 animals with average maxFood:  117.3950858544963
+570 prey: 128.58172626271931 ;  147 predator: 74.01831692465197
+animals died: [5, 5, 8, 1, 0]
+animals born: [21, 3]
+722 animals with average maxFood:  117.30433000577787
+573 prey: 128.52106299579583 ;  149 predator: 74.1688400508766
+animals died: [5, 2, 10, 5, 0]
+animals born: [31, 1]
+732 animals with average maxFood:  117.80647385429975
+587 prey: 128.58547582758285 ;  145 predator: 74.17010034866405
+animals died: [8, 1, 12, 3, 0]
+animals born: [31, 1]
+740 animals with average maxFood:  118.13321597827692
+597 prey: 128.66553429829213 ;  143 predator: 74.16262830660506
+animals died: [3, 4, 9, 2, 0]
+animals born: [24, 2]
+748 animals with average maxFood:  118.23048240074701
+605 prey: 128.63029199786462 ;  143 predator: 74.23128795140329
+animals died: [3, 7, 15, 3, 0]
+animals born: [19, 1]
+740 animals with average maxFood:  118.43364656583488
+599 prey: 128.81063974818738 ;  141 predator: 74.34982446491894
+animals died: [2, 7, 8, 2, 0]
+animals born: [12, 4]
+737 animals with average maxFood:  118.33907838512954
+594 prey: 128.87679603562816 ;  143 predator: 74.56702045228924
+animals died: [0, 7, 12, 1, 1]
+animals born: [19, 4]
+739 animals with average maxFood:  118.42268000947941
+594 prey: 129.06776737635641 ;  145 predator: 74.81452900310047
+animals died: [3, 4, 10, 0, 0]
+animals born: [12, 5]
+739 animals with average maxFood:  118.38931126253216
+589 prey: 129.39065458977475 ;  150 predator: 75.19070313089276
+animals died: [4, 3, 11, 3, 0]
+animals born: [15, 3]
+736 animals with average maxFood:  118.59834502076366
+586 prey: 129.64656996140715 ;  150 predator: 75.43661291931639
+animals died: [6, 8, 13, 1, 0]
+animals born: [13, 4]
+725 animals with average maxFood:  118.50289839687821
+572 prey: 129.95305781530521 ;  153 predator: 75.69576645347789
+animals died: [6, 7, 8, 0, 0]
+animals born: [19, 4]
+727 animals with average maxFood:  118.69099602887312
+570 prey: 130.47359125387447 ;  157 predator: 75.9134210081676
+animals died: [7, 1, 8, 1, 0]
+animals born: [14, 5]
+729 animals with average maxFood:  118.73901866830113
+568 prey: 130.81507831774917 ;  161 predator: 76.13528027770184
+animals died: [7, 1, 13, 2, 0]
+animals born: [31, 4]
+741 animals with average maxFood:  119.26184933512879
+578 prey: 131.3820078310386 ;  163 predator: 76.28361859503144
+animals died: [4, 3, 13, 3, 1]
+animals born: [25, 2]
+744 animals with average maxFood:  119.48578384666315
+583 prey: 131.44563563995612 ;  161 predator: 76.17774909206828
+animals died: [4, 14, 11, 2, 1]
+animals born: [15, 3]
+730 animals with average maxFood:  119.3929754304315
+569 prey: 131.5861782760094 ;  161 predator: 76.30022748550117
+animals died: [1, 11, 13, 2, 0]
+animals born: [21, 5]
+729 animals with average maxFood:  119.27655600302512
+565 prey: 131.7178888984047 ;  164 predator: 76.4146469427238
+animals died: [3, 8, 16, 5, 0]
+animals born: [15, 3]
+715 animals with average maxFood:  119.25683365157971
+553 prey: 131.83046458127626 ;  162 predator: 76.3357354779862
+animals died: [4, 5, 9, 6, 0]
+animals born: [11, 3]
+705 animals with average maxFood:  119.25468889338035
+546 prey: 131.7878675004925 ;  159 predator: 76.21622650669366
+animals died: [1, 4, 15, 0, 0]
+animals born: [11, 2]
+698 animals with average maxFood:  118.88899264229897
+537 prey: 131.6781516805102 ;  161 predator: 76.23198392478726
+animals died: [3, 3, 9, 1, 0]
+animals born: [11, 4]
+697 animals with average maxFood:  118.7079873807943
+533 prey: 131.76586338650813 ;  164 predator: 76.26989036222473
+animals died: [5, 3, 10, 4, 0]
+animals born: [15, 4]
+694 animals with average maxFood:  118.75214417316963
+530 prey: 131.80500345114086 ;  164 predator: 76.56912333582383
+animals died: [4, 4, 10, 3, 1]
+animals born: [15, 4]
+691 animals with average maxFood:  118.95065775545861
+527 prey: 132.10268438378571 ;  164 predator: 76.68774291931014
+animals died: [13, 4, 14, 1, 0]
+animals born: [23, 3]
+685 animals with average maxFood:  119.14499609482344
+519 prey: 132.6758002845261 ;  166 predator: 76.84085528484968
+animals died: [1, 2, 12, 1, 0]
+animals born: [24, 4]
+697 animals with average maxFood:  119.62177371593565
+528 prey: 133.2808912520649 ;  169 predator: 76.94713431311773
+animals died: [8, 5, 13, 2, 0]
+animals born: [17, 4]
+690 animals with average maxFood:  120.00470333030351
+519 prey: 134.14282265313787 ;  171 predator: 77.0942709995958
+animals died: [6, 5, 9, 0, 1]
+animals born: [15, 4]
+688 animals with average maxFood:  120.1147038288552
+514 prey: 134.64446871063612 ;  174 predator: 77.19344435049106
+animals died: [2, 3, 14, 3, 0]
+animals born: [18, 4]
+688 animals with average maxFood:  120.66082894041202
+513 prey: 135.47407389765976 ;  175 predator: 77.23685943716595
+animals died: [4, 0, 8, 4, 0]
+animals born: [14, 4]
+690 animals with average maxFood:  121.06396597885951
+515 prey: 135.94660537766754 ;  175 predator: 77.26648431951038
+animals died: [3, 3, 11, 3, 0]
+animals born: [9, 5]
+684 animals with average maxFood:  121.10887073231522
+507 prey: 136.4158392602088 ;  177 predator: 77.26348630495917
+animals died: [6, 4, 14, 4, 0]
+animals born: [14, 4]
+674 animals with average maxFood:  121.24939520537242
+497 prey: 136.89109787209932 ;  177 predator: 77.32890805642757
+animals died: [4, 7, 15, 3, 0]
+animals born: [10, 1]
+656 animals with average maxFood:  121.20020401594059
+481 prey: 137.19679552758353 ;  175 predator: 77.23242963251067
+animals died: [6, 3, 10, 2, 1]
+animals born: [11, 5]
+650 animals with average maxFood:  121.05089629890135
+473 prey: 137.46356982385677 ;  177 predator: 77.19103992995277
+animals died: [6, 2, 10, 2, 0]
+animals born: [19, 4]
+653 animals with average maxFood:  121.07796132584187
+474 prey: 137.66823230502737 ;  179 predator: 77.14618230833413
+animals died: [3, 3, 12, 2, 0]
+animals born: [17, 2]
+652 animals with average maxFood:  121.27264243044844
+473 prey: 137.94995354800085 ;  179 predator: 77.20354657233537
+animals died: [4, 8, 8, 2, 1]
+animals born: [24, 6]
+659 animals with average maxFood:  121.38960384456041
+477 prey: 138.2070501048045 ;  182 predator: 77.31311007458024
+animals died: [2, 3, 9, 2, 0]
+animals born: [16, 1]
+660 animals with average maxFood:  121.57828324637495
+479 prey: 138.2856764563055 ;  181 predator: 77.36369016595131
+animals died: [7, 5, 10, 2, 0]
+animals born: [16, 2]
+654 animals with average maxFood:  121.44118415149188
+473 prey: 138.31559366994608 ;  181 predator: 77.34397032702348
+animals died: [3, 6, 11, 2, 1]
+animals born: [14, 4]
+649 animals with average maxFood:  121.47373686910603
+467 prey: 138.7011422571123 ;  182 predator: 77.26935051636482
+animals died: [4, 5, 12, 4, 0]
+animals born: [13, 6]
+643 animals with average maxFood:  121.296845449028
+459 prey: 138.9676122117006 ;  184 predator: 77.21596531823072
+animals died: [6, 3, 11, 1, 0]
+animals born: [8, 2]
+632 animals with average maxFood:  121.05788143405977
+447 prey: 139.22851716117236 ;  185 predator: 77.15369673125292
+animals died: [2, 2, 13, 2, 0]
+animals born: [9, 3]
+625 animals with average maxFood:  120.9402503622152
+439 prey: 139.53814102831973 ;  186 predator: 77.0452288438289
+animals died: [5, 4, 11, 2, 0]
+animals born: [5, 3]
+611 animals with average maxFood:  120.38048289811202
+424 prey: 139.50692918748632 ;  187 predator: 77.01356724733856
+animals died: [10, 3, 6, 3, 0]
+animals born: [14, 2]
+605 animals with average maxFood:  120.67300162362724
+419 prey: 140.1110240817374 ;  186 predator: 76.88519834433644
+animals died: [5, 2, 10, 3, 0]
+animals born: [14, 3]
+602 animals with average maxFood:  120.83930547356044
+416 prey: 140.5161078368544 ;  186 predator: 76.83097330619363
+animals died: [6, 5, 8, 5, 0]
+animals born: [23, 5]
+606 animals with average maxFood:  121.27295996977043
+420 prey: 141.00751373499125 ;  186 predator: 76.71106437088487
+animals died: [4, 4, 11, 6, 0]
+animals born: [17, 0]
+598 animals with average maxFood:  121.88461606165704
+418 prey: 141.29702884259393 ;  180 predator: 76.8046797148149
+animals died: [0, 3, 10, 5, 0]
+animals born: [11, 2]
+593 animals with average maxFood:  122.21381624757865
+416 prey: 141.5540660491955 ;  177 predator: 76.75876586637756
+animals died: [0, 3, 6, 5, 0]
+animals born: [14, 2]
+595 animals with average maxFood:  122.77404372595495
+421 prey: 141.7811475336846 ;  174 predator: 76.78559140955173
+animals died: [1, 5, 5, 5, 0]
+animals born: [16, 4]
+599 animals with average maxFood:  123.31115635799912
+426 prey: 142.2248202837258 ;  173 predator: 76.73762553511158
+animals died: [5, 2, 11, 4, 0]
+animals born: [8, 4]
+589 animals with average maxFood:  123.28389277150872
+416 prey: 142.69732716072505 ;  173 predator: 76.60187713038744
+animals died: [3, 8, 6, 3, 0]
+animals born: [7, 2]
+578 animals with average maxFood:  123.21806439607711
+406 prey: 142.992507867554 ;  172 predator: 76.54118038782349
+animals died: [2, 3, 12, 4, 0]
+animals born: [5, 2]
+564 animals with average maxFood:  123.2300461883099
+394 prey: 143.4148601166323 ;  170 predator: 76.44877155443325
+animals died: [3, 3, 4, 4, 1]
+animals born: [12, 3]
+564 animals with average maxFood:  123.71118283271407
+396 prey: 143.76630448399055 ;  168 predator: 76.4383960832767
+animals died: [5, 2, 13, 5, 1]
+animals born: [15, 2]
+555 animals with average maxFood:  124.44038040949111
+391 prey: 144.56837470464123 ;  164 predator: 76.45229644971249
+animals died: [4, 4, 10, 6, 0]
+animals born: [18, 3]
+552 animals with average maxFood:  125.3569857982648
+391 prey: 145.50863239062528 ;  161 predator: 76.41727264538933
+animals died: [6, 2, 5, 5, 2]
+animals born: [14, 2]
+548 animals with average maxFood:  126.53673404128651
+392 prey: 146.46480879242986 ;  156 predator: 76.46105902559303
+animals died: [4, 5, 4, 7, 0]
+animals born: [7, 4]
+539 animals with average maxFood:  127.06209704667127
+386 prey: 147.18926263714928 ;  153 predator: 76.28375771383128
+animals died: [7, 5, 8, 5, 1]
+animals born: [14, 3]
+530 animals with average maxFood:  127.7921058853483
+380 prey: 148.12978238721058 ;  150 predator: 76.26999208063076
+animals died: [4, 8, 6, 9, 2]
+animals born: [13, 5]
+519 animals with average maxFood:  128.74887202282792
+375 prey: 148.91366240521162 ;  144 predator: 76.23639706870425
+animals died: [2, 6, 8, 3, 1]
+animals born: [10, 6]
+515 animals with average maxFood:  128.52627913171654
+369 prey: 149.30856272411978 ;  146 predator: 76.00119251804016
+animals died: [3, 10, 7, 2, 1]
+animals born: [10, 1]
+503 animals with average maxFood:  128.7162358759706
+359 prey: 149.93157434507688 ;  144 predator: 75.82521844257377
+animals died: [2, 5, 7, 3, 0]
+animals born: [6, 3]
+495 animals with average maxFood:  128.54921656976248
+351 prey: 150.18794115491318 ;  144 predator: 75.80482539345772
+animals died: [1, 4, 7, 6, 2]
+animals born: [6, 1]
+482 animals with average maxFood:  129.26747279406305
+345 prey: 150.57076161372115 ;  137 predator: 75.62050459857377
+animals died: [3, 5, 9, 7, 0]
+animals born: [9, 3]
+470 animals with average maxFood:  129.69847900217667
+337 prey: 151.07041879660926 ;  133 predator: 75.54551877117076
+animals died: [3, 4, 4, 8, 0]
+animals born: [11, 0]
+462 animals with average maxFood:  131.0666147269366
+337 prey: 151.65938908826308 ;  125 predator: 75.54849504880025
+animals died: [0, 0, 6, 3, 0]
+animals born: [12, 1]
+466 animals with average maxFood:  131.8636607292088
+343 prey: 152.109879150073 ;  123 predator: 75.40469391330288
+animals died: [3, 4, 6, 3, 0]
+animals born: [11, 1]
+462 animals with average maxFood:  132.34823066333624
+341 prey: 152.58844962142052 ;  121 predator: 75.30761359964411
+animals died: [3, 4, 5, 4, 0]
+animals born: [11, 2]
+459 animals with average maxFood:  132.8612762185213
+340 prey: 153.08252064717865 ;  119 predator: 75.08629213664318
+animals died: [2, 4, 5, 3, 0]
+animals born: [9, 0]
+454 animals with average maxFood:  133.8252390784719
+338 prey: 153.9499523768797 ;  116 predator: 75.18598826069734
+animals died: [2, 8, 3, 4, 0]
+animals born: [11, 1]
+449 animals with average maxFood:  134.80471604567728
+336 prey: 154.91425818728527 ;  113 predator: 75.00997127063054
+animals died: [3, 6, 6, 8, 1]
+animals born: [13, 3]
+441 animals with average maxFood:  136.29939587311006
+334 prey: 155.9750895610249 ;  107 predator: 74.88180996877762
+animals died: [2, 7, 4, 4, 0]
+animals born: [4, 4]
+432 animals with average maxFood:  135.9786745599202
+325 prey: 156.13095653231838 ;  107 predator: 74.76847230730883
+animals died: [3, 11, 7, 2, 0]
+animals born: [10, 2]
+421 animals with average maxFood:  136.07331852578346
+314 prey: 156.94535932302938 ;  107 predator: 74.82265674694965
+animals died: [2, 7, 8, 4, 0]
+animals born: [7, 1]
+408 animals with average maxFood:  136.57870782260898
+304 prey: 157.7460020755745 ;  104 predator: 74.70507846778668
+animals died: [1, 5, 5, 3, 0]
+animals born: [12, 3]
+409 animals with average maxFood:  137.43904358552197
+305 prey: 158.85527622552902 ;  104 predator: 74.63182286242439
+animals died: [2, 2, 9, 3, 0]
+animals born: [11, 2]
+406 animals with average maxFood:  138.31638688660988
+303 prey: 159.98974444472432 ;  103 predator: 74.55883989526333
+animals died: [1, 2, 8, 3, 0]
+animals born: [7, 1]
+400 animals with average maxFood:  138.78197168112462
+299 prey: 160.52614552517403 ;  101 predator: 74.41060554874058
+animals died: [4, 6, 7, 2, 0]
+animals born: [9, 2]
+392 animals with average maxFood:  139.19493759699645
+291 prey: 161.6676099965931 ;  101 predator: 74.44694088132688
+animals died: [3, 4, 1, 2, 0]
+animals born: [10, 2]
+394 animals with average maxFood:  139.68728692730707
+293 prey: 162.16863608282458 ;  101 predator: 74.46911561476608
+animals died: [2, 3, 6, 4, 1]
+animals born: [7, 1]
+386 animals with average maxFood:  140.77219025799167
+289 prey: 162.99084655530237 ;  97 predator: 74.57433799074629
+animals died: [2, 3, 6, 2, 0]
+animals born: [12, 0]
+385 animals with average maxFood:  141.91885099039084
+290 prey: 163.9527877162836 ;  95 predator: 74.65735993240227
+animals died: [4, 6, 5, 3, 0]
+animals born: [1, 3]
+371 animals with average maxFood:  141.55458013390697
+276 prey: 164.51958413525216 ;  95 predator: 74.83520008789338
+animals died: [4, 4, 7, 2, 0]
+animals born: [9, 0]
+363 animals with average maxFood:  141.89259451835474
+270 prey: 165.00895181850797 ;  93 predator: 74.78058945339356
+animals died: [3, 3, 6, 2, 0]
+animals born: [12, 0]
+361 animals with average maxFood:  142.6026681576471
+270 prey: 165.44985379010652 ;  91 predator: 74.81431518221785
+animals died: [0, 2, 6, 3, 0]
+animals born: [7, 1]
+358 animals with average maxFood:  143.38940219363354
+269 prey: 166.0753093990957 ;  89 predator: 74.82188490970846
+animals died: [4, 0, 5, 1, 0]
+animals born: [12, 3]
+363 animals with average maxFood:  144.1488012083959
+272 prey: 167.3116121951687 ;  91 predator: 74.9149046325473
+animals died: [1, 3, 5, 2, 1]
+animals born: [5, 7]
+363 animals with average maxFood:  143.42673348034046
+268 prey: 167.71016299275473 ;  95 predator: 74.92190075058215
+animals died: [1, 1, 5, 4, 0]
+animals born: [7, 0]
+359 animals with average maxFood:  144.42911605641612
+268 prey: 168.07585039322183 ;  91 predator: 74.78818416340576
+animals died: [1, 4, 3, 1, 0]
+animals born: [11, 1]
+362 animals with average maxFood:  145.13707119756376
+271 prey: 168.73199590495958 ;  91 predator: 74.8708668491651
+animals died: [1, 3, 5, 0, 0]
+animals born: [12, 4]
+369 animals with average maxFood:  145.40536692579872
+274 prey: 169.86249626034 ;  95 predator: 74.86585705564791
+animals died: [2, 1, 3, 1, 0]
+animals born: [10, 1]
+373 animals with average maxFood:  146.1640508928601
+278 prey: 170.5293751084852 ;  95 predator: 74.86341792503077
+animals died: [0, 2, 9, 2, 0]
+animals born: [5, 3]
+368 animals with average maxFood:  145.72694328890714
+272 prey: 170.73812537742378 ;  96 predator: 74.86192737144329
+animals died: [2, 1, 11, 4, 0]
+animals born: [8, 3]
+361 animals with average maxFood:  145.92253977646322
+266 prey: 171.2957543213829 ;  95 predator: 74.87753905068809
+animals died: [2, 3, 7, 0, 1]
+animals born: [6, 1]
+355 animals with average maxFood:  145.6614464673457
+260 prey: 171.5395051772792 ;  95 predator: 74.83728578752766
+animals died: [0, 0, 4, 2, 0]
+animals born: [15, 1]
+365 animals with average maxFood:  147.67594150977067
+271 prey: 172.9483730359833 ;  94 predator: 74.81605913100867
+animals died: [0, 1, 3, 0, 0]
+animals born: [8, 0]
+369 animals with average maxFood:  148.4491597391174
+275 prey: 173.61829231061637 ;  94 predator: 74.81605913100867
+animals died: [0, 2, 9, 1, 0]
+animals born: [8, 3]
+368 animals with average maxFood:  148.69307619113889
+272 prey: 174.72614897048342 ;  96 predator: 74.93270331632941
+animals died: [3, 1, 5, 2, 0]
+animals born: [5, 1]
+363 animals with average maxFood:  149.2058561631033
+268 prey: 175.5235758211344 ;  95 predator: 74.96218386465776
+animals died: [3, 0, 4, 0, 0]
+animals born: [7, 0]
+363 animals with average maxFood:  149.57801320542518
+268 prey: 176.02765420308526 ;  95 predator: 74.96218386465776
+animals died: [1, 1, 5, 0, 0]
+animals born: [14, 0]
+370 animals with average maxFood:  150.9883686625644
+275 prey: 177.2519597745685 ;  95 predator: 74.96218386465776
+animals died: [1, 2, 5, 3, 0]
+animals born: [9, 4]
+372 animals with average maxFood:  151.1349217408667
+276 prey: 177.55474653392417 ;  96 predator: 75.1779254608265
+animals died: [5, 3, 5, 1, 0]
+animals born: [7, 5]
+370 animals with average maxFood:  150.4016234539243
+270 prey: 178.15331722512352 ;  100 predator: 75.47205027168636
+animals died: [3, 3, 5, 4, 0]
+animals born: [1, 2]
+358 animals with average maxFood:  149.9635444310702
+260 prey: 177.97815277424576 ;  98 predator: 75.63907331652285
+animals died: [2, 5, 4, 0, 0]
+animals born: [10, 1]
+358 animals with average maxFood:  149.94206857684011
+259 prey: 178.30983503467974 ;  99 predator: 75.72740683360303
+animals died: [0, 4, 5, 0, 1]
+animals born: [10, 3]
+361 animals with average maxFood:  150.39054115825513
+260 prey: 179.28162813637547 ;  101 predator: 76.01744596705419
+animals died: [4, 0, 7, 1, 0]
+animals born: [15, 2]
+366 animals with average maxFood:  151.02371445890404
+264 prey: 179.92167560089112 ;  102 predator: 76.22899150317271
+animals died: [0, 0, 2, 2, 0]
+animals born: [9, 2]
+373 animals with average maxFood:  152.07070709921587
+271 prey: 180.5571671280616 ;  102 predator: 76.38609270885111
+animals died: [2, 1, 9, 3, 0]
+animals born: [4, 3]
+365 animals with average maxFood:  151.82200327480277
+263 prey: 181.03791854116767 ;  102 predator: 76.4907707742736
+animals died: [1, 4, 6, 2, 0]
+animals born: [6, 1]
+359 animals with average maxFood:  152.01551016796154
+258 prey: 181.61726676909856 ;  101 predator: 76.39914182050249
+animals died: [3, 1, 2, 1, 0]
+animals born: [10, 3]
+365 animals with average maxFood:  152.7023492344268
+262 prey: 182.66107806767522 ;  103 predator: 76.49665064888231
+animals died: [2, 1, 4, 2, 0]
+animals born: [9, 1]
+366 animals with average maxFood:  153.3144675686207
+264 prey: 183.029311492554 ;  102 predator: 76.4054597654992
+animals died: [2, 3, 3, 1, 0]
+animals born: [9, 1]
+367 animals with average maxFood:  153.89237019886778
+265 prey: 183.72510747651003 ;  102 predator: 76.38574884028743
+animals died: [0, 3, 5, 1, 0]
+animals born: [7, 1]
+366 animals with average maxFood:  154.15633171740802
+264 prey: 184.1633991997853 ;  102 predator: 76.49098058654924
+animals died: [3, 2, 6, 3, 0]
+animals born: [3, 1]
+356 animals with average maxFood:  154.06129902996943
+256 prey: 184.3088668650359 ;  100 predator: 76.62752537219937
+animals died: [3, 1, 4, 1, 0]
+animals born: [4, 3]
+354 animals with average maxFood:  153.55930090799626
+252 prey: 184.63307727535098 ;  102 predator: 76.78879458864932
+animals died: [0, 1, 7, 4, 0]
+animals born: [9, 3]
+354 animals with average maxFood:  154.466102779813
+253 prey: 185.3575150573245 ;  101 predator: 77.08464430248227
+animals died: [3, 1, 7, 3, 0]
+animals born: [13, 2]
+355 animals with average maxFood:  155.79183364989856
+255 prey: 186.55903863382872 ;  100 predator: 77.33546094087679
+animals died: [2, 2, 4, 1, 0]
+animals born: [8, 2]
+356 animals with average maxFood:  155.99477751714224
+255 prey: 187.07127789864614 ;  101 predator: 77.53430625690979
+animals died: [3, 3, 7, 3, 0]
+animals born: [5, 0]
+345 animals with average maxFood:  156.40742740355682
+247 prey: 187.64802175346125 ;  98 predator: 77.66837837879788
+animals died: [2, 4, 7, 1, 0]
+animals born: [5, 1]
+337 animals with average maxFood:  155.81286038786087
+239 prey: 187.84652513106687 ;  98 predator: 77.68994331004238
+animals died: [1, 3, 4, 2, 0]
+animals born: [10, 3]
+340 animals with average maxFood:  156.42898396533488
+241 prey: 188.67612345936652 ;  99 predator: 77.92837166168219
+animals died: [1, 1, 5, 2, 0]
+animals born: [8, 2]
+341 animals with average maxFood:  157.00980361981573
+242 prey: 189.33573776293795 ;  99 predator: 77.99085349218369
+animals died: [2, 1, 7, 1, 0]
+animals born: [6, 2]
+338 animals with average maxFood:  156.90718023339338
+238 prey: 189.99472731550168 ;  100 predator: 78.15881817797563
+animals died: [3, 3, 3, 3, 0]
+animals born: [4, 1]
+331 animals with average maxFood:  157.2198741342604
+233 prey: 190.46809951469024 ;  98 predator: 78.1705219542589
+animals died: [3, 2, 2, 1, 0]
+animals born: [3, 2]
+328 animals with average maxFood:  156.76920370725372
+229 prey: 190.70556940590603 ;  99 predator: 78.26993355582574
+animals died: [0, 4, 6, 2, 0]
+animals born: [8, 1]
+325 animals with average maxFood:  156.9051944830266
+227 prey: 190.8892732863873 ;  98 predator: 78.18697113238505
+animals died: [3, 0, 4, 2, 0]
+animals born: [9, 3]
+328 animals with average maxFood:  157.40856482908802
+229 prey: 191.62060688889989 ;  99 predator: 78.27161905437175
+animals died: [1, 4, 5, 1, 0]
+animals born: [4, 2]
+323 animals with average maxFood:  156.9297248469274
+223 prey: 192.1456793424857 ;  100 predator: 78.39814632183253
+animals died: [2, 3, 7, 4, 0]
+animals born: [6, 0]
+313 animals with average maxFood:  158.11207003258863
+217 prey: 193.3725085171868 ;  96 predator: 78.40878720802847
+animals died: [1, 1, 4, 1, 0]
+animals born: [3, 4]
+313 animals with average maxFood:  157.26851564054223
+214 prey: 193.64154175786186 ;  99 predator: 78.64399453845756
+animals died: [3, 3, 1, 4, 0]
+animals born: [8, 3]
+313 animals with average maxFood:  158.35770715130184
+215 prey: 194.62173989887341 ;  98 predator: 78.79885979693579
+animals died: [2, 0, 7, 1, 0]
+animals born: [9, 3]
+315 animals with average maxFood:  158.11750945913093
+215 prey: 194.9839392144409 ;  100 predator: 78.85468548521467
+animals died: [1, 0, 8, 3, 0]
+animals born: [5, 1]
+309 animals with average maxFood:  158.34675096611255
+211 prey: 195.28999569488303 ;  98 predator: 78.80568323376002
+animals died: [0, 0, 6, 0, 0]
+animals born: [2, 0]
+305 animals with average maxFood:  157.9416151288643
+207 prey: 195.40693554297172 ;  98 predator: 78.80568323376002
+animals died: [5, 2, 6, 3, 0]
+animals born: [7, 2]
+298 animals with average maxFood:  157.6387612969146
+201 prey: 195.64021370607617 ;  97 predator: 78.89348362432234
+animals died: [2, 1, 6, 1, 0]
+animals born: [6, 3]
+297 animals with average maxFood:  156.76640148336412
+198 prey: 195.76660455618284 ;  99 predator: 78.76599533772692
+animals died: [3, 1, 5, 0, 0]
+animals born: [9, 2]
+299 animals with average maxFood:  156.38664642860553
+198 prey: 196.00207320464892 ;  101 predator: 78.72472066962959
+animals died: [1, 0, 6, 4, 0]
+animals born: [4, 1]
+293 animals with average maxFood:  156.58280074408742
+195 prey: 195.75160394656945 ;  98 predator: 78.64487600445511
+animals died: [0, 0, 6, 1, 0]
+animals born: [5, 2]
+293 animals with average maxFood:  156.45617333409677
+194 prey: 196.1972209065687 ;  99 predator: 78.57977708097017
+animals died: [2, 2, 2, 0, 0]
+animals born: [2, 1]
+290 animals with average maxFood:  155.58385216750972
+190 prey: 196.12867876763522 ;  100 predator: 78.54868162727149
+animals died: [0, 4, 5, 4, 1]
+animals born: [9, 3]
+288 animals with average maxFood:  156.46585319502014
+190 prey: 196.67798389369986 ;  98 predator: 78.5035589832944
+animals died: [0, 1, 5, 2, 0]
+animals born: [10, 2]
+292 animals with average maxFood:  157.21654417226586
+194 prey: 196.98608960368378 ;  98 predator: 78.48907668558161
+animals died: [5, 0, 4, 2, 1]
+animals born: [7, 1]
+288 animals with average maxFood:  157.39693755908917
+192 prey: 196.84002899968183 ;  96 predator: 78.51075467790407
+animals died: [3, 3, 5, 0, 1]
+animals born: [1, 1]
+278 animals with average maxFood:  156.13356727205385
+182 prey: 197.12130576731255 ;  96 predator: 78.42764637479281
+animals died: [2, 1, 4, 1, 0]
+animals born: [2, 1]
+273 animals with average maxFood:  155.31329451596383
+177 prey: 197.00728017060243 ;  96 predator: 78.44000846522418
+animals died: [4, 2, 3, 1, 0]
+animals born: [4, 2]
+269 animals with average maxFood:  154.0861874236659
+172 prey: 196.75730149002854 ;  97 predator: 78.42194392454887
+animals died: [1, 1, 4, 2, 0]
+animals born: [12, 1]
+274 animals with average maxFood:  154.76085064541357
+178 prey: 195.89213419376253 ;  96 predator: 78.49659573285011
+animals died: [0, 0, 5, 1, 0]
+animals born: [3, 1]
+272 animals with average maxFood:  154.3151864349113
+176 prey: 195.70995162341111 ;  96 predator: 78.42478358932858
+animals died: [1, 2, 4, 1, 0]
+animals born: [8, 0]
+272 animals with average maxFood:  154.34870167468864
+177 prey: 195.09209920161882 ;  95 predator: 78.43731891398744
+animals died: [3, 0, 5, 6, 0]
+animals born: [5, 1]
+264 animals with average maxFood:  155.39707851939355
+174 prey: 195.1070312698397 ;  90 predator: 78.62450320186458
+animals died: [0, 0, 6, 2, 0]
+animals born: [5, 1]
+262 animals with average maxFood:  155.49860254611295
+173 prey: 195.0175182459831 ;  89 predator: 78.68093494973631
+animals died: [1, 0, 7, 2, 0]
+animals born: [7, 2]
+261 animals with average maxFood:  154.95539198755995
+172 prey: 194.4592511105333 ;  89 predator: 78.61085525552178
+animals died: [1, 0, 4, 0, 0]
+animals born: [7, 4]
+267 animals with average maxFood:  153.89135914614178
+174 prey: 194.11668230005034 ;  93 predator: 78.63107711624863
+animals died: [1, 2, 8, 1, 0]
+animals born: [3, 2]
+260 animals with average maxFood:  152.27114310466217
+166 prey: 193.98689670452987 ;  94 predator: 78.60289738574726
+animals died: [2, 1, 5, 2, 0]
+animals born: [1, 2]
+253 animals with average maxFood:  151.15025075390486
+159 prey: 194.03448172095395 ;  94 predator: 78.61203028836466
+animals died: [2, 2, 8, 0, 0]
+animals born: [2, 2]
+245 animals with average maxFood:  148.67406909823163
+149 prey: 193.76830767936474 ;  96 predator: 78.68405296709807
+animals died: [0, 0, 6, 1, 0]
+animals born: [8, 4]
+250 animals with average maxFood:  147.97785477587078
+151 prey: 193.3095497002536 ;  99 predator: 78.83557261847888
+animals died: [0, 3, 4, 0, 0]
+animals born: [7, 3]
+253 animals with average maxFood:  146.91804609536808
+151 prey: 192.85239042823497 ;  102 predator: 78.91720301435942
+animals died: [1, 1, 3, 2, 0]
+animals born: [6, 1]
+253 animals with average maxFood:  147.0880602750492
+152 prey: 192.38922118812184 ;  101 predator: 78.91205573260333
+animals died: [1, 0, 2, 2, 0]
+animals born: [2, 0]
+250 animals with average maxFood:  147.26995424911098
+151 prey: 192.10751655059983 ;  99 predator: 78.88134912259771
+animals died: [2, 1, 6, 2, 0]
+animals born: [5, 2]
+246 animals with average maxFood:  146.2303731160578
+147 prey: 191.58305385289768 ;  99 predator: 78.88851384014416
+animals died: [1, 0, 4, 0, 0]
+animals born: [7, 0]
+248 animals with average maxFood:  146.19329401102732
+149 prey: 190.91257748027192 ;  99 predator: 78.88851384014416
+animals died: [4, 2, 2, 2, 0]
+animals born: [9, 1]
+248 animals with average maxFood:  146.05625867846774
+150 prey: 189.94848845316898 ;  98 predator: 78.8742743294354
+animals died: [2, 1, 5, 2, 0]
+animals born: [1, 1]
+240 animals with average maxFood:  144.92243254207955
+143 prey: 189.7540392119624 ;  97 predator: 78.83047631740698
+animals died: [0, 2, 3, 2, 0]
+animals born: [3, 2]
+238 animals with average maxFood:  144.14223709089015
+141 prey: 189.12679714103845 ;  97 predator: 78.7523095953138
+animals died: [1, 0, 3, 1, 0]
+animals born: [1, 2]
+236 animals with average maxFood:  143.23258740840384
+138 prey: 189.01367358111173 ;  98 predator: 78.76534361418251
+animals died: [1, 1, 4, 2, 0]
+animals born: [4, 0]
+232 animals with average maxFood:  143.2598083904926
+136 prey: 188.76723193388 ;  96 predator: 78.79095837069363
+animals died: [2, 0, 3, 1, 0]
+animals born: [7, 3]
+236 animals with average maxFood:  142.7206681399766
+138 prey: 188.20261864294747 ;  98 predator: 78.67465620722167
+animals died: [1, 0, 4, 0, 0]
+animals born: [4, 0]
+235 animals with average maxFood:  142.22312551571488
+137 prey: 187.68115465609682 ;  98 predator: 78.67465620722167
+animals died: [2, 1, 3, 1, 0]
+animals born: [5, 4]
+237 animals with average maxFood:  140.8999401681251
+136 prey: 187.22021931196355 ;  101 predator: 78.52807914275843
+animals died: [1, 0, 2, 2, 0]
+animals born: [5, 1]
+238 animals with average maxFood:  141.43421128776478
+138 prey: 186.9886982397001 ;  100 predator: 78.56901929409408
+animals died: [0, 1, 1, 2, 0]
+animals born: [6, 0]
+240 animals with average maxFood:  142.44948848095873
+142 prey: 186.5102439476438 ;  98 predator: 78.60635300882343
+animals died: [5, 0, 3, 3, 0]
+animals born: [6, 1]
+236 animals with average maxFood:  142.54444244517987
+140 prey: 186.42291315808004 ;  96 predator: 78.55500598886711
+animals died: [1, 0, 1, 3, 0]
+animals born: [1, 1]
+233 animals with average maxFood:  142.88473029352843
+139 prey: 186.44593437052308 ;  94 predator: 78.46975830733416
+animals died: [4, 0, 1, 0, 0]
+animals born: [2, 0]
+230 animals with average maxFood:  141.967878458061
+136 prey: 185.85628503282803 ;  94 predator: 78.46975830733416
+animals died: [4, 2, 5, 4, 0]
+animals born: [2, 2]
+219 animals with average maxFood:  140.60175356592262
+127 prey: 185.59519257979557 ;  92 predator: 78.49124536198921
+animals died: [2, 1, 3, 2, 0]
+animals born: [0, 2]
+213 animals with average maxFood:  139.24577795946246
+121 prey: 185.53004856746776 ;  92 predator: 78.37190031197704
+animals died: [1, 1, 2, 3, 0]
+animals born: [6, 1]
+213 animals with average maxFood:  140.00887566003948
+123 prey: 185.05472163101754 ;  90 predator: 78.44621949970264
+animals died: [3, 0, 1, 3, 0]
+animals born: [5, 1]
+212 animals with average maxFood:  140.55852840853763
+124 prey: 184.70973888384643 ;  88 predator: 78.34545910242058
+animals died: [1, 0, 1, 3, 0]
+animals born: [6, 0]
+213 animals with average maxFood:  141.9153457108682
+128 prey: 184.14011977994394 ;  85 predator: 78.32980358331868
+animals died: [1, 0, 3, 2, 0]
+animals born: [3, 2]
+212 animals with average maxFood:  141.42098786330402
+127 prey: 183.6465049767663 ;  85 predator: 78.33109758789551
+animals died: [0, 0, 2, 3, 0]
+animals born: [6, 3]
+216 animals with average maxFood:  142.08811346302105
+131 prey: 183.5801176739169 ;  85 predator: 78.14161285564012
+animals died: [1, 0, 4, 6, 0]
+animals born: [6, 0]
+211 animals with average maxFood:  144.06019168491483
+132 prey: 183.38141112535493 ;  79 predator: 78.35891363253371
+animals died: [2, 0, 3, 3, 0]
+animals born: [2, 1]
+206 animals with average maxFood:  143.87449893507176
+129 prey: 182.9834501401371 ;  77 predator: 78.35430795515687
+animals died: [1, 0, 1, 3, 0]
+animals born: [5, 1]
+207 animals with average maxFood:  144.77833731981332
+132 prey: 182.61711444316998 ;  75 predator: 78.18208958270546
+animals died: [1, 1, 4, 3, 0]
+animals born: [1, 1]
+200 animals with average maxFood:  144.55872566552134
+127 prey: 182.6252622625667 ;  73 predator: 78.33338117477106
+animals died: [2, 0, 2, 6, 0]
+animals born: [2, 0]
+192 animals with average maxFood:  146.27130622907777
+125 prey: 182.62555136869364 ;  67 predator: 78.44622201337639
+animals died: [0, 0, 3, 6, 1]
+animals born: [3, 1]
+186 animals with average maxFood:  148.1084519061557
+125 prey: 182.22949527935222 ;  61 predator: 78.18828105944134
+animals died: [0, 0, 3, 3, 0]
+animals born: [4, 1]
+185 animals with average maxFood:  148.93258911615888
+126 prey: 182.069311781298 ;  59 predator: 78.16602884823449
+animals died: [1, 1, 2, 3, 0]
+animals born: [9, 1]
+188 animals with average maxFood:  149.9192067218062
+131 prey: 181.32627184481126 ;  57 predator: 77.73805705314525
+animals died: [1, 0, 1, 3, 0]
+animals born: [3, 1]
+187 animals with average maxFood:  150.75520801962108
+132 prey: 181.18270902477812 ;  55 predator: 77.72920560724396
+animals died: [0, 1, 0, 0, 0]
+animals born: [5, 1]
+192 animals with average maxFood:  150.96790397048787
+136 prey: 181.1670233698509 ;  56 predator: 77.62718542917735
+animals died: [0, 0, 0, 3, 1]
+animals born: [6, 0]
+194 animals with average maxFood:  153.21808535134636
+142 prey: 180.94659028316224 ;  52 predator: 77.49793726831057
+animals died: [0, 1, 3, 3, 0]
+animals born: [5, 0]
+192 animals with average maxFood:  154.387112760338
+143 prey: 180.70329015430386 ;  49 predator: 77.58683995753957
+animals died: [1, 1, 2, 4, 0]
+animals born: [2, 0]
+186 animals with average maxFood:  155.72250186332195
+141 prey: 180.70919184660153 ;  45 predator: 77.43087324904569
+animals died: [0, 2, 0, 2, 0]
+animals born: [3, 1]
+186 animals with average maxFood:  156.04672942047162
+142 prey: 180.45691289386423 ;  44 predator: 77.268410029068
+animals died: [3, 0, 2, 3, 0]
+animals born: [2, 0]
+180 animals with average maxFood:  156.78393029713408
+139 prey: 180.1200627192958 ;  41 predator: 77.66874964639061
+animals died: [0, 2, 1, 3, 0]
+animals born: [2, 1]
+177 animals with average maxFood:  157.35411067971964
+138 prey: 179.9690975285466 ;  39 predator: 77.33184952233177
+animals died: [0, 2, 1, 2, 0]
+animals born: [3, 1]
+176 animals with average maxFood:  157.819608735727
+138 prey: 179.94196437935832 ;  38 predator: 77.48052771411842
+animals died: [0, 0, 5, 1, 0]
+animals born: [10, 0]
+180 animals with average maxFood:  158.47172958563607
+143 prey: 179.45929890401928 ;  37 predator: 77.35761032810076
+animals died: [0, 2, 1, 1, 0]
+animals born: [6, 1]
+183 animals with average maxFood:  158.67026476225732
+146 prey: 179.30818960272182 ;  37 predator: 77.23412890528911
+animals died: [2, 2, 1, 0, 0]
+animals born: [3, 0]
+181 animals with average maxFood:  158.36602519841426
+144 prey: 179.21241521817558 ;  37 predator: 77.23412890528911
+animals died: [1, 0, 0, 2, 0]
+animals born: [5, 0]
+183 animals with average maxFood:  159.50056818845877
+148 prey: 179.03041506774733 ;  35 predator: 76.91721567032423
+animals died: [2, 1, 4, 1, 0]
+animals born: [8, 1]
+184 animals with average maxFood:  159.46487112942106
+149 prey: 178.88936328311397 ;  35 predator: 76.7720331036997
+animals died: [1, 0, 1, 1, 0]
+animals born: [0, 0]
+181 animals with average maxFood:  159.6751231437177
+147 prey: 178.88685608015936 ;  34 predator: 76.61263074204328
+animals died: [1, 2, 1, 1, 0]
+animals born: [7, 0]
+183 animals with average maxFood:  160.1684415993596
+150 prey: 178.50329544263505 ;  33 predator: 76.82819685719824
+animals died: [5, 3, 1, 1, 0]
+animals born: [2, 1]
+176 animals with average maxFood:  159.4852393341064
+143 prey: 178.6381566007821 ;  33 predator: 76.48926451184475
+animals died: [0, 1, 3, 0, 0]
+animals born: [1, 1]
+174 animals with average maxFood:  158.74342168859187
+140 prey: 178.73676253636972 ;  34 predator: 76.4179005506828
+animals died: [0, 0, 1, 0, 0]
+animals born: [3, 0]
+176 animals with average maxFood:  158.92754832080112
+142 prey: 178.68337947702656 ;  34 predator: 76.4179005506828
+animals died: [1, 0, 2, 1, 0]
+animals born: [6, 1]
+179 animals with average maxFood:  159.05508314134536
+145 prey: 178.50136010791041 ;  34 predator: 76.12243137217068
+animals died: [1, 1, 1, 0, 0]
+animals born: [6, 0]
+182 animals with average maxFood:  159.07993602155483
+148 prey: 178.1377411437106 ;  34 predator: 76.12243137217068
+animals died: [1, 1, 3, 1, 0]
+animals born: [7, 0]
+183 animals with average maxFood:  159.72636996983
+150 prey: 178.12756145105078 ;  33 predator: 76.08459050973534
+animals died: [2, 1, 3, 3, 0]
+animals born: [4, 2]
+180 animals with average maxFood:  159.9910662028545
+148 prey: 178.20376100483622 ;  32 predator: 75.757352743689
+animals died: [0, 1, 1, 1, 0]
+animals born: [6, 0]
+183 animals with average maxFood:  160.90708042485042
+152 prey: 178.32013824517554 ;  31 predator: 75.52692595099796
+animals died: [0, 0, 3, 2, 0]
+animals born: [6, 1]
+185 animals with average maxFood:  161.79632704413748
+155 prey: 178.5089523815809 ;  30 predator: 75.44776280067975
+animals died: [1, 1, 5, 0, 0]
+animals born: [4, 0]
+182 animals with average maxFood:  161.54876018639982
+152 prey: 178.5423780914761 ;  30 predator: 75.44776280067975
+animals died: [1, 3, 1, 0, 0]
+animals born: [2, 0]
+179 animals with average maxFood:  161.23127575965884
+149 prey: 178.50312400643313 ;  30 predator: 75.44776280067975
+animals died: [2, 1, 3, 1, 0]
+animals born: [1, 0]
+173 animals with average maxFood:  161.28196420777897
+144 prey: 178.53547375202913 ;  29 predator: 75.60936509150221
+animals died: [0, 0, 0, 0, 0]
+animals born: [5, 1]
+179 animals with average maxFood:  161.28566472901957
+149 prey: 178.56930949559936 ;  30 predator: 75.4435623883398
+animals died: [1, 2, 1, 0, 0]
+animals born: [6, 1]
+182 animals with average maxFood:  161.03823095905616
+151 prey: 178.6432551959924 ;  31 predator: 75.2847258049473
+animals died: [0, 0, 2, 0, 0]
+animals born: [8, 0]
+188 animals with average maxFood:  161.72360373839533
+157 prey: 178.79115288449015 ;  31 predator: 75.2847258049473
+animals died: [0, 1, 2, 0, 0]
+animals born: [8, 2]
+195 animals with average maxFood:  161.40199390821945
+162 prey: 179.01688047920462 ;  33 predator: 74.92891437792855
+animals died: [1, 0, 2, 0, 0]
+animals born: [3, 0]
+195 animals with average maxFood:  161.50523373859485
+162 prey: 179.1411506453972 ;  33 predator: 74.92891437792855
+animals died: [0, 1, 2, 1, 0]
+animals born: [4, 0]
+195 animals with average maxFood:  162.18081152043368
+163 prey: 179.28367703073346 ;  32 predator: 75.06309032734414
+animals died: [1, 2, 3, 1, 0]
+animals born: [7, 1]
+196 animals with average maxFood:  162.5420646653714
+164 prey: 179.61779413014366 ;  32 predator: 75.02895115841356
+animals died: [0, 3, 2, 0, 0]
+animals born: [2, 1]
+194 animals with average maxFood:  161.96823502343142
+161 prey: 179.82285096225414 ;  33 predator: 74.85935120069016
+animals died: [0, 3, 2, 0, 0]
+animals born: [3, 1]
+193 animals with average maxFood:  161.31416791196847
+159 prey: 179.84467922029546 ;  34 predator: 74.65677679361558
+animals died: [1, 1, 2, 0, 0]
+animals born: [2, 1]
+192 animals with average maxFood:  160.81596481106155
+157 prey: 180.07523305996483 ;  35 predator: 74.4243900945522
+animals died: [1, 0, 3, 0, 0]
+animals born: [5, 1]
+194 animals with average maxFood:  160.65796098254927
+158 prey: 180.34143524842202 ;  36 predator: 74.26937948232984
+animals died: [0, 0, 4, 1, 0]
+animals born: [5, 1]
+195 animals with average maxFood:  160.94728144584613
+159 prey: 180.57222316374018 ;  36 predator: 74.27045552514724
+animals died: [1, 0, 0, 0, 0]
+animals born: [8, 1]
+203 animals with average maxFood:  161.52446373433042
+166 prey: 180.99065291286377 ;  37 predator: 74.18966904145081
+animals died: [0, 2, 3, 0, 0]
+animals born: [5, 0]
+203 animals with average maxFood:  161.7656833834442
+166 prey: 181.28563838738245 ;  37 predator: 74.18966904145081
+animals died: [0, 0, 3, 0, 0]
+animals born: [7, 1]
+208 animals with average maxFood:  162.0593193560111
+170 prey: 181.71421998135486 ;  38 predator: 74.12950076894717
+animals died: [1, 2, 4, 0, 0]
+animals born: [5, 1]
+207 animals with average maxFood:  161.71013617371713
+168 prey: 182.04460455304687 ;  39 predator: 74.11550315506628
+animals died: [3, 0, 0, 0, 0]
+animals born: [4, 1]
+209 animals with average maxFood:  161.5430108727853
+169 prey: 182.23658141210757 ;  40 predator: 74.11267534414891
+animals died: [0, 1, 3, 0, 0]
+animals born: [2, 0]
+207 animals with average maxFood:  161.42882643380213
+167 prey: 182.34287459898857 ;  40 predator: 74.11267534414891
+animals died: [0, 1, 4, 0, 0]
+animals born: [3, 2]
+207 animals with average maxFood:  160.45518347964244
+165 prey: 182.41707126316018 ;  42 predator: 74.17633861582284
+animals died: [0, 1, 3, 1, 0]
+animals born: [2, 0]
+204 animals with average maxFood:  160.77103209115907
+163 prey: 182.53857422955952 ;  41 predator: 74.23177919946946
+animals died: [0, 0, 0, 1, 0]
+animals born: [4, 0]
+207 animals with average maxFood:  161.83729585608444
+167 prey: 182.81677178957386 ;  40 predator: 74.24798383376637
+animals died: [1, 1, 2, 0, 0]
+animals born: [7, 1]
+211 animals with average maxFood:  162.0269379322985
+170 prey: 183.19894910460414 ;  41 predator: 74.24055014468978
+animals died: [2, 1, 2, 0, 0]
+animals born: [5, 0]
+211 animals with average maxFood:  162.2746829469741
+170 prey: 183.50644438752505 ;  41 predator: 74.24055014468978
+animals died: [0, 0, 2, 0, 0]
+animals born: [7, 0]
+216 animals with average maxFood:  163.1074317526725
+175 prey: 183.92767258654277 ;  41 predator: 74.24055014468978
+animals died: [1, 1, 1, 2, 0]
+animals born: [7, 2]
+220 animals with average maxFood:  163.8351581618495
+179 prey: 184.3801427581353 ;  41 predator: 74.13876199757749
+animals died: [0, 2, 5, 0, 0]
+animals born: [8, 1]
+222 animals with average maxFood:  163.95620318927655
+180 prey: 184.9240338660293 ;  42 predator: 74.09407171747897
+animals died: [0, 4, 2, 0, 0]
+animals born: [6, 1]
+223 animals with average maxFood:  163.87729464443024
+180 prey: 185.33590187955036 ;  43 predator: 74.05056668346228
+animals died: [2, 1, 0, 0, 0]
+animals born: [2, 0]
+222 animals with average maxFood:  163.88472596050133
+179 prey: 185.46499885945482 ;  43 predator: 74.05056668346228
+animals died: [1, 0, 2, 1, 0]
+animals born: [1, 2]
+221 animals with average maxFood:  163.26472427805308
+177 prey: 185.46727307949345 ;  44 predator: 73.94992569044062
+animals died: [0, 0, 1, 1, 0]
+animals born: [3, 1]
+223 animals with average maxFood:  163.70155593301396
+179 prey: 185.78436942193903 ;  44 predator: 73.86465560306884
+animals died: [2, 1, 6, 2, 0]
+animals born: [3, 2]
+217 animals with average maxFood:  163.3112177912637
+173 prey: 186.09041320106047 ;  44 predator: 73.74756311183555
+animals died: [2, 1, 3, 0, 0]
+animals born: [5, 1]
+217 animals with average maxFood:  163.1329662477708
+172 prey: 186.5391918613026 ;  45 predator: 73.66917056938276
+animals died: [2, 0, 3, 0, 0]
+animals born: [6, 0]
+218 animals with average maxFood:  163.76156505305423
+173 prey: 187.19600292452947 ;  45 predator: 73.66917056938276
+animals died: [0, 0, 3, 0, 0]
+animals born: [6, 1]
+222 animals with average maxFood:  164.111851794233
+176 prey: 187.76539654508568 ;  46 predator: 73.61133274749226
+animals died: [1, 1, 2, 0, 0]
+animals born: [9, 0]
+227 animals with average maxFood:  165.48166797160508
+181 prey: 188.82992996226358 ;  46 predator: 73.61133274749226
+animals died: [2, 3, 2, 1, 0]
+animals born: [9, 1]
+229 animals with average maxFood:  166.63650392900314
+183 prey: 190.0132041702961 ;  46 predator: 73.63789209951156
+animals died: [0, 1, 3, 0, 0]
+animals born: [7, 0]
+232 animals with average maxFood:  167.6841986299122
+186 prey: 190.9429626105489 ;  46 predator: 73.63789209951156
+animals died: [0, 0, 1, 1, 0]
+animals born: [4, 0]
+234 animals with average maxFood:  168.8013393444476
+189 prey: 191.43722900773557 ;  45 predator: 73.73060275863803
+animals died: [0, 1, 3, 2, 0]
+animals born: [2, 1]
+231 animals with average maxFood:  169.25450862314824
+187 prey: 191.699271490213 ;  44 predator: 73.86426643812311
+animals died: [1, 4, 3, 0, 0]
+animals born: [2, 0]
+225 animals with average maxFood:  168.90231839117627
+181 prey: 192.00549124164223 ;  44 predator: 73.86426643812311
+animals died: [1, 1, 0, 2, 0]
+animals born: [2, 3]
+226 animals with average maxFood:  168.68661924416637
+181 prey: 192.29322760948213 ;  45 predator: 73.7355944858964
+animals died: [1, 1, 8, 0, 0]
+animals born: [7, 0]
+223 animals with average maxFood:  169.39956152973508
+178 prey: 193.5842722992449 ;  45 predator: 73.7355944858964
+animals died: [3, 0, 1, 0, 0]
+animals born: [6, 0]
+225 animals with average maxFood:  170.08231934657243
+180 prey: 194.16900056174148 ;  45 predator: 73.7355944858964
+animals died: [1, 1, 1, 0, 1]
+animals born: [8, 3]
+232 animals with average maxFood:  170.58003711199513
+185 prey: 195.24326810898484 ;  47 predator: 73.50136191107823
+animals died: [0, 1, 2, 1, 0]
+animals born: [4, 1]
+233 animals with average maxFood:  171.1748766123557
+186 prey: 195.86066729146904 ;  47 predator: 73.48217307373699
+animals died: [2, 1, 3, 2, 0]
+animals born: [5, 1]
+231 animals with average maxFood:  172.08924256881355
+185 prey: 196.65952072616665 ;  46 predator: 73.27399345771978
+animals died: [0, 2, 5, 0, 0]
+animals born: [9, 1]
+234 animals with average maxFood:  172.73075713848039
+187 prey: 197.75859089593874 ;  47 predator: 73.15192920986962
+animals died: [0, 1, 2, 0, 0]
+animals born: [4, 1]
+236 animals with average maxFood:  172.4704414369556
+188 prey: 197.85597165737434 ;  48 predator: 73.04378140698238
+animals died: [4, 4, 3, 1, 0]
+animals born: [1, 1]
+226 animals with average maxFood:  171.4035340000062
+178 prey: 197.9525382305813 ;  48 predator: 72.95097664495704
+animals died: [1, 3, 1, 2, 0]
+animals born: [2, 1]
+222 animals with average maxFood:  171.2953560168169
+175 prey: 197.7392572887427 ;  47 predator: 72.83402149368908
+animals died: [1, 3, 1, 2, 0]
+animals born: [3, 0]
+218 animals with average maxFood:  172.00595499197655
+173 prey: 197.80900933045484 ;  45 predator: 72.8075460907156
+animals died: [1, 0, 2, 0, 0]
+animals born: [8, 0]
+223 animals with average maxFood:  173.03171894859813
+178 prey: 198.36929073851226 ;  45 predator: 72.8075460907156
+animals died: [4, 0, 3, 0, 0]
+animals born: [6, 0]
+222 animals with average maxFood:  173.32181353270528
+177 prey: 198.87628830609248 ;  45 predator: 72.8075460907156
+animals died: [0, 0, 4, 0, 0]
+animals born: [9, 1]
+228 animals with average maxFood:  174.1014265837822
+182 prey: 199.73279867642617 ;  46 predator: 72.69034569549525
+animals died: [2, 0, 2, 1, 0]
+animals born: [8, 0]
+231 animals with average maxFood:  175.67302454901244
+186 prey: 200.56705657931235 ;  45 predator: 72.77769215710617
+animals died: [0, 2, 5, 1, 0]
+animals born: [5, 1]
+229 animals with average maxFood:  175.46313874820547
+184 prey: 200.62534523132715 ;  45 predator: 72.57767223944131
+animals died: [1, 3, 3, 1, 0]
+animals born: [9, 1]
+231 animals with average maxFood:  175.65749404074313
+186 prey: 200.60282558989138 ;  45 predator: 72.5501236375972
+animals died: [1, 2, 4, 0, 0]
+animals born: [6, 1]
+231 animals with average maxFood:  175.22784334992937
+185 prey: 200.77938206390917 ;  46 predator: 72.4662202610977
+animals died: [3, 0, 2, 0, 0]
+animals born: [0, 4]
+230 animals with average maxFood:  172.83031899246606
+180 prey: 200.82971023260563 ;  50 predator: 72.03251052796374
+animals died: [0, 2, 2, 0, 0]
+animals born: [3, 0]
+229 animals with average maxFood:  172.90078997516258
+179 prey: 201.0762870274528 ;  50 predator: 72.03251052796374
+animals died: [4, 2, 4, 0, 0]
+animals born: [2, 2]
+223 animals with average maxFood:  170.6701557435676
+171 prey: 200.7151199874932 ;  52 predator: 71.86844640296609
+animals died: [2, 1, 4, 0, 0]
+animals born: [8, 2]
+226 animals with average maxFood:  170.31511017345517
+172 prey: 201.28676342557227 ;  54 predator: 71.66465907411933
+animals died: [0, 0, 3, 1, 0]
+animals born: [7, 2]
+231 animals with average maxFood:  170.6923796748957
+176 prey: 201.65940093752798 ;  55 predator: 71.59791163447241
+animals died: [2, 1, 5, 1, 0]
+animals born: [3, 0]
+225 animals with average maxFood:  170.21874482802917
+171 prey: 201.3333219217672 ;  54 predator: 71.68925069785884
+animals died: [1, 1, 2, 0, 0]
+animals born: [9, 1]
+231 animals with average maxFood:  170.94501216542773
+176 prey: 201.96875520445198 ;  55 predator: 71.66903444055032
+animals died: [0, 0, 2, 2, 0]
+animals born: [7, 0]
+234 animals with average maxFood:  172.76220116509484
+181 prey: 202.3495097964541 ;  53 predator: 71.71875093347194
+animals died: [0, 5, 3, 2, 0]
+animals born: [9, 0]
+233 animals with average maxFood:  173.96398138977904
+182 prey: 202.56421536002418 ;  51 predator: 71.90040133910051
+animals died: [0, 3, 1, 1, 1]
+animals born: [5, 1]
+233 animals with average maxFood:  174.7996854878513
+183 prey: 202.87683354399536 ;  50 predator: 72.037323602364
+animals died: [1, 2, 0, 0, 0]
+animals born: [0, 1]
+231 animals with average maxFood:  174.0386644752801
+180 prey: 202.94258286035227 ;  51 predator: 72.02483488090779
+animals died: [0, 0, 3, 1, 2]
+animals born: [4, 0]
+229 animals with average maxFood:  175.60819744773158
+181 prey: 203.0941651205701 ;  48 predator: 71.96319434806986
+animals died: [0, 4, 3, 1, 0]
+animals born: [5, 1]
+227 animals with average maxFood:  175.71391156069657
+179 prey: 203.52779912520413 ;  48 predator: 71.99128918472059
+animals died: [3, 1, 2, 1, 0]
+animals born: [8, 0]
+228 animals with average maxFood:  177.10159298589076
+181 prey: 204.37316107507067 ;  47 predator: 72.07704353607033
+animals died: [5, 0, 1, 1, 0]
+animals born: [5, 1]
+227 animals with average maxFood:  177.31728877707323
+180 prey: 204.793951070173 ;  47 predator: 72.08751829286156
+animals died: [0, 1, 0, 0, 0]
+animals born: [3, 2]
+231 animals with average maxFood:  176.927910847548
+182 prey: 205.14074216255216 ;  49 predator: 72.13739453467552
+animals died: [0, 0, 3, 0, 0]
+animals born: [8, 1]
+237 animals with average maxFood:  177.51393669095194
+187 prey: 205.6847412402155 ;  50 predator: 72.15512767670629
+animals died: [0, 0, 2, 0, 0]
+animals born: [8, 1]
+244 animals with average maxFood:  178.11722217036709
+193 prey: 206.1188120164758 ;  51 predator: 72.15042138019098
+animals died: [2, 4, 3, 0, 1]
+animals born: [10, 0]
+244 animals with average maxFood:  178.98416121375723
+194 prey: 206.52817647672887 ;  50 predator: 72.11338199342737
+animals died: [0, 3, 3, 1, 0]
+animals born: [8, 1]
+246 animals with average maxFood:  179.50398554990852
+196 prey: 206.89092993879012 ;  50 predator: 72.14716354549286
+animals died: [0, 1, 3, 0, 0]
+animals born: [0, 1]
+243 animals with average maxFood:  178.5842072662529
+192 prey: 206.85653213764087 ;  51 predator: 72.14721951514547
+animals died: [0, 1, 4, 0, 0]
+animals born: [6, 2]
+246 animals with average maxFood:  178.22855937266272
+193 prey: 207.35174876020065 ;  53 predator: 72.17619047087385
+animals died: [1, 1, 3, 0, 0]
+animals born: [4, 0]
+245 animals with average maxFood:  178.27227417324414
+192 prey: 207.5592139452527 ;  53 predator: 72.17619047087385
+animals died: [4, 3, 2, 0, 0]
+animals born: [7, 0]
+243 animals with average maxFood:  178.8626905106151
+190 prey: 208.62260894275352 ;  53 predator: 72.17619047087385
+animals died: [0, 0, 1, 1, 0]
+animals born: [4, 1]
+246 animals with average maxFood:  179.59698830382607
+193 prey: 209.08915438887644 ;  53 predator: 72.20098727713336
+animals died: [2, 5, 1, 0, 0]
+animals born: [5, 1]
+244 animals with average maxFood:  179.18580910344704
+190 prey: 209.59633141714136 ;  54 predator: 72.18582318489308
+animals died: [1, 3, 2, 4, 0]
+animals born: [6, 0]
+240 animals with average maxFood:  181.4192851313507
+190 prey: 210.1174246087684 ;  50 predator: 72.36635511716355
+animals died: [1, 1, 2, 1, 0]
+animals born: [9, 1]
+245 animals with average maxFood:  182.27599296859776
+195 prey: 210.46599514045542 ;  50 predator: 72.33498449835298
+animals died: [1, 3, 2, 2, 0]
+animals born: [9, 0]
+246 animals with average maxFood:  183.80196202200815
+198 prey: 210.77490581345745 ;  48 predator: 72.53856888227992
+animals died: [4, 0, 3, 0, 0]
+animals born: [7, 2]
+248 animals with average maxFood:  183.15490788753385
+198 prey: 211.10928167406036 ;  50 predator: 72.45558769288888
+animals died: [1, 2, 3, 1, 1]
+animals born: [4, 0]
+244 animals with average maxFood:  183.90166189244692
+196 prey: 211.18205265970596 ;  48 predator: 72.50673292613935
+animals died: [0, 2, 3, 2, 0]
+animals born: [3, 1]
+241 animals with average maxFood:  184.16802402741894
+194 prey: 211.2112529372445 ;  47 predator: 72.54278129324558
+animals died: [3, 3, 3, 1, 0]
+animals born: [7, 1]
+239 animals with average maxFood:  184.4047722117337
+192 prey: 211.80217165990248 ;  47 predator: 72.48348084900162
+animals died: [3, 3, 3, 1, 0]
+animals born: [7, 1]
+237 animals with average maxFood:  184.2274058869934
+190 prey: 211.87923094476628 ;  47 predator: 72.44343224918832
+animals died: [3, 0, 1, 0, 0]
+animals born: [4, 0]
+237 animals with average maxFood:  184.29696938759233
+190 prey: 211.96600225867124 ;  47 predator: 72.44343224918832
+animals died: [1, 2, 0, 0, 0]
+animals born: [6, 0]
+240 animals with average maxFood:  184.86233238119232
+193 prey: 212.23895572940057 ;  47 predator: 72.44343224918832
+animals died: [3, 0, 2, 0, 0]
+animals born: [6, 1]
+242 animals with average maxFood:  184.65782445683993
+194 prey: 212.44954452300647 ;  48 predator: 72.3329558560837
+animals died: [2, 3, 4, 1, 0]
+animals born: [4, 0]
+236 animals with average maxFood:  184.5240963343264
+189 prey: 212.4084308349917 ;  47 predator: 72.39347461888529
+animals died: [1, 1, 0, 3, 0]
+animals born: [9, 2]
+242 animals with average maxFood:  185.97372814385878
+196 prey: 212.63305886082517 ;  46 predator: 72.38179726287171
+animals died: [0, 2, 7, 0, 0]
+animals born: [8, 1]
+242 animals with average maxFood:  185.5872179829827
+195 prey: 212.87910439986993 ;  47 predator: 72.35492327462114
+animals died: [3, 2, 5, 0, 0]
+animals born: [6, 2]
+240 animals with average maxFood:  184.25264123840802
+191 prey: 212.96495894992702 ;  49 predator: 72.33319873024233
+animals died: [2, 2, 4, 0, 0]
+animals born: [4, 1]
+237 animals with average maxFood:  183.3267298288149
+187 prey: 212.99687885582284 ;  50 predator: 72.3603724678054
+animals died: [2, 3, 1, 0, 0]
+animals born: [3, 1]
+235 animals with average maxFood:  182.40174177563014
+184 prey: 212.89964487524384 ;  51 predator: 72.37009137702414
+animals died: [3, 2, 1, 0, 1]
+animals born: [3, 1]
+232 animals with average maxFood:  182.3017789429451
+181 prey: 213.32241172027852 ;  51 predator: 72.20894496848749
+animals died: [0, 1, 4, 0, 0]
+animals born: [6, 0]
+233 animals with average maxFood:  182.41533080431776
+182 prey: 213.29734002205046 ;  51 predator: 72.20894496848749
+animals died: [1, 2, 2, 1, 0]
+animals born: [5, 1]
+233 animals with average maxFood:  182.45813009011064
+182 prey: 213.33682634417207 ;  51 predator: 72.2635669873819
+animals died: [0, 6, 1, 1, 0]
+animals born: [7, 0]
+232 animals with average maxFood:  182.94612803112153
+182 prey: 213.361272925671 ;  50 predator: 72.23500061496162
+animals died: [1, 1, 3, 1, 0]
+animals born: [6, 2]
+234 animals with average maxFood:  182.5792173126307
+183 prey: 213.29678689825323 ;  51 predator: 72.35734997598534
+animals died: [4, 0, 2, 0, 0]
+animals born: [4, 0]
+232 animals with average maxFood:  182.2522486918793
+181 prey: 213.21710965602622 ;  51 predator: 72.35734997598534
+animals died: [1, 1, 2, 0, 0]
+animals born: [10, 0]
+238 animals with average maxFood:  182.8781582033546
+187 prey: 213.020196810819 ;  51 predator: 72.35734997598534
+animals died: [0, 4, 0, 1, 0]
+animals born: [7, 0]
+240 animals with average maxFood:  183.8138825472632
+190 prey: 213.12587130420948 ;  50 predator: 72.42832527086749
+animals died: [1, 0, 3, 0, 0]
+animals born: [2, 2]
+240 animals with average maxFood:  182.55987666927234
+188 prey: 213.02366777760201 ;  52 predator: 72.42155496992686
+animals died: [2, 2, 3, 0, 0]
+animals born: [7, 0]
+240 animals with average maxFood:  182.672077054146
+188 prey: 213.16690231148328 ;  52 predator: 72.42155496992686
+animals died: [1, 3, 3, 0, 0]
+animals born: [3, 2]
+238 animals with average maxFood:  181.1506301585591
+184 prey: 213.07105036572676 ;  54 predator: 72.38475389709923
+animals died: [2, 1, 1, 0, 0]
+animals born: [6, 1]
+241 animals with average maxFood:  180.87656996993863
+186 prey: 212.97611670007586 ;  55 predator: 72.32173920983843
+animals died: [2, 1, 4, 1, 0]
+animals born: [4, 2]
+239 animals with average maxFood:  180.01219548792886
+183 prey: 212.99208726027916 ;  56 predator: 72.23862058899871
+animals died: [1, 0, 2, 1, 0]
+animals born: [6, 1]
+242 animals with average maxFood:  180.31048641899145
+186 prey: 212.92595554759717 ;  56 predator: 71.98053538469412
+animals died: [1, 4, 0, 2, 0]
+animals born: [7, 0]
+242 animals with average maxFood:  181.38064291391757
+188 prey: 212.80357931793228 ;  54 predator: 71.98227172957033
+animals died: [0, 3, 2, 1, 0]
+animals born: [1, 0]
+237 animals with average maxFood:  181.20499214976556
+184 prey: 212.6607099762638 ;  53 predator: 72.00023592192296
+animals died: [1, 4, 3, 1, 0]
+animals born: [11, 0]
+239 animals with average maxFood:  182.1686234039103
+187 prey: 212.80279287206747 ;  52 predator: 72.00343704726853
+animals died: [2, 2, 4, 1, 0]
+animals born: [7, 3]
+240 animals with average maxFood:  181.1114870302303
+186 prey: 212.78363944462865 ;  54 predator: 72.01851760285872
+animals died: [2, 4, 3, 2, 0]
+animals born: [3, 0]
+232 animals with average maxFood:  181.34937531125885
+180 prey: 212.91219148632965 ;  52 predator: 72.09347316678357
+animals died: [2, 3, 3, 0, 0]
+animals born: [5, 1]
+230 animals with average maxFood:  180.70105086653575
+177 prey: 213.22331959828557 ;  53 predator: 72.08894585673035
+animals died: [5, 1, 4, 0, 0]
+animals born: [5, 0]
+225 animals with average maxFood:  180.21200549021543
+172 prey: 213.52899479588257 ;  53 predator: 72.08894585673035
+animals died: [2, 1, 4, 0, 0]
+animals born: [4, 0]
+222 animals with average maxFood:  179.90054520447197
+169 prey: 213.71128346145622 ;  53 predator: 72.08894585673035
+animals died: [1, 1, 1, 2, 1]
+animals born: [3, 0]
+219 animals with average maxFood:  181.4850868955699
+169 prey: 213.8360427859973 ;  50 predator: 72.13885598592583
+animals died: [3, 2, 2, 1, 0]
+animals born: [3, 3]
+217 animals with average maxFood:  180.00564655901417
+165 prey: 213.9870178026492 ;  52 predator: 72.18014165132666
+animals died: [2, 1, 4, 0, 0]
+animals born: [5, 1]
+216 animals with average maxFood:  179.53689462440013
+163 prey: 214.45704945934864 ;  53 predator: 72.14094673578532
+animals died: [3, 4, 2, 1, 0]
+animals born: [3, 1]
+210 animals with average maxFood:  178.72585545883808
+157 prey: 214.71672764876882 ;  53 predator: 72.11138500942097
+animals died: [3, 4, 3, 0, 0]
+animals born: [4, 2]
+206 animals with average maxFood:  176.76265913033262
+151 prey: 214.9186187024277 ;  55 predator: 72.00720648694458
+animals died: [2, 5, 2, 0, 0]
+animals born: [6, 1]
+204 animals with average maxFood:  176.09034839492972
+148 prey: 215.48955454324704 ;  56 predator: 71.96387500294827
+animals died: [0, 3, 0, 0, 0]
+animals born: [5, 0]
+206 animals with average maxFood:  176.99486976197443
+150 prey: 216.20644113867763 ;  56 predator: 71.96387500294827
+animals died: [2, 1, 5, 3, 0]
+animals born: [3, 1]
+199 animals with average maxFood:  177.63204512502395
+145 prey: 216.96340195506707 ;  54 predator: 72.02006845176032
+animals died: [2, 4, 1, 1, 0]
+animals born: [3, 0]
+194 animals with average maxFood:  177.60802191907936
+141 prey: 217.30702507800123 ;  53 predator: 71.99369276043832
+animals died: [2, 4, 2, 1, 0]
+animals born: [5, 2]
+192 animals with average maxFood:  176.8435585558176
+138 prey: 217.87605260175422 ;  54 predator: 71.98274043842405
+animals died: [2, 0, 1, 2, 0]
+animals born: [3, 1]
+191 animals with average maxFood:  177.64064279401904
+138 prey: 218.20606370223902 ;  53 predator: 72.01747137261627
+animals died: [1, 1, 2, 0, 1]
+animals born: [3, 0]
+189 animals with average maxFood:  178.1522424948573
+137 prey: 218.40137528583602 ;  52 predator: 72.11125802631722
+animals died: [0, 0, 2, 2, 1]
+animals born: [9, 1]
+194 animals with average maxFood:  181.0299156474342
+144 prey: 218.8296015899462 ;  50 predator: 72.1668201330001
+animals died: [1, 0, 2, 1, 0]
+animals born: [4, 0]
+194 animals with average maxFood:  181.97584692384032
+145 prey: 219.07843927850436 ;  49 predator: 72.18246138452872
+animals died: [2, 0, 7, 0, 0]
+animals born: [6, 0]
+191 animals with average maxFood:  181.7510563694291
+142 prey: 219.55993773745823 ;  49 predator: 72.18246138452872
+animals died: [1, 2, 1, 1, 0]
+animals born: [2, 0]
+188 animals with average maxFood:  181.92962124244258
+140 prey: 219.56447798204053 ;  48 predator: 72.16128908528223
+animals died: [2, 0, 3, 0, 0]
+animals born: [5, 3]
+191 animals with average maxFood:  180.35020064863042
+140 prey: 219.8227094319558 ;  51 predator: 71.99429418460014
+animals died: [1, 1, 3, 0, 0]
+animals born: [2, 1]
+189 animals with average maxFood:  179.4117856123392
+137 prey: 220.21431028143573 ;  52 predator: 71.91282638798882
+animals died: [0, 0, 4, 0, 0]
+animals born: [4, 2]
+191 animals with average maxFood:  178.38686509734723
+137 prey: 220.4085114705565 ;  54 predator: 71.77639189124231
+animals died: [1, 4, 1, 2, 0]
+animals born: [3, 4]
+190 animals with average maxFood:  176.7412532218948
+134 prey: 220.6879050445144 ;  56 predator: 71.58319350348368
+animals died: [0, 2, 1, 1, 0]
+animals born: [5, 0]
+191 animals with average maxFood:  177.86284094194994
+136 prey: 220.84246206885496 ;  55 predator: 71.58595960996668
+animals died: [1, 1, 5, 1, 0]
+animals born: [2, 1]
+186 animals with average maxFood:  176.6035011439898
+131 prey: 220.69582950253442 ;  55 predator: 71.58359178091081
+animals died: [5, 0, 0, 3, 0]
+animals born: [7, 0]
+185 animals with average maxFood:  178.89893087835398
+133 prey: 220.8030119196763 ;  52 predator: 71.72118513804902
+animals died: [0, 0, 4, 1, 0]
+animals born: [2, 2]
+184 animals with average maxFood:  177.81018567236953
+131 prey: 220.7163623271688 ;  53 predator: 71.75906978975249
+animals died: [2, 0, 1, 4, 0]
+animals born: [5, 0]
+182 animals with average maxFood:  180.68077933014885
+133 prey: 220.69962875115021 ;  49 predator: 72.05818804457371
+animals died: [1, 0, 4, 1, 0]
+animals born: [3, 1]
+180 animals with average maxFood:  180.11409686756514
+131 prey: 220.5710782791987 ;  49 predator: 71.95359554258567
+animals died: [0, 2, 0, 1, 0]
+animals born: [2, 1]
+180 animals with average maxFood:  180.0760796989073
+131 prey: 220.5177385609839 ;  49 predator: 71.95654274111082
+animals died: [1, 0, 5, 0, 0]
+animals born: [4, 2]
+180 animals with average maxFood:  178.5708120371163
+129 prey: 220.7425875915787 ;  51 predator: 71.90102681112315
+animals died: [0, 2, 2, 1, 0]
+animals born: [1, 0]
+176 animals with average maxFood:  178.51039613856568
+126 prey: 220.83122660748742 ;  50 predator: 71.86190335688295
+animals died: [1, 0, 1, 0, 0]
+animals born: [3, 0]
+177 animals with average maxFood:  178.77738571265442
+127 prey: 220.87009530154083 ;  50 predator: 71.86190335688295
+animals died: [2, 0, 1, 0, 0]
+animals born: [2, 1]
+177 animals with average maxFood:  177.97997329211384
+126 prey: 220.93317260946677 ;  51 predator: 71.86030439041834
+animals died: [2, 1, 1, 1, 0]
+animals born: [7, 1]
+180 animals with average maxFood:  178.8102848118733
+129 prey: 221.07474080151226 ;  51 predator: 71.90607260278642
+animals died: [1, 2, 3, 2, 0]
+animals born: [5, 0]
+177 animals with average maxFood:  180.00058809179197
+128 prey: 221.33093273372515 ;  49 predator: 72.03560617000727
+animals died: [1, 2, 2, 0, 0]
+animals born: [4, 2]
+178 animals with average maxFood:  178.8118211722452
+127 prey: 221.69284239217643 ;  51 predator: 72.02967029123998
+animals died: [0, 2, 3, 0, 0]
+animals born: [6, 3]
+182 animals with average maxFood:  177.47874616047758
+128 prey: 221.94905809631715 ;  54 predator: 72.06763638663558
+animals died: [1, 2, 2, 0, 0]
+animals born: [0, 1]
+178 animals with average maxFood:  175.67462081807125
+123 prey: 221.9808936057849 ;  55 predator: 72.1169562200934
+animals died: [0, 4, 1, 0, 0]
+animals born: [2, 1]
+176 animals with average maxFood:  174.23267548261003
+120 prey: 221.85723089256447 ;  56 predator: 72.18005674699336
+animals died: [0, 0, 1, 0, 0]
+animals born: [3, 0]
+178 animals with average maxFood:  174.71939083718487
+122 prey: 221.78662615727274 ;  56 predator: 72.18005674699336
+animals died: [2, 1, 2, 1, 0]
+animals born: [3, 2]
+177 animals with average maxFood:  173.64882824242028
+120 prey: 221.78123991401657 ;  57 predator: 72.31743524958594
+animals died: [0, 1, 5, 3, 0]
+animals born: [2, 0]
+170 animals with average maxFood:  174.25150979594076
+116 prey: 221.678207455438 ;  54 predator: 72.37193704590953
+animals died: [1, 1, 2, 0, 0]
+animals born: [4, 1]
+171 animals with average maxFood:  173.66193012497823
+116 prey: 221.67077691081315 ;  55 predator: 72.40690781303547
+animals died: [1, 0, 3, 2, 0]
+animals born: [4, 1]
+170 animals with average maxFood:  174.23940811844034
+116 prey: 221.626045148505 ;  54 predator: 72.44589153533843
+animals died: [1, 1, 2, 0, 0]
+animals born: [5, 1]
+172 animals with average maxFood:  173.90010045097543
+117 prey: 221.58261908627162 ;  55 predator: 72.46637899043623
+animals died: [1, 0, 0, 0, 0]
+animals born: [2, 0]
+173 animals with average maxFood:  174.14775050349104
+118 prey: 221.5416101070335 ;  55 predator: 72.46637899043623
+animals died: [2, 2, 4, 1, 0]
+animals born: [6, 0]
+170 animals with average maxFood:  174.01654533857717
+116 prey: 221.38623658915176 ;  54 predator: 72.25943080030578
+animals died: [0, 1, 1, 1, 0]
+animals born: [3, 1]
+171 animals with average maxFood:  174.38088269620926
+117 prey: 221.49678768724445 ;  54 predator: 72.29642188229965
+animals died: [0, 1, 4, 3, 0]
+animals born: [1, 1]
+165 animals with average maxFood:  174.40274879951423
+113 prey: 221.34623968232168 ;  52 predator: 72.39093207341342
+animals died: [3, 2, 0, 1, 0]
+animals born: [3, 1]
+163 animals with average maxFood:  173.87208809408813
+111 prey: 221.39616002130433 ;  52 predator: 72.42647301868432
+animals died: [1, 1, 2, 1, 1]
+animals born: [2, 0]
+159 animals with average maxFood:  174.5803133306917
+109 prey: 221.3895034760499 ;  50 predator: 72.53627881381082
+animals died: [2, 0, 3, 1, 0]
+animals born: [5, 2]
+160 animals with average maxFood:  173.92533210325666
+109 prey: 221.32264999608316 ;  51 predator: 72.62518209701975
+animals died: [0, 0, 0, 1, 0]
+animals born: [4, 3]
+166 animals with average maxFood:  173.87764934485622
+113 prey: 221.36250910871814 ;  53 predator: 72.63634456530163
+animals died: [1, 0, 5, 1, 1]
+animals born: [5, 0]
+163 animals with average maxFood:  174.87575049286437
+112 prey: 221.433383651108 ;  51 predator: 72.63153649829026
+animals died: [1, 1, 0, 1, 2]
+animals born: [2, 0]
+160 animals with average maxFood:  176.78931680678693
+112 prey: 221.42448168873167 ;  48 predator: 72.6405987489159
+animals died: [0, 2, 1, 1, 0]
+animals born: [3, 0]
+159 animals with average maxFood:  177.43085970014153
+112 prey: 221.38993338074243 ;  47 predator: 72.67732241870955
+animals died: [2, 0, 3, 1, 0]
+animals born: [7, 1]
+161 animals with average maxFood:  177.97639368221328
+114 prey: 221.39021140585484 ;  47 predator: 72.67479324614662
+animals died: [1, 1, 0, 2, 0]
+animals born: [4, 1]
+162 animals with average maxFood:  179.19852912817606
+116 prey: 221.40628432607414 ;  46 predator: 72.76158123782434
+animals died: [0, 1, 4, 0, 0]
+animals born: [2, 0]
+159 animals with average maxFood:  178.28857714655925
+113 prey: 221.24646928639822 ;  46 predator: 72.76158123782434
+animals died: [0, 1, 0, 0, 0]
+animals born: [1, 0]
+159 animals with average maxFood:  178.29050366212414
+113 prey: 221.24918004723733 ;  46 predator: 72.76158123782434
+animals died: [1, 1, 1, 0, 0]
+animals born: [4, 0]
+160 animals with average maxFood:  178.48028347870004
+114 prey: 221.13870718993059 ;  46 predator: 72.76158123782434
+animals died: [2, 1, 2, 0, 0]
+animals born: [3, 0]
+158 animals with average maxFood:  178.06403059432137
+112 prey: 221.31325086573978 ;  46 predator: 72.76158123782434
+animals died: [0, 3, 2, 2, 0]
+animals born: [3, 0]
+154 animals with average maxFood:  178.82971503553927
+110 prey: 221.23808725657423 ;  44 predator: 72.80878448295185
+animals died: [1, 1, 2, 0, 0]
+animals born: [4, 2]
+156 animals with average maxFood:  177.49794572699844
+110 prey: 221.24004240763733 ;  46 predator: 72.89727975155758
+animals died: [1, 1, 2, 1, 0]
+animals born: [3, 0]
+154 animals with average maxFood:  177.99098173242876
+109 prey: 221.40343511815766 ;  45 predator: 72.83637242032988
+animals died: [0, 1, 0, 0, 0]
+animals born: [3, 1]
+157 animals with average maxFood:  177.92562153210227
+111 prey: 221.46546775628363 ;  46 predator: 72.86207955636027
+animals died: [1, 3, 2, 1, 0]
+animals born: [5, 1]
+156 animals with average maxFood:  177.85709420828357
+110 prey: 221.73630570667748 ;  46 predator: 72.92854497299372
+animals died: [0, 1, 4, 0, 0]
+animals born: [4, 2]
+157 animals with average maxFood:  176.3774771299658
+109 prey: 221.89715298732318 ;  48 predator: 73.00987987054994
+animals died: [0, 3, 1, 5, 0]
+animals born: [4, 0]
+152 animals with average maxFood:  180.18353255168321
+109 prey: 222.4650728258632 ;  43 predator: 73.00474441480821
+animals died: [0, 1, 1, 1, 0]
+animals born: [2, 0]
+151 animals with average maxFood:  181.0337327142018
+109 prey: 222.61433642676383 ;  42 predator: 73.12216593636201
+animals died: [0, 2, 1, 1, 0]
+animals born: [1, 1]
+149 animals with average maxFood:  180.56766887984483
+107 prey: 222.7197208598217 ;  42 predator: 73.18029835942737
+animals died: [1, 2, 2, 2, 0]
+animals born: [6, 0]
+148 animals with average maxFood:  182.6125453297273
+108 prey: 223.1784733349512 ;  40 predator: 73.08453971562255
+animals died: [0, 1, 1, 2, 0]
+animals born: [2, 1]
+147 animals with average maxFood:  183.46176464061938
+108 prey: 223.3068423920225 ;  39 predator: 73.12154932904137
+animals died: [0, 0, 2, 2, 0]
+animals born: [3, 0]
+146 animals with average maxFood:  185.39808891226545
+109 prey: 223.52544969015676 ;  37 predator: 73.07694499901793
+animals died: [0, 0, 0, 0, 0]
+animals born: [5, 0]
+151 animals with average maxFood:  186.73283158118008
+114 prey: 223.62114564732036 ;  37 predator: 73.07694499901793
+animals died: [0, 1, 2, 1, 1]
+animals born: [0, 0]
+146 animals with average maxFood:  187.61686047250694
+111 prey: 223.68439580041027 ;  35 predator: 73.23124843258486
+animals died: [1, 1, 1, 2, 0]
+animals born: [5, 0]
+146 animals with average maxFood:  189.79496089980705
+113 prey: 223.79929121115634 ;  33 predator: 73.35589043973205
+animals died: [0, 0, 1, 0, 0]
+animals born: [5, 0]
+150 animals with average maxFood:  190.63608658432696
+117 prey: 223.71511626613574 ;  33 predator: 73.35589043973205
+animals died: [0, 0, 2, 0, 1]
+animals born: [4, 1]
+152 animals with average maxFood:  190.9593957038122
+119 prey: 223.50701406420976 ;  33 predator: 73.59071131328739
+animals died: [1, 2, 1, 2, 0]
+animals born: [3, 1]
+150 animals with average maxFood:  191.5676643999339
+118 prey: 223.52592680000598 ;  32 predator: 73.72157179966801
+animals died: [1, 1, 1, 0, 0]
+animals born: [1, 2]
+150 animals with average maxFood:  189.60588173385938
+116 prey: 223.52631913320155 ;  34 predator: 73.87733060669177
+animals died: [1, 1, 4, 2, 0]
+animals born: [4, 0]
+146 animals with average maxFood:  190.44965051852662
+114 prey: 223.24804845192978 ;  32 predator: 73.60535788077783
+animals died: [1, 0, 0, 0, 0]
+animals born: [5, 1]
+151 animals with average maxFood:  190.36057541420413
+118 prey: 222.99336366973077 ;  33 predator: 73.67363559141194
+animals died: [2, 1, 2, 0, 0]
+animals born: [3, 0]
+149 animals with average maxFood:  189.64892612482305
+116 prey: 222.64189670760376 ;  33 predator: 73.67363559141194
+animals died: [2, 1, 1, 1, 0]
+animals born: [3, 1]
+148 animals with average maxFood:  189.2429981441771
+115 prey: 222.38147477443778 ;  33 predator: 73.7604280690263
+animals died: [1, 2, 2, 1, 0]
+animals born: [3, 1]
+146 animals with average maxFood:  188.57342617921572
+113 prey: 222.11375765503408 ;  33 predator: 73.7232002165649
+animals died: [0, 0, 1, 1, 0]
+animals born: [2, 0]
+146 animals with average maxFood:  189.50197987966243
+114 prey: 222.0341492134539 ;  32 predator: 73.60612662803027
+animals died: [3, 2, 2, 0, 0]
+animals born: [7, 0]
+146 animals with average maxFood:  189.01384505845203
+114 prey: 221.40899409155287 ;  32 predator: 73.60612662803027
+animals died: [0, 1, 2, 0, 0]
+animals born: [1, 1]
+145 animals with average maxFood:  187.69228407549903
+112 prey: 221.2888757573574 ;  33 predator: 73.66748806434327
+animals died: [0, 2, 0, 1, 0]
+animals born: [4, 1]
+147 animals with average maxFood:  187.81480072926658
+114 prey: 220.8511539559435 ;  33 predator: 73.68921685529185
+animals died: [1, 2, 2, 0, 0]
+animals born: [3, 0]
+145 animals with average maxFood:  187.07814463992523
+112 prey: 220.4873822907547 ;  33 predator: 73.68921685529185
+animals died: [0, 0, 0, 1, 0]
+animals born: [1, 0]
+145 animals with average maxFood:  188.0287060169294
+113 prey: 220.39505815473356 ;  32 predator: 73.73502503030842
+animals died: [3, 4, 1, 0, 0]
+animals born: [4, 0]
+141 animals with average maxFood:  186.74456421177132
+109 prey: 219.9216766320173 ;  32 predator: 73.73502503030842
+animals died: [1, 2, 3, 0, 0]
+animals born: [2, 1]
+138 animals with average maxFood:  184.6891145332507
+105 prey: 219.54451073436127 ;  33 predator: 73.78558116608072
+animals died: [0, 0, 0, 0, 0]
+animals born: [5, 1]
+144 animals with average maxFood:  184.83767459568838
+110 prey: 219.1475666608091 ;  34 predator: 73.83508262029788
+animals died: [0, 1, 3, 0, 1]
+animals born: [3, 2]
+144 animals with average maxFood:  183.58492277055507
+109 prey: 218.7919864275822 ;  35 predator: 73.94006738152768
+animals died: [4, 3, 1, 2, 0]
+animals born: [2, 0]
+136 animals with average maxFood:  183.48849729249332
+103 prey: 218.54242916708895 ;  33 predator: 74.0777402293615
+animals died: [0, 1, 3, 0, 0]
+animals born: [5, 1]
+138 animals with average maxFood:  182.554170151774
+104 prey: 217.9979476105315 ;  34 predator: 74.13790968969228
+animals died: [0, 2, 1, 1, 0]
+animals born: [2, 0]
+136 animals with average maxFood:  182.86290953124976
+103 prey: 217.64344930690544 ;  33 predator: 74.30546720117295
+animals died: [1, 0, 0, 1, 0]
+animals born: [4, 1]
+139 animals with average maxFood:  183.27903211334115
+106 prey: 217.1980842365236 ;  33 predator: 74.32692529342175
+animals died: [0, 2, 3, 0, 0]
+animals born: [6, 0]
+140 animals with average maxFood:  182.91335633704955
+107 prey: 216.4026294626544 ;  33 predator: 74.32692529342175
+animals died: [0, 2, 1, 1, 0]
+animals born: [1, 0]
+137 animals with average maxFood:  183.00445439834374
+105 prey: 216.13393342860778 ;  32 predator: 74.29835133028992
+animals died: [1, 1, 1, 1, 1]
+animals born: [1, 1]
+134 animals with average maxFood:  183.17829812042822
+103 prey: 215.92530228724704 ;  31 predator: 74.37373588873996
+animals died: [0, 0, 2, 1, 1]
+animals born: [1, 0]
+131 animals with average maxFood:  184.55435208843403
+102 prey: 215.90941392297586 ;  29 predator: 74.27103115314898
+animals died: [1, 1, 1, 0, 0]
+animals born: [4, 1]
+133 animals with average maxFood:  183.56217352226173
+103 prey: 215.37952181240738 ;  30 predator: 74.32261105942824
+animals died: [0, 2, 1, 0, 0]
+animals born: [1, 0]
+131 animals with average maxFood:  182.89061137389297
+101 prey: 215.13853225937754 ;  30 predator: 74.32261105942824
+animals died: [1, 0, 1, 1, 0]
+animals born: [1, 1]
+130 animals with average maxFood:  182.26054641787385
+100 prey: 214.73166542391672 ;  30 predator: 74.0234830643977
+animals died: [1, 2, 2, 0, 0]
+animals born: [4, 0]
+129 animals with average maxFood:  181.66706918349075
+99 prey: 214.28633770442806 ;  30 predator: 74.0234830643977
+animals died: [0, 1, 1, 0, 0]
+animals born: [3, 1]
+131 animals with average maxFood:  180.66894072696562
+100 prey: 213.73880745477445 ;  31 predator: 73.9919512824211
+animals died: [1, 1, 0, 1, 0]
+animals born: [6, 1]
+135 animals with average maxFood:  180.9016644659165
+104 prey: 212.73571527299313 ;  31 predator: 74.10355853249811
+animals died: [0, 1, 2, 0, 0]
+animals born: [3, 1]
+136 animals with average maxFood:  179.87473748976794
+104 prey: 212.44224688506418 ;  32 predator: 74.0303319550552
+animals died: [2, 0, 1, 0, 0]
+animals born: [1, 1]
+135 animals with average maxFood:  178.6089296071335
+102 prey: 212.46892339628752 ;  33 predator: 73.95076698611193
+animals died: [0, 0, 1, 2, 0]
+animals born: [2, 0]
+134 animals with average maxFood:  180.19099407566026
+103 prey: 212.15386672543488 ;  31 predator: 73.99177204576382
+animals died: [1, 1, 2, 1, 0]
+animals born: [2, 0]
+131 animals with average maxFood:  180.10879799056332
+101 prey: 211.6193425858241 ;  30 predator: 74.02329785318517
+animals died: [1, 1, 1, 1, 0]
+animals born: [4, 1]
+132 animals with average maxFood:  179.62095079951558
+102 prey: 210.69173580311195 ;  30 predator: 73.98028178728775
+animals died: [0, 0, 1, 1, 0]
+animals born: [2, 0]
+132 animals with average maxFood:  180.3201042550253
+103 prey: 210.2317138364959 ;  29 predator: 74.08231850014683
+animals died: [0, 1, 2, 1, 0]
+animals born: [1, 0]
+129 animals with average maxFood:  180.5007922830139
+101 prey: 210.01263850276624 ;  28 predator: 74.04734699033577
+animals died: [0, 0, 0, 0, 0]
+animals born: [3, 0]
+132 animals with average maxFood:  180.788682813665
+104 prey: 209.52673476609974 ;  28 predator: 74.04734699033577
+animals died: [1, 0, 2, 0, 0]
+animals born: [4, 0]
+133 animals with average maxFood:  180.5767199318142
+105 prey: 208.9845527162084 ;  28 predator: 74.04734699033577
+animals died: [0, 0, 0, 1, 0]
+animals born: [4, 1]
+137 animals with average maxFood:  180.98937902567982
+109 prey: 208.455865663261 ;  28 predator: 74.06627032938151
+animals died: [1, 1, 1, 0, 0]
+animals born: [1, 1]
+136 animals with average maxFood:  179.56670501896028
+107 prey: 208.18654523441583 ;  29 predator: 73.96936353434828
+animals died: [1, 1, 2, 0, 0]
+animals born: [1, 0]
+133 animals with average maxFood:  178.75117195798686
+104 prey: 207.96917622996293 ;  29 predator: 73.96936353434828
+animals died: [2, 3, 2, 1, 0]
+animals born: [1, 1]
+127 animals with average maxFood:  177.09363078289445
+98 prey: 207.62021140920385 ;  29 predator: 73.93484108019345
+animals died: [2, 2, 2, 2, 0]
+animals born: [3, 1]
+123 animals with average maxFood:  176.96492714643807
+95 prey: 207.40224814644145 ;  28 predator: 73.69544518214079
+animals died: [1, 1, 0, 1, 0]
+animals born: [4, 0]
+124 animals with average maxFood:  178.08119181995175
+97 prey: 207.12350812316544 ;  27 predator: 73.74398139729509
+animals died: [1, 1, 1, 1, 0]
+animals born: [4, 0]
+124 animals with average maxFood:  178.8090643190192
+98 prey: 206.69360241045158 ;  26 predator: 73.70580535900481
+animals died: [0, 1, 1, 1, 0]
+animals born: [0, 1]
+122 animals with average maxFood:  178.0428537756174
+96 prey: 206.33007322326088 ;  26 predator: 73.59773581508767
+animals died: [0, 0, 2, 0, 0]
+animals born: [4, 0]
+124 animals with average maxFood:  178.07201745329638
+98 prey: 205.78968401037216 ;  26 predator: 73.59773581508767
+animals died: [1, 1, 0, 0, 0]
+animals born: [1, 0]
+123 animals with average maxFood:  177.82652123503192
+97 prey: 205.76413382182108 ;  26 predator: 73.59773581508767
+animals died: [0, 0, 1, 1, 0]
+animals born: [4, 0]
+125 animals with average maxFood:  179.09835049957508
+100 prey: 205.4635350952653 ;  25 predator: 73.6376121168141
+animals died: [1, 0, 1, 1, 0]
+animals born: [2, 0]
+124 animals with average maxFood:  180.0109316080749
+100 prey: 205.52945782316917 ;  24 predator: 73.68373904518208

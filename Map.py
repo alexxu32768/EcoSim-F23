@@ -461,7 +461,7 @@ class Map:
         plt.legend(loc="upper left")
         plt.title("Average Max Food")
         plt.xlabel("Time")
-        plt.ylabel("Population")
+        plt.ylabel("Average Max Food")
         
         # PREY CAUSE OF DEATH
         plt.subplot(2, 2, 2)
@@ -471,7 +471,7 @@ class Map:
         plt.legend(loc="upper left")
         plt.title("Prey Causes of Death")
         plt.xlabel("Time")
-        plt.ylabel("Population")
+        plt.ylabel("Amount")
 
         # PREDATOR CAUSE OF DEATH
         plt.subplot(2, 2, 4)
@@ -480,7 +480,7 @@ class Map:
         plt.legend(loc="upper left")
         plt.title("Predator Causes of Death")
         plt.xlabel("Time")
-        plt.ylabel("Population")
+        plt.ylabel("Amount")
 
         plt.subplots_adjust(wspace=0.2,hspace=0.4)
         plt.show()
